@@ -1,0 +1,129 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN">
+  <siteinfo>
+    <sitename>恶俗百科</sitename>
+    <dbname>my_wiki</dbname>
+    <base>http://localhost:8080/index.php?title=%E9%A6%96%E9%A1%B5</base>
+    <generator>MediaWiki 1.39.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">媒体文件</namespace>
+      <namespace key="-1" case="first-letter">特殊</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">讨论</namespace>
+      <namespace key="2" case="first-letter">用户</namespace>
+      <namespace key="3" case="first-letter">用户讨论</namespace>
+      <namespace key="4" case="first-letter">恶俗百科</namespace>
+      <namespace key="5" case="first-letter">恶俗百科讨论</namespace>
+      <namespace key="6" case="first-letter">文件</namespace>
+      <namespace key="7" case="first-letter">文件讨论</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki讨论</namespace>
+      <namespace key="10" case="first-letter">模板</namespace>
+      <namespace key="11" case="first-letter">模板讨论</namespace>
+      <namespace key="12" case="first-letter">帮助</namespace>
+      <namespace key="13" case="first-letter">帮助讨论</namespace>
+      <namespace key="14" case="first-letter">分类</namespace>
+      <namespace key="15" case="first-letter">分类讨论</namespace>
+      <namespace key="828" case="first-letter">模块</namespace>
+      <namespace key="829" case="first-letter">模块讨论</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>用户讨论:Gundaz aghayev</title>
+    <ns>3</ns>
+    <id>146</id>
+    <revision>
+      <id>1523</id>
+      <timestamp>2020-08-09T16:19:26Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 留个联系方式 */ 新章节</comment>
+      <origin>1523</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="183" sha1="fvy486v9f3p73x7emx4298csymilnmm" xml:space="preserve">== 留个联系方式 ==
+
+请问您方便使用tg号跟我联系吗？ [[用户:莉夏大师|莉夏大师]]（[[用户讨论:莉夏大师|讨论]]） 2020年8月9日 (日) 16:19 (UTC)</text>
+      <sha1>fvy486v9f3p73x7emx4298csymilnmm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>用户讨论:新闻杀人犯记录</title>
+    <ns>3</ns>
+    <id>147</id>
+    <revision>
+      <id>1524</id>
+      <timestamp>2020-08-11T16:26:21Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“您上传的一些条目与本站的方针并不相符，因此不予过审，本人建议您在分站{{color|blue|https://esutest.miraheze.org/ }}上传此类条目…”</comment>
+      <origin>1524</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="287" sha1="bla4h7gv1bnfy7ubi41fvk804wf4z53" xml:space="preserve">您上传的一些条目与本站的方针并不相符，因此不予过审，本人建议您在分站{{color|blue|https://esutest.miraheze.org/ }}上传此类条目。——[[用户:莉夏大师|莉夏大师]]（[[用户讨论:莉夏大师|讨论]]） 2020年8月11日 (二) 16:26 (UTC)</text>
+      <sha1>bla4h7gv1bnfy7ubi41fvk804wf4z53</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>用户讨论:莉夏大师</title>
+    <ns>3</ns>
+    <id>148</id>
+    <revision>
+      <id>1525</id>
+      <timestamp>2020-08-02T10:34:09Z</timestamp>
+      <contributor>
+        <username>imported&gt;额好</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建空白页面</comment>
+      <origin>1525</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>用户讨论:额好</title>
+    <ns>3</ns>
+    <id>149</id>
+    <revision>
+      <id>1526</id>
+      <timestamp>2020-07-31T05:45:49Z</timestamp>
+      <contributor>
+        <username>imported&gt;额好</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“额好”</comment>
+      <origin>1526</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6" sha1="1cedxcel1n0cnuhrs5knt99px0wngva" xml:space="preserve">额好</text>
+      <sha1>1cedxcel1n0cnuhrs5knt99px0wngva</sha1>
+    </revision>
+    <revision>
+      <id>1527</id>
+      <parentid>1526</parentid>
+      <timestamp>2020-07-31T12:01:28Z</timestamp>
+      <contributor>
+        <username>imported&gt;额好</username>
+        <id>0</id>
+      </contributor>
+      <origin>1527</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="i7eu10405ccrutzuwvum0emvlx9dkml" xml:space="preserve">额好
+==评论==
+&lt;comments /&gt;</text>
+      <sha1>i7eu10405ccrutzuwvum0emvlx9dkml</sha1>
+    </revision>
+  </page>
+</mediawiki>

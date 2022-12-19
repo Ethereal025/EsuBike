@@ -1,0 +1,4412 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN">
+  <siteinfo>
+    <sitename>恶俗百科</sitename>
+    <dbname>my_wiki</dbname>
+    <base>http://localhost:8080/index.php?title=%E9%A6%96%E9%A1%B5</base>
+    <generator>MediaWiki 1.39.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">媒体文件</namespace>
+      <namespace key="-1" case="first-letter">特殊</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">讨论</namespace>
+      <namespace key="2" case="first-letter">用户</namespace>
+      <namespace key="3" case="first-letter">用户讨论</namespace>
+      <namespace key="4" case="first-letter">恶俗百科</namespace>
+      <namespace key="5" case="first-letter">恶俗百科讨论</namespace>
+      <namespace key="6" case="first-letter">文件</namespace>
+      <namespace key="7" case="first-letter">文件讨论</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki讨论</namespace>
+      <namespace key="10" case="first-letter">模板</namespace>
+      <namespace key="11" case="first-letter">模板讨论</namespace>
+      <namespace key="12" case="first-letter">帮助</namespace>
+      <namespace key="13" case="first-letter">帮助讨论</namespace>
+      <namespace key="14" case="first-letter">分类</namespace>
+      <namespace key="15" case="first-letter">分类讨论</namespace>
+      <namespace key="828" case="first-letter">模块</namespace>
+      <namespace key="829" case="first-letter">模块讨论</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>帮助:格式标准</title>
+    <ns>12</ns>
+    <id>611</id>
+    <revision>
+      <id>2139</id>
+      <timestamp>2020-07-04T03:42:18Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 文档管理模板 */</comment>
+      <origin>2139</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19937" sha1="du7ahyw9ir93feiavzawl0a8zt6fuu5" xml:space="preserve">该站编辑拥有严格的制度标准&lt;br&gt;
+左侧导航栏内分类需按照传送门模块进行排版&lt;br&gt;
+一个传送门模块代表创建一个总分类&lt;br&gt;
+中间的称号和人物名代表创建分类下的子类&lt;br&gt;
+所有导航栏内内容需按照本页要求进行编排&lt;br&gt;
+除主页外词条请任意编辑&lt;br&gt;
+创建词条不限格式，请随意创作，具体格式可参考
+*[{{SERVER}}/index.php?title=%E5%B0%A4%E5%B0%8F%E9%BE%99&amp;action=edit  尤小龙条目代码]
+==文档管理模板==
+在需要的页面上，可以加入合适的文档管理模板。文档管理模板应该在源代码的最上方列举。
+
+在页面顶端的文档管理模板，应自上至下，按以下颜色顺序摆放：
+
+'''{{color|blue|蓝色}}、{{color|yellow|黄色}}、{{color|orange|橙色}}、{{color|red|红色}}、其他颜色'''
+
+===精品===
+曾经被首页推送为特色条目的，应当由'''管理员'''（一般用户可以向管理员申请）追加“精品”模板。代码为&lt;nowiki&gt;{{精品}}&lt;/nowiki&gt;。效果如下：
+{{精品}}
+
+===当前事件===
+所讨论的内容包含仍在持续变化的当前事件的，应当追加“当前事件”模板，并包括模板追加时的时间以便验证。事件结束后超过15天的，可以移除模板。代码为&lt;nowiki&gt;{{当前事件}}&lt;/nowiki&gt;。效果如下：
+{{当前事件}}
+
+===保持中立===
+所编辑的页面中涉及的人士难以评定其立场的，应当追加“保持中立”模板，并在编辑该条目时去除自己的主观看法。代码为&lt;nowiki&gt;{{保持中立}}&lt;/nowiki&gt;。效果如下：&lt;br&gt;
+{{保持中立}}
+
+===小作品===
+长度过短，内容较少的，应当追加“小作品”模板。代码为&lt;nowiki&gt;{{小作品|（物品）}}。&lt;/nowiki&gt;效果如下：
+{{小作品|（物品）}}
+
+===请求出道===
+缺少条目涉及人士有关个人信息，并且的确需要其个人信息的，应当追加“请求出道”模板。另外，本站不推荐投稿信息甚少的人物。代码为&lt;nowiki&gt;{{请求出道}}&lt;/nowiki&gt;。效果如下：
+{{请求出道}}
+
+===缺乏格式===
+格式糟糕的，应当追加“缺乏格式”模板。代码为&lt;nowiki&gt;{{缺乏格式}}&lt;/nowiki&gt;。
+&lt;br&gt;
+{{缺乏格式}}
+
+===删除===
+&lt;nowiki&gt;认为条目应当删除的，应当由管理员(一般用户可以发起存废讨论),追加“删除”模板。代码为{{Deletion}}。如果有额外原因，代码为{{Deletion|原因}}。恶俗百科鼓励书写额外原因。效果分别如下:&lt;/nowiki&gt;&lt;br&gt;
+{{Deletion}}&lt;br&gt;
+常见的删除理由包括但不仅限于：
+* 空白条目
+* 条目内容无意义
+* 条目内容充满谬误
+* 条目主题与本站无关
+* 条目不具有足够的知名度
+* 自我炒作
+
+====快速删除====
+&lt;small&gt;主页面：[[帮助:快速删除]]&lt;/small&gt;
+
+===令人不适===
+&lt;nowiki&gt;令人感觉不适甚至会心肺停止的页面，应当追加“令人不适”模板。代码为{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}。效果如下:&lt;br&gt;&lt;/nowiki&gt;
+{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}
+&lt;br&gt;
+常见令人不适的原因包括但不限于： 
+* 频繁/强烈的语言暴力
+* 大量有关心理压力题材
+* 偶尔/轻微的成人/性暗示题材
+* 频繁/强烈的色情内容或裸露
+* 极度令人恶心的内容
+* 与社会主义核心价值观格格不入
+
+===注意备份===
+如果该页面人物擅长自我削除言行，应当追加“注意备份”模板。代码为&lt;nowiki&gt;{{注意备份}}&lt;/nowiki&gt;。效果如下：
+{{注意备份}}
+
+===禁止炒作===
+所编辑的页面中涉及的人士试图利用恶俗百科进行大量自我炒作赚取流量的，应当追加“禁止炒作”模板，代码为&lt;nowiki&gt;{{禁止炒作}}。效果如下：&lt;/nowiki&gt;
+{{禁止炒作}}
+{{color|red|注意}}:本模板只应用在这个人明确'''知道本站的存在，并希望借助本站炒作自己的条目'''的情况下。''这个最容易用错，并不是一般的炒作人都能加上''
+
+===谨慎行动===
+&lt;nowiki&gt;谨慎行动：{{谨慎行动|（人物能力）}}&lt;/nowiki&gt;
+{{谨慎行动|（人物能力）}}
+
+===极度危险===
+&lt;nowiki&gt;极度危险：{{极度危险|（人物能力）}}&lt;/nowiki&gt;
+{{极度危险|（人物能力）}}
+
+===正在服刑===
+&lt;nowiki&gt;正在服刑：{{正在服刑}}&lt;/nowiki&gt;
+{{正在服刑}}
+
+===曾经入狱===
+所编辑页面中涉及的人物如果因为某些原因入狱或者被刑拘，进局子，应当追加“曾经入狱”模板，代码为&lt;nowiki&gt;{{曾经入狱|（某种原因）}}&lt;/nowiki&gt;
+{{曾经入狱|（某种原因）}}
+
+===终止迫害===
+若由于某些原因，一些人不应当被继续迫害，应当追加“终止迫害”模板。代码&lt;nowiki&gt;终止迫害：{{终止迫害}}&lt;/nowiki&gt;
+{{终止迫害}}。效果如下：
+
+===迫害加速===
+若由于某些原因，一些人应当被加速迫害，且'''在人物信息栏中硬度为∞（7）、属于当前事件'''的可以追加“迫害加速”模板。代码为&lt;nowiki&gt;{{迫害加速|* 资料整理
+}}&lt;/nowiki&gt;。效果如下：
+{{迫害加速|* 资料整理}}
+常见迫害方法包括但不限于：
+*资料整理
+*电话互动
+*线上互动
+*素材开发
+*高雅创作
+*言行存档
+*义务教育
+*真人快打
+注意：
+*若此人确实诚恳道歉，并回归虚无达到一定时间，该模板应被移除。
+*此模板只有管理员才能添加，高雅人士的力量应该集中用于橄榄几个罪大恶极的人。
+
+===No mercy===
+&lt;nowiki&gt;无仁慈模式：{{Nomercy}}&lt;/nowiki&gt;
+{{Nomercy}}
+一旦添加此模板则代表着此人物将永远保留在恶俗百科，{{color|red|该模板只能由管理员添加，私自添加将获得封禁套餐}}
+
+===恶俗之最===
+&lt;nowiki&gt;恶俗之最：{{恶俗之最|（称号）|（理由）}}&lt;/nowiki&gt;
+{{恶俗之最|（称号）|（理由）}}
+
+===用语解释===
+如果当前页面是一个概念或专有名词解释页面，则应当添加&lt;nowiki&gt;{{用语解释}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{用语解释}}
+
+===御驾亲征===
+&lt;nowiki&gt;御驾亲征：{{御驾亲征}}&lt;/nowiki&gt;
+{{御驾亲征}}
+
+===暂无词条===
+&lt;nowiki&gt;暂无词条：{{暂无词条}}&lt;/nowiki&gt;
+{{暂无词条}}
+
+===消歧义===
+&lt;nowiki&gt;消歧义：{{消歧义}}&lt;/nowiki&gt;
+{{消歧义}}
+
+===过时===
+&lt;nowiki&gt;过时：{{过时}}&lt;/nowiki&gt;
+{{过时}}
+
+===搬运工===
+&lt;nowiki&gt;搬运工：{{搬运工|（出处）}}&lt;/nowiki&gt;
+{{搬运工|（出处）}}
+
+===站点===
+如果该页面描述的是一个网站，则应当添加&lt;nowiki&gt;{{网站}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{网站}}
+
+===未完待续===
+&lt;nowiki&gt;未完待续：{{未完待续}}&lt;/nowiki&gt;
+{{未完待续}}
+
+===大脑升级===
+&lt;nowiki&gt;大脑升级：{{大脑升级}}&lt;/nowiki&gt;
+{{大脑升级}}
+
+===死亡===
+所编辑页面中涉及人物已经死亡，则应当追加“死人”模板，代码为&lt;nowiki&gt;{{Dead}}&lt;/nowiki&gt;。例如：
+&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:death.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''饶文建'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]
+*此模板仅适用于两种情况：物理死亡和自称死亡。
+*此模板应该放置于所有AmBox类模板下方。
+
+===自定义模板===
+自定义模板：&lt;br&gt;
+&lt;nowiki&gt;{{信息框&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|border=左侧边条颜色（如green）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|image=图片（直接填写文件名，例：野兽先辈.jpg）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|type=标题&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|info=内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;}}&lt;/nowiki&gt;
+{{信息框
+|border=green
+|image=提示.jpg
+|type=（标题）
+|info=（内容）
+}}
+
+==信息卡模板==
+信息卡模板隔一个空行，放置在文档管理模板下方。如没有文档管理模板，请放置在条目顶部。针对人物，应当使用人物信息模板；对组织，使用组织信息模板模板。
+===人物信息模板===
+{{信息板
+|titlename=（标题姓名）
+|photo=NOBODY.jpg
+|photocap=（图片文字）
+|name=（姓名）
+|id=（常用id）
+|class=（职业）
+|ability=（能力）
+|hardness=1
+|IQ=（智商）
+|online=5
+|affinity=（所属）
+}}
+人物信息：&lt;br&gt;
+&lt;nowiki&gt;{{信息板&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|titlename=标题姓名&lt;/nowiki&gt;（此参数通常无需填写，仅在name参数未填写或填写了多个姓名时填写）&lt;br&gt;
+&lt;nowiki&gt;|photo=图片&lt;/nowiki&gt;（直接填写文件名，例：a.jpg）&lt;br&gt;
+&lt;nowiki&gt;|photocap=图片文字&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|name=姓名&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|id=常用id&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|class=职业&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|ability=能力&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|best=必杀技&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|hardness=硬度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|dangerous=(危险度)&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|IQ=智商&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|online=活跃度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|affinity=所属&lt;/nowiki&gt;&lt;br&gt;
+}}'''''（如信息未知应删除参数，至少填写一项）'''''
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+==正文==
+===正文规范===
+所有正文段落之间应且只应空一行。正文段落采用齐头式，不必缩进两格。正文标点符号应规范使用全角中文标点符号&lt;br&gt;
+请注意事件时间线的准确性，日期格式应为XXXX年X月X日，避免使用“最近”、“今年”、“本月”等词语。在指代不需要实名的事件关系人时，应该尽量体现其身份，如“朋友”、“一般通过人士”、“高雅人士”等，避免使用“有人”、“某些人”、“很多人”等词语。 &lt;br&gt;
+恶俗百科目前100%的条目都是使用大陆简体编写，因此对于新更改也必须使用大陆简体&lt;br&gt;
+在货币及计量单位上，必须采用页面涉及人物所在国家或地区的货币和计量单位。绝大多数页面涉及人物都居住在中国大陆，因此应采用RMB和公制单位，除非是带有捏他性质并且在本站载有换算关系的单位，如“贝天”、“恒”等。 &lt;br&gt;
+请避免“假大空”的措辞，不要言之无物或举伪证。除了文游和捏他的部分以外，请尽量采用浅显易懂的叙事风格与可信度高的佐证，以一般通过人士能够了解大致经过为宜，特别是在涉及圈外人物或公众人物的情况下。 &lt;br&gt;
+'''糟糕的例子：用户在其主笔的页面内试图批判某人为“死妈废物”，指责其“打滚”、“萎勃”、“放黑屁”云云，然而通篇下来并未提及任何具体事迹或摘选任何具体语录，显然一般通过人士是难以理解此类废文的。'''
+===重新导向页面===
+某些条目可能已经被移动或因为特殊原因而不显示其元条目名。为了使访问者能够正常无虞地访问存取目标条目，故需要对错误的或已经废止使用之条目进行重新导向操作，直至流量全无为限。 &lt;br&gt;
+一般地，在移动条目时会自动在移动前条目留下一个重新导向页面。但在某些特殊情况发生时，您可能需要对条目手动进行重新导向，其语法为#REDIRECT [[条目名]]。请注意，重新导向页面目前不支援使用外部链接，这可能造成错误。 &lt;br&gt;
+==分类==
+===人物===
+&lt;br&gt;
+原则上不重复收录
+&lt;br&gt;
+   * [[国际巨星]]:
+      * 知名度高、曾出现在首页的人物
+      * 曾收录于此的人物（永久保留）
+      * 原则上不轻易收录新的人物
+   * [[二线明星]]:
+      * 知名度高、未出现在首页的人物
+      * 有创作能力的人物
+      * 曾收录于此的人物（历史遗留问题）
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[神必人]]:
+      * 未出道的人物
+      * 这是一个强制性的分类，符合条件者必须收录于此
+   * [[其他人]]:
+      * 普通人,死妈人
+      * 没有创作能力且没有键政倾向的人物
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[纸片人]]:
+      * 动画、漫画、游戏、特摄等ACGN作品中的虚拟人物
+      * 该分类下条目只记录角色本身事迹，涉及到声优、制作、运营等相关事迹请单独创建条目
+   * [[思想品德]]:
+      * 语言能力低下的人物，其打出的文字晦涩难懂]
+
+==定义文本==
+&lt;br&gt;&lt;nowiki&gt;
+使用&lt;dt&gt;时，文字自动变成粗体；使用&lt;dd&gt;时，文字自动缩排四个字元。这通常用于强调定义。&lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;刘勤为什么死妈？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为刘勤是屑。&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;为什么刘勤是屑？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为他没屁眼&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;dl&gt;
+&lt;dt&gt;刘勤为什么死妈？
+&lt;dd&gt;因为刘勤是屑。
+&lt;dt&gt;为什么刘勤是屑？
+&lt;dd&gt;因为他没屁眼
+&lt;/dl&gt;
+===列表===
+====无序列表====
+格式为:
+&lt;nowiki&gt;* 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;* 条目2&lt;/nowiki&gt;&lt;br&gt;
+
+当然你也可以使用HTML语法。下面是格式:&lt;br&gt;
+&lt;nowiki&gt;&lt;ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+* 条目1
+* 条目2
+====有序列表====
+格式为:&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+
+同样可以使用HTML语法，看个人习惯，格式为:
+&lt;nowiki&gt;&lt;ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+# 条目1
+# 条目2
+===链接===
+&lt;nowiki&gt;对于恶俗百科内部条目链接，应当使用[[条目名]]或[[条目名|显示名]]格式。如果要设定显示名，链接的显示名应当是名词性质。如果并非链接名词，而以恶俗百科内部其他条目作为出典，适用出典的设置方式。内部条目链接只应该在该名词第一次出现的位置设置，其他出现不作设置，仅为纯文本。 &lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;对于外部链接，使用[链接 显示名]格式设置。设置原则同站内链接，但如果条目内包括页面全名，在全名上设置链接的，不必设置为引用，直接在文字上设置链接即可。&lt;/nowiki&gt;&lt;br&gt;
+本站也提供了到部分站点的快捷引用方式，可以按内部链接格式使用。例如： &lt;br&gt;
+* ALL网站:&lt;nowiki&gt;[[URL 描述文字]]&lt;/nowiki&gt;&lt;br&gt;
+* 恶俗百科内链接:&lt;nowiki&gt;[[尤小龙]]&lt;/nowiki&gt;
+
+===引用===
+&lt;nowiki&gt;对于页面内只使用很少次数的引用，用&lt;ref&gt;引用内容&lt;/ref&gt;格式，并在条目底部加入以下内容：&lt;/nowiki&gt;
+&lt;nowiki&gt;== 注释 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;references/&gt;&lt;/nowiki&gt;&lt;br&gt;
+维基系统会自动生成注释连接。 &lt;br&gt;
+对于整个页面处处参考的引用，不必使用注释格式，在页面底部加入“参考资料”一节并链接即可。 
+===隐蔽性注释===
+&lt;nowiki&gt;隐蔽性注释用于隐藏目标字元，使之无法在可视化编辑器及可视化页面下被查看。隐蔽性注释可以理解为Java中的单行注释。如果使用者需要对一部分字元进行隐蔽性注释，那么其格式为&lt;!-- 你要注释的字元 --&gt;。以下是示范：&lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;&lt;nowiki&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;
+===Wikitable===
+Wikitable是一种由MediaWiki提供的表格修饰，这种表格比直接绘制的表格好看十万甚至九万倍。下面是示例&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;{|&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|橘子||苹果||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|面包||饼||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|奶油||冰淇淋||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|}&lt;br&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:
+{|
+|橘子||苹果||更多
+|-
+|面包||饼||更多
+|-
+|奶油||冰淇淋||更多
+|}
+
+===文字上标===
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字上标。其引用格式为&lt;sup&gt;欲上标之字元&lt;/sup&gt;。下面是关于上标字的{{#vardefine:size|}}demo。 &lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;
+===文字下标===
+&lt;br&gt;
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字下标。其引用格式为&lt;sub&gt;欲下标之字元&lt;/sub&gt;。下面是关于下标字的{{#vardefine:size|}}demo。&lt;/nowiki&gt;&lt;br&gt;
+您输入的：&lt;br&gt;
+&lt;nowiki&gt;氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;
+===删除线===
+&lt;nowiki&gt;当使用者需要利用删除线效果时，其引用格式为&lt;s&gt;欲删除之字元&lt;/s&gt;，也可以使用其全写&lt;strike&gt;欲删除之字元&lt;/strike&gt;。 &lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;
+===姓名规范===
+&lt;br&gt;
+如果条目描述的是一个人的话 
+* 该人士有中国血统，且其有中文姓名的话，使用其真实中文姓名的简体作为标题。
+* 该人士其姓名为外文的，标题以其真实姓名的新华社译名为准。 
+  ** 英文姓名可参考：[[《英文姓名译文手册》]]
+  ** 如手册中无法找到，可在网络搜索同名人士的新华社报道（site:news.cn）。
+  ** 例如：有一名美国诺贝尔物理学奖得主Arieh译名为亚利耶，因此Arieh Smith的译名为亚利耶·史密斯
+  ** 若其姓名无官方翻译，亦无民间翻译者，应自行音译其姓名，但需要对该姓名至少加入一个注释，内容为原文写法。
+* 原名为日语者，应该使用已经简化的日本汉字，且应在汉字顶部标注其平假名写法。然描述1945年前出生者，不在此限。 
+  ** 对于一些特殊用字，有规定者，依规定；无规定者，依习惯[1]。（如「濱」在日语中简化为「浜」，但译作汉语时，应作「滨」字元。）
+===标题和目录===
+&lt;br&gt;
+对于所有条目的“简介”部分，应隔一个空行，放置在信息卡模板下方。如果没有模板，直接放置在条目顶部，不需要“简介”大标题。 
+&lt;br&gt;
+设置成标题的，会自动进入条目目录，不需要额外制作目录。设置标题时，标题不应有加粗、斜体、字号等额外格式。标题应尽量简短，以表述清晰，适合速读为标准。设置标题时为了方便修改代码，应在标题文字和“=”符号之间空一格。范例如下： 
+
+&lt;nowiki&gt;== 二级标题 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;=== 三级标题 ===&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==== 四级标题 ====&lt;/nowiki&gt;&lt;br&gt;
+
+如果使用者需要套用更多的标题，请使用HTML语法，但这通常会导致一些未知错误。格式为&lt;nowiki&gt;&lt;h1&gt;&lt;/nowiki&gt;，其中数字可以从1到6，通常建议从2开始。 
+&lt;br&gt;
+以下是错误用法： 
+&lt;nowiki&gt;=='''错误'''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==''错误''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;===&lt;span style="color:#F00;"&gt;错误&lt;/span&gt;===&lt;/nowiki&gt;&lt;br&gt;
+
+==用户页==
+&lt;br&gt;
+一般而言，您可以自由编辑您的用户页。因此，用户页不必拘泥于上文“使用百科形式撰写”这一守则，可以自由地进行编辑，采用任意格式均可。以下模板皆为“可选”模板，若您认为添加模板将影响您用户页的格式，可另辟蹊径，使用您青睐的方式达到目的。 
+&lt;br&gt;
+请合理使用您的用户页，避免进行以下活动： 
+  * 自我炒作
+  * 记载他人事迹（应该写在相关的主页面）
+  * 展示非法内容以及其他对用户有害的内容或不符合本站宗旨的内容
+===用户页===
+&lt;nowiki&gt;对于任何用户页，若希望以较为明显的方式提示阅览者该页面为用户页，并告知阅览</text>
+      <sha1>du7ahyw9ir93feiavzawl0a8zt6fuu5</sha1>
+    </revision>
+    <revision>
+      <id>2140</id>
+      <parentid>2139</parentid>
+      <timestamp>2020-07-04T03:44:17Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 用户页 */</comment>
+      <origin>2140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22845" sha1="kq8mwqpdmekbcyixap0w5mzf3snnckx" xml:space="preserve">该站编辑拥有严格的制度标准&lt;br&gt;
+左侧导航栏内分类需按照传送门模块进行排版&lt;br&gt;
+一个传送门模块代表创建一个总分类&lt;br&gt;
+中间的称号和人物名代表创建分类下的子类&lt;br&gt;
+所有导航栏内内容需按照本页要求进行编排&lt;br&gt;
+除主页外词条请任意编辑&lt;br&gt;
+创建词条不限格式，请随意创作，具体格式可参考
+*[{{SERVER}}/index.php?title=%E5%B0%A4%E5%B0%8F%E9%BE%99&amp;action=edit  尤小龙条目代码]
+==文档管理模板==
+在需要的页面上，可以加入合适的文档管理模板。文档管理模板应该在源代码的最上方列举。
+
+在页面顶端的文档管理模板，应自上至下，按以下颜色顺序摆放：
+
+'''{{color|blue|蓝色}}、{{color|yellow|黄色}}、{{color|orange|橙色}}、{{color|red|红色}}、其他颜色'''
+
+===精品===
+曾经被首页推送为特色条目的，应当由'''管理员'''（一般用户可以向管理员申请）追加“精品”模板。代码为&lt;nowiki&gt;{{精品}}&lt;/nowiki&gt;。效果如下：
+{{精品}}
+
+===当前事件===
+所讨论的内容包含仍在持续变化的当前事件的，应当追加“当前事件”模板，并包括模板追加时的时间以便验证。事件结束后超过15天的，可以移除模板。代码为&lt;nowiki&gt;{{当前事件}}&lt;/nowiki&gt;。效果如下：
+{{当前事件}}
+
+===保持中立===
+所编辑的页面中涉及的人士难以评定其立场的，应当追加“保持中立”模板，并在编辑该条目时去除自己的主观看法。代码为&lt;nowiki&gt;{{保持中立}}&lt;/nowiki&gt;。效果如下：&lt;br&gt;
+{{保持中立}}
+
+===小作品===
+长度过短，内容较少的，应当追加“小作品”模板。代码为&lt;nowiki&gt;{{小作品|（物品）}}。&lt;/nowiki&gt;效果如下：
+{{小作品|（物品）}}
+
+===请求出道===
+缺少条目涉及人士有关个人信息，并且的确需要其个人信息的，应当追加“请求出道”模板。另外，本站不推荐投稿信息甚少的人物。代码为&lt;nowiki&gt;{{请求出道}}&lt;/nowiki&gt;。效果如下：
+{{请求出道}}
+
+===缺乏格式===
+格式糟糕的，应当追加“缺乏格式”模板。代码为&lt;nowiki&gt;{{缺乏格式}}&lt;/nowiki&gt;。
+&lt;br&gt;
+{{缺乏格式}}
+
+===删除===
+&lt;nowiki&gt;认为条目应当删除的，应当由管理员(一般用户可以发起存废讨论),追加“删除”模板。代码为{{Deletion}}。如果有额外原因，代码为{{Deletion|原因}}。恶俗百科鼓励书写额外原因。效果分别如下:&lt;/nowiki&gt;&lt;br&gt;
+{{Deletion}}&lt;br&gt;
+常见的删除理由包括但不仅限于：
+* 空白条目
+* 条目内容无意义
+* 条目内容充满谬误
+* 条目主题与本站无关
+* 条目不具有足够的知名度
+* 自我炒作
+
+====快速删除====
+&lt;small&gt;主页面：[[帮助:快速删除]]&lt;/small&gt;
+
+===令人不适===
+&lt;nowiki&gt;令人感觉不适甚至会心肺停止的页面，应当追加“令人不适”模板。代码为{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}。效果如下:&lt;br&gt;&lt;/nowiki&gt;
+{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}
+&lt;br&gt;
+常见令人不适的原因包括但不限于： 
+* 频繁/强烈的语言暴力
+* 大量有关心理压力题材
+* 偶尔/轻微的成人/性暗示题材
+* 频繁/强烈的色情内容或裸露
+* 极度令人恶心的内容
+* 与社会主义核心价值观格格不入
+
+===注意备份===
+如果该页面人物擅长自我削除言行，应当追加“注意备份”模板。代码为&lt;nowiki&gt;{{注意备份}}&lt;/nowiki&gt;。效果如下：
+{{注意备份}}
+
+===禁止炒作===
+所编辑的页面中涉及的人士试图利用恶俗百科进行大量自我炒作赚取流量的，应当追加“禁止炒作”模板，代码为&lt;nowiki&gt;{{禁止炒作}}。效果如下：&lt;/nowiki&gt;
+{{禁止炒作}}
+{{color|red|注意}}:本模板只应用在这个人明确'''知道本站的存在，并希望借助本站炒作自己的条目'''的情况下。''这个最容易用错，并不是一般的炒作人都能加上''
+
+===谨慎行动===
+&lt;nowiki&gt;谨慎行动：{{谨慎行动|（人物能力）}}&lt;/nowiki&gt;
+{{谨慎行动|（人物能力）}}
+
+===极度危险===
+&lt;nowiki&gt;极度危险：{{极度危险|（人物能力）}}&lt;/nowiki&gt;
+{{极度危险|（人物能力）}}
+
+===正在服刑===
+&lt;nowiki&gt;正在服刑：{{正在服刑}}&lt;/nowiki&gt;
+{{正在服刑}}
+
+===曾经入狱===
+所编辑页面中涉及的人物如果因为某些原因入狱或者被刑拘，进局子，应当追加“曾经入狱”模板，代码为&lt;nowiki&gt;{{曾经入狱|（某种原因）}}&lt;/nowiki&gt;
+{{曾经入狱|（某种原因）}}
+
+===终止迫害===
+若由于某些原因，一些人不应当被继续迫害，应当追加“终止迫害”模板。代码&lt;nowiki&gt;终止迫害：{{终止迫害}}&lt;/nowiki&gt;
+{{终止迫害}}。效果如下：
+
+===迫害加速===
+若由于某些原因，一些人应当被加速迫害，且'''在人物信息栏中硬度为∞（7）、属于当前事件'''的可以追加“迫害加速”模板。代码为&lt;nowiki&gt;{{迫害加速|* 资料整理
+}}&lt;/nowiki&gt;。效果如下：
+{{迫害加速|* 资料整理}}
+常见迫害方法包括但不限于：
+*资料整理
+*电话互动
+*线上互动
+*素材开发
+*高雅创作
+*言行存档
+*义务教育
+*真人快打
+注意：
+*若此人确实诚恳道歉，并回归虚无达到一定时间，该模板应被移除。
+*此模板只有管理员才能添加，高雅人士的力量应该集中用于橄榄几个罪大恶极的人。
+
+===No mercy===
+&lt;nowiki&gt;无仁慈模式：{{Nomercy}}&lt;/nowiki&gt;
+{{Nomercy}}
+一旦添加此模板则代表着此人物将永远保留在恶俗百科，{{color|red|该模板只能由管理员添加，私自添加将获得封禁套餐}}
+
+===恶俗之最===
+&lt;nowiki&gt;恶俗之最：{{恶俗之最|（称号）|（理由）}}&lt;/nowiki&gt;
+{{恶俗之最|（称号）|（理由）}}
+
+===用语解释===
+如果当前页面是一个概念或专有名词解释页面，则应当添加&lt;nowiki&gt;{{用语解释}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{用语解释}}
+
+===御驾亲征===
+&lt;nowiki&gt;御驾亲征：{{御驾亲征}}&lt;/nowiki&gt;
+{{御驾亲征}}
+
+===暂无词条===
+&lt;nowiki&gt;暂无词条：{{暂无词条}}&lt;/nowiki&gt;
+{{暂无词条}}
+
+===消歧义===
+&lt;nowiki&gt;消歧义：{{消歧义}}&lt;/nowiki&gt;
+{{消歧义}}
+
+===过时===
+&lt;nowiki&gt;过时：{{过时}}&lt;/nowiki&gt;
+{{过时}}
+
+===搬运工===
+&lt;nowiki&gt;搬运工：{{搬运工|（出处）}}&lt;/nowiki&gt;
+{{搬运工|（出处）}}
+
+===站点===
+如果该页面描述的是一个网站，则应当添加&lt;nowiki&gt;{{网站}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{网站}}
+
+===未完待续===
+&lt;nowiki&gt;未完待续：{{未完待续}}&lt;/nowiki&gt;
+{{未完待续}}
+
+===大脑升级===
+&lt;nowiki&gt;大脑升级：{{大脑升级}}&lt;/nowiki&gt;
+{{大脑升级}}
+
+===死亡===
+所编辑页面中涉及人物已经死亡，则应当追加“死人”模板，代码为&lt;nowiki&gt;{{Dead}}&lt;/nowiki&gt;。例如：
+&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:death.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''饶文建'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]
+*此模板仅适用于两种情况：物理死亡和自称死亡。
+*此模板应该放置于所有AmBox类模板下方。
+
+===自定义模板===
+自定义模板：&lt;br&gt;
+&lt;nowiki&gt;{{信息框&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|border=左侧边条颜色（如green）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|image=图片（直接填写文件名，例：野兽先辈.jpg）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|type=标题&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|info=内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;}}&lt;/nowiki&gt;
+{{信息框
+|border=green
+|image=提示.jpg
+|type=（标题）
+|info=（内容）
+}}
+
+==信息卡模板==
+信息卡模板隔一个空行，放置在文档管理模板下方。如没有文档管理模板，请放置在条目顶部。针对人物，应当使用人物信息模板；对组织，使用组织信息模板模板。
+===人物信息模板===
+{{信息板
+|titlename=（标题姓名）
+|photo=NOBODY.jpg
+|photocap=（图片文字）
+|name=（姓名）
+|id=（常用id）
+|class=（职业）
+|ability=（能力）
+|hardness=1
+|IQ=（智商）
+|online=5
+|affinity=（所属）
+}}
+人物信息：&lt;br&gt;
+&lt;nowiki&gt;{{信息板&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|titlename=标题姓名&lt;/nowiki&gt;（此参数通常无需填写，仅在name参数未填写或填写了多个姓名时填写）&lt;br&gt;
+&lt;nowiki&gt;|photo=图片&lt;/nowiki&gt;（直接填写文件名，例：a.jpg）&lt;br&gt;
+&lt;nowiki&gt;|photocap=图片文字&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|name=姓名&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|id=常用id&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|class=职业&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|ability=能力&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|best=必杀技&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|hardness=硬度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|dangerous=(危险度)&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|IQ=智商&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|online=活跃度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|affinity=所属&lt;/nowiki&gt;&lt;br&gt;
+}}'''''（如信息未知应删除参数，至少填写一项）'''''
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+==正文==
+===正文规范===
+所有正文段落之间应且只应空一行。正文段落采用齐头式，不必缩进两格。正文标点符号应规范使用全角中文标点符号&lt;br&gt;
+请注意事件时间线的准确性，日期格式应为XXXX年X月X日，避免使用“最近”、“今年”、“本月”等词语。在指代不需要实名的事件关系人时，应该尽量体现其身份，如“朋友”、“一般通过人士”、“高雅人士”等，避免使用“有人”、“某些人”、“很多人”等词语。 &lt;br&gt;
+恶俗百科目前100%的条目都是使用大陆简体编写，因此对于新更改也必须使用大陆简体&lt;br&gt;
+在货币及计量单位上，必须采用页面涉及人物所在国家或地区的货币和计量单位。绝大多数页面涉及人物都居住在中国大陆，因此应采用RMB和公制单位，除非是带有捏他性质并且在本站载有换算关系的单位，如“贝天”、“恒”等。 &lt;br&gt;
+请避免“假大空”的措辞，不要言之无物或举伪证。除了文游和捏他的部分以外，请尽量采用浅显易懂的叙事风格与可信度高的佐证，以一般通过人士能够了解大致经过为宜，特别是在涉及圈外人物或公众人物的情况下。 &lt;br&gt;
+'''糟糕的例子：用户在其主笔的页面内试图批判某人为“死妈废物”，指责其“打滚”、“萎勃”、“放黑屁”云云，然而通篇下来并未提及任何具体事迹或摘选任何具体语录，显然一般通过人士是难以理解此类废文的。'''
+===重新导向页面===
+某些条目可能已经被移动或因为特殊原因而不显示其元条目名。为了使访问者能够正常无虞地访问存取目标条目，故需要对错误的或已经废止使用之条目进行重新导向操作，直至流量全无为限。 &lt;br&gt;
+一般地，在移动条目时会自动在移动前条目留下一个重新导向页面。但在某些特殊情况发生时，您可能需要对条目手动进行重新导向，其语法为#REDIRECT [[条目名]]。请注意，重新导向页面目前不支援使用外部链接，这可能造成错误。 &lt;br&gt;
+==分类==
+===人物===
+&lt;br&gt;
+原则上不重复收录
+&lt;br&gt;
+   * [[国际巨星]]:
+      * 知名度高、曾出现在首页的人物
+      * 曾收录于此的人物（永久保留）
+      * 原则上不轻易收录新的人物
+   * [[二线明星]]:
+      * 知名度高、未出现在首页的人物
+      * 有创作能力的人物
+      * 曾收录于此的人物（历史遗留问题）
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[神必人]]:
+      * 未出道的人物
+      * 这是一个强制性的分类，符合条件者必须收录于此
+   * [[其他人]]:
+      * 普通人,死妈人
+      * 没有创作能力且没有键政倾向的人物
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[纸片人]]:
+      * 动画、漫画、游戏、特摄等ACGN作品中的虚拟人物
+      * 该分类下条目只记录角色本身事迹，涉及到声优、制作、运营等相关事迹请单独创建条目
+   * [[思想品德]]:
+      * 语言能力低下的人物，其打出的文字晦涩难懂]
+
+==定义文本==
+&lt;br&gt;&lt;nowiki&gt;
+使用&lt;dt&gt;时，文字自动变成粗体；使用&lt;dd&gt;时，文字自动缩排四个字元。这通常用于强调定义。&lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;刘勤为什么死妈？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为刘勤是屑。&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;为什么刘勤是屑？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为他没屁眼&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;dl&gt;
+&lt;dt&gt;刘勤为什么死妈？
+&lt;dd&gt;因为刘勤是屑。
+&lt;dt&gt;为什么刘勤是屑？
+&lt;dd&gt;因为他没屁眼
+&lt;/dl&gt;
+===列表===
+====无序列表====
+格式为:
+&lt;nowiki&gt;* 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;* 条目2&lt;/nowiki&gt;&lt;br&gt;
+
+当然你也可以使用HTML语法。下面是格式:&lt;br&gt;
+&lt;nowiki&gt;&lt;ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+* 条目1
+* 条目2
+====有序列表====
+格式为:&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+
+同样可以使用HTML语法，看个人习惯，格式为:
+&lt;nowiki&gt;&lt;ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+# 条目1
+# 条目2
+===链接===
+&lt;nowiki&gt;对于恶俗百科内部条目链接，应当使用[[条目名]]或[[条目名|显示名]]格式。如果要设定显示名，链接的显示名应当是名词性质。如果并非链接名词，而以恶俗百科内部其他条目作为出典，适用出典的设置方式。内部条目链接只应该在该名词第一次出现的位置设置，其他出现不作设置，仅为纯文本。 &lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;对于外部链接，使用[链接 显示名]格式设置。设置原则同站内链接，但如果条目内包括页面全名，在全名上设置链接的，不必设置为引用，直接在文字上设置链接即可。&lt;/nowiki&gt;&lt;br&gt;
+本站也提供了到部分站点的快捷引用方式，可以按内部链接格式使用。例如： &lt;br&gt;
+* ALL网站:&lt;nowiki&gt;[[URL 描述文字]]&lt;/nowiki&gt;&lt;br&gt;
+* 恶俗百科内链接:&lt;nowiki&gt;[[尤小龙]]&lt;/nowiki&gt;
+
+===引用===
+&lt;nowiki&gt;对于页面内只使用很少次数的引用，用&lt;ref&gt;引用内容&lt;/ref&gt;格式，并在条目底部加入以下内容：&lt;/nowiki&gt;
+&lt;nowiki&gt;== 注释 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;references/&gt;&lt;/nowiki&gt;&lt;br&gt;
+维基系统会自动生成注释连接。 &lt;br&gt;
+对于整个页面处处参考的引用，不必使用注释格式，在页面底部加入“参考资料”一节并链接即可。 
+===隐蔽性注释===
+&lt;nowiki&gt;隐蔽性注释用于隐藏目标字元，使之无法在可视化编辑器及可视化页面下被查看。隐蔽性注释可以理解为Java中的单行注释。如果使用者需要对一部分字元进行隐蔽性注释，那么其格式为&lt;!-- 你要注释的字元 --&gt;。以下是示范：&lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;&lt;nowiki&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;
+===Wikitable===
+Wikitable是一种由MediaWiki提供的表格修饰，这种表格比直接绘制的表格好看十万甚至九万倍。下面是示例&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;{|&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|橘子||苹果||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|面包||饼||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|奶油||冰淇淋||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|}&lt;br&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:
+{|
+|橘子||苹果||更多
+|-
+|面包||饼||更多
+|-
+|奶油||冰淇淋||更多
+|}
+
+===文字上标===
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字上标。其引用格式为&lt;sup&gt;欲上标之字元&lt;/sup&gt;。下面是关于上标字的{{#vardefine:size|}}demo。 &lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;
+===文字下标===
+&lt;br&gt;
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字下标。其引用格式为&lt;sub&gt;欲下标之字元&lt;/sub&gt;。下面是关于下标字的{{#vardefine:size|}}demo。&lt;/nowiki&gt;&lt;br&gt;
+您输入的：&lt;br&gt;
+&lt;nowiki&gt;氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;
+===删除线===
+&lt;nowiki&gt;当使用者需要利用删除线效果时，其引用格式为&lt;s&gt;欲删除之字元&lt;/s&gt;，也可以使用其全写&lt;strike&gt;欲删除之字元&lt;/strike&gt;。 &lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;
+===姓名规范===
+&lt;br&gt;
+如果条目描述的是一个人的话 
+* 该人士有中国血统，且其有中文姓名的话，使用其真实中文姓名的简体作为标题。
+* 该人士其姓名为外文的，标题以其真实姓名的新华社译名为准。 
+  ** 英文姓名可参考：[[《英文姓名译文手册》]]
+  ** 如手册中无法找到，可在网络搜索同名人士的新华社报道（site:news.cn）。
+  ** 例如：有一名美国诺贝尔物理学奖得主Arieh译名为亚利耶，因此Arieh Smith的译名为亚利耶·史密斯
+  ** 若其姓名无官方翻译，亦无民间翻译者，应自行音译其姓名，但需要对该姓名至少加入一个注释，内容为原文写法。
+* 原名为日语者，应该使用已经简化的日本汉字，且应在汉字顶部标注其平假名写法。然描述1945年前出生者，不在此限。 
+  ** 对于一些特殊用字，有规定者，依规定；无规定者，依习惯[1]。（如「濱」在日语中简化为「浜」，但译作汉语时，应作「滨」字元。）
+===标题和目录===
+&lt;br&gt;
+对于所有条目的“简介”部分，应隔一个空行，放置在信息卡模板下方。如果没有模板，直接放置在条目顶部，不需要“简介”大标题。 
+&lt;br&gt;
+设置成标题的，会自动进入条目目录，不需要额外制作目录。设置标题时，标题不应有加粗、斜体、字号等额外格式。标题应尽量简短，以表述清晰，适合速读为标准。设置标题时为了方便修改代码，应在标题文字和“=”符号之间空一格。范例如下： 
+
+&lt;nowiki&gt;== 二级标题 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;=== 三级标题 ===&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==== 四级标题 ====&lt;/nowiki&gt;&lt;br&gt;
+
+如果使用者需要套用更多的标题，请使用HTML语法，但这通常会导致一些未知错误。格式为&lt;nowiki&gt;&lt;h1&gt;&lt;/nowiki&gt;，其中数字可以从1到6，通常建议从2开始。 
+&lt;br&gt;
+以下是错误用法： 
+&lt;nowiki&gt;=='''错误'''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==''错误''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;===&lt;span style="color:#F00;"&gt;错误&lt;/span&gt;===&lt;/nowiki&gt;&lt;br&gt;
+
+==用户页==
+&lt;br&gt;
+一般而言，您可以自由编辑您的用户页。因此，用户页不必拘泥于上文“使用百科形式撰写”这一守则，可以自由地进行编辑，采用任意格式均可。以下模板皆为“可选”模板，若您认为添加模板将影响您用户页的格式，可另辟蹊径，使用您青睐的方式达到目的。 
+&lt;br&gt;
+请合理使用您的用户页，避免进行以下活动： 
+  * 自我炒作
+  * 记载他人事迹（应该写在相关的主页面）
+  * 展示非法内容以及其他对用户有害的内容或不符合本站宗旨的内容
+===用户页===
+&lt;nowiki&gt;对于任何用户页，若希望以较为明显的方式提示阅览者该页面为用户页，并告知阅览者用户页编辑守则，可以添加“用户页”模板，代码为：{{UserPage}}。效果如下：&lt;/nowiki&gt;&lt;br&gt;
+{{UserPage}}
+&lt;br&gt;
+请注意，任何人都可以在您的用户页上留下评论，若您想关闭用户页评论区，请联系管理员。
+===自由编辑===
+&lt;nowiki&gt;用户本人许可其他用户编辑其用户页，可以添加“自由编辑”模板，代码为：{{FreetoEdit}}。效果如下：&lt;/nowiki&gt; 
+{{FreetoEdit}}
+===退站声明===
+&lt;nowiki&gt;已决定暂停恶俗百科事务的用户，可以添加“退站声明”模板，代码为：{{Quit|（用户名）|TIME=（时间段）}}。&lt;/nowiki&gt;'''（为保证安全，添加此模板的用户将在该时间段内被封禁，均必填）'''效果如下： &lt;br&gt;
+{{Quit|（用户名）|TIME=（时间段）}}
+
+==讨论页==
+在每个页面标签的右边，都有一个讨论的标签。 &lt;br&gt;
+在讨论页中，可以对当前页面的高雅创作进行编辑者之间的讨论。不要在主页面内进行讨论。
+===创建话题===
+&lt;br&gt;
+如要创建话题，可以点击右上角的创建话题按钮，也可以在编辑讨论页时添加以下代码：== 话题1111 ==
+&lt;br&gt;
+===签名===
+&lt;nowiki&gt;在讨论页上签名：要在讨论页上签名，只需输入四个波浪号（~~~~）&lt;/nowiki&gt;即可，它们将自动换成您的用户名和留言时间，就好像这样：[[用户:Tianyan|Tianyan]]（[[用户讨论:Tianyan|讨论]]） 2020年6月26日 (五) 12:55 (CST)。请注意所有人都没有可能留下匿名留言，因为就算您没有在留言时签名，您的用户名称或IP地址都会记录在页面历史中。您可以对签名进行自定义，新的签名务必包含本人用户页、用户讨论页、贡献页之中至少一个链接以及时间戳。签名不应包含容易混淆的链接，如同名人物条目、其他用户的相关页面等。
+
+===讨论格式标准===
+&lt;br&gt;
+往下书写：如果您将您的留言发布在页面的上方，这会使他人困惑并使其他人容易忽略您的留言。最新的讨论主题应置在页面的最下方，而接着的回应便能置于留言的下方，如此类推。此举能方便读者以发表时间的顺序来观看意见。一个较快捷的方法是使用“编辑”按钮右方的“添加话题”或“+”按钮新建主题，它会自动将您的讨论主题置于页面的最下方。 
+&lt;br&gt;
+分段书写：如果您的意见中有数个讨论重点，请将重点分段书写。您可以透过断行或使用列表符号（*）来分开每一个的讨论重点。 
+&lt;br&gt;
+使用缩排来使回应更易阅读：请使用缩排符号（:）来发表您的回应，这就与传统式BBS的回应方式相若。当其他人回应您的回应时，便会将回应的缩排层级增加，换言之即是使用两个缩排符号（::），如此类推。一般来说，列表符号（*）不应该当作缩排符号般使用。</text>
+      <sha1>kq8mwqpdmekbcyixap0w5mzf3snnckx</sha1>
+    </revision>
+    <revision>
+      <id>2141</id>
+      <parentid>2140</parentid>
+      <timestamp>2020-07-15T08:48:31Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 死亡 */</comment>
+      <origin>2141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22851" sha1="lc71ajzd2sjwuvv7m3y7h0fsem00g0h" xml:space="preserve">该站编辑拥有严格的制度标准&lt;br&gt;
+左侧导航栏内分类需按照传送门模块进行排版&lt;br&gt;
+一个传送门模块代表创建一个总分类&lt;br&gt;
+中间的称号和人物名代表创建分类下的子类&lt;br&gt;
+所有导航栏内内容需按照本页要求进行编排&lt;br&gt;
+除主页外词条请任意编辑&lt;br&gt;
+创建词条不限格式，请随意创作，具体格式可参考
+*[{{SERVER}}/index.php?title=%E5%B0%A4%E5%B0%8F%E9%BE%99&amp;action=edit  尤小龙条目代码]
+==文档管理模板==
+在需要的页面上，可以加入合适的文档管理模板。文档管理模板应该在源代码的最上方列举。
+
+在页面顶端的文档管理模板，应自上至下，按以下颜色顺序摆放：
+
+'''{{color|blue|蓝色}}、{{color|yellow|黄色}}、{{color|orange|橙色}}、{{color|red|红色}}、其他颜色'''
+
+===精品===
+曾经被首页推送为特色条目的，应当由'''管理员'''（一般用户可以向管理员申请）追加“精品”模板。代码为&lt;nowiki&gt;{{精品}}&lt;/nowiki&gt;。效果如下：
+{{精品}}
+
+===当前事件===
+所讨论的内容包含仍在持续变化的当前事件的，应当追加“当前事件”模板，并包括模板追加时的时间以便验证。事件结束后超过15天的，可以移除模板。代码为&lt;nowiki&gt;{{当前事件}}&lt;/nowiki&gt;。效果如下：
+{{当前事件}}
+
+===保持中立===
+所编辑的页面中涉及的人士难以评定其立场的，应当追加“保持中立”模板，并在编辑该条目时去除自己的主观看法。代码为&lt;nowiki&gt;{{保持中立}}&lt;/nowiki&gt;。效果如下：&lt;br&gt;
+{{保持中立}}
+
+===小作品===
+长度过短，内容较少的，应当追加“小作品”模板。代码为&lt;nowiki&gt;{{小作品|（物品）}}。&lt;/nowiki&gt;效果如下：
+{{小作品|（物品）}}
+
+===请求出道===
+缺少条目涉及人士有关个人信息，并且的确需要其个人信息的，应当追加“请求出道”模板。另外，本站不推荐投稿信息甚少的人物。代码为&lt;nowiki&gt;{{请求出道}}&lt;/nowiki&gt;。效果如下：
+{{请求出道}}
+
+===缺乏格式===
+格式糟糕的，应当追加“缺乏格式”模板。代码为&lt;nowiki&gt;{{缺乏格式}}&lt;/nowiki&gt;。
+&lt;br&gt;
+{{缺乏格式}}
+
+===删除===
+&lt;nowiki&gt;认为条目应当删除的，应当由管理员(一般用户可以发起存废讨论),追加“删除”模板。代码为{{Deletion}}。如果有额外原因，代码为{{Deletion|原因}}。恶俗百科鼓励书写额外原因。效果分别如下:&lt;/nowiki&gt;&lt;br&gt;
+{{Deletion}}&lt;br&gt;
+常见的删除理由包括但不仅限于：
+* 空白条目
+* 条目内容无意义
+* 条目内容充满谬误
+* 条目主题与本站无关
+* 条目不具有足够的知名度
+* 自我炒作
+
+====快速删除====
+&lt;small&gt;主页面：[[帮助:快速删除]]&lt;/small&gt;
+
+===令人不适===
+&lt;nowiki&gt;令人感觉不适甚至会心肺停止的页面，应当追加“令人不适”模板。代码为{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}。效果如下:&lt;br&gt;&lt;/nowiki&gt;
+{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}
+&lt;br&gt;
+常见令人不适的原因包括但不限于： 
+* 频繁/强烈的语言暴力
+* 大量有关心理压力题材
+* 偶尔/轻微的成人/性暗示题材
+* 频繁/强烈的色情内容或裸露
+* 极度令人恶心的内容
+* 与社会主义核心价值观格格不入
+
+===注意备份===
+如果该页面人物擅长自我削除言行，应当追加“注意备份”模板。代码为&lt;nowiki&gt;{{注意备份}}&lt;/nowiki&gt;。效果如下：
+{{注意备份}}
+
+===禁止炒作===
+所编辑的页面中涉及的人士试图利用恶俗百科进行大量自我炒作赚取流量的，应当追加“禁止炒作”模板，代码为&lt;nowiki&gt;{{禁止炒作}}。效果如下：&lt;/nowiki&gt;
+{{禁止炒作}}
+{{color|red|注意}}:本模板只应用在这个人明确'''知道本站的存在，并希望借助本站炒作自己的条目'''的情况下。''这个最容易用错，并不是一般的炒作人都能加上''
+
+===谨慎行动===
+&lt;nowiki&gt;谨慎行动：{{谨慎行动|（人物能力）}}&lt;/nowiki&gt;
+{{谨慎行动|（人物能力）}}
+
+===极度危险===
+&lt;nowiki&gt;极度危险：{{极度危险|（人物能力）}}&lt;/nowiki&gt;
+{{极度危险|（人物能力）}}
+
+===正在服刑===
+&lt;nowiki&gt;正在服刑：{{正在服刑}}&lt;/nowiki&gt;
+{{正在服刑}}
+
+===曾经入狱===
+所编辑页面中涉及的人物如果因为某些原因入狱或者被刑拘，进局子，应当追加“曾经入狱”模板，代码为&lt;nowiki&gt;{{曾经入狱|（某种原因）}}&lt;/nowiki&gt;
+{{曾经入狱|（某种原因）}}
+
+===终止迫害===
+若由于某些原因，一些人不应当被继续迫害，应当追加“终止迫害”模板。代码&lt;nowiki&gt;终止迫害：{{终止迫害}}&lt;/nowiki&gt;
+{{终止迫害}}。效果如下：
+
+===迫害加速===
+若由于某些原因，一些人应当被加速迫害，且'''在人物信息栏中硬度为∞（7）、属于当前事件'''的可以追加“迫害加速”模板。代码为&lt;nowiki&gt;{{迫害加速|* 资料整理
+}}&lt;/nowiki&gt;。效果如下：
+{{迫害加速|* 资料整理}}
+常见迫害方法包括但不限于：
+*资料整理
+*电话互动
+*线上互动
+*素材开发
+*高雅创作
+*言行存档
+*义务教育
+*真人快打
+注意：
+*若此人确实诚恳道歉，并回归虚无达到一定时间，该模板应被移除。
+*此模板只有管理员才能添加，高雅人士的力量应该集中用于橄榄几个罪大恶极的人。
+
+===No mercy===
+&lt;nowiki&gt;无仁慈模式：{{Nomercy}}&lt;/nowiki&gt;
+{{Nomercy}}
+一旦添加此模板则代表着此人物将永远保留在恶俗百科，{{color|red|该模板只能由管理员添加，私自添加将获得封禁套餐}}
+
+===恶俗之最===
+&lt;nowiki&gt;恶俗之最：{{恶俗之最|（称号）|（理由）}}&lt;/nowiki&gt;
+{{恶俗之最|（称号）|（理由）}}
+
+===用语解释===
+如果当前页面是一个概念或专有名词解释页面，则应当添加&lt;nowiki&gt;{{用语解释}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{用语解释}}
+
+===御驾亲征===
+&lt;nowiki&gt;御驾亲征：{{御驾亲征}}&lt;/nowiki&gt;
+{{御驾亲征}}
+
+===暂无词条===
+&lt;nowiki&gt;暂无词条：{{暂无词条}}&lt;/nowiki&gt;
+{{暂无词条}}
+
+===消歧义===
+&lt;nowiki&gt;消歧义：{{消歧义}}&lt;/nowiki&gt;
+{{消歧义}}
+
+===过时===
+&lt;nowiki&gt;过时：{{过时}}&lt;/nowiki&gt;
+{{过时}}
+
+===搬运工===
+&lt;nowiki&gt;搬运工：{{搬运工|（出处）}}&lt;/nowiki&gt;
+{{搬运工|（出处）}}
+
+===站点===
+如果该页面描述的是一个网站，则应当添加&lt;nowiki&gt;{{网站}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{网站}}
+
+===未完待续===
+&lt;nowiki&gt;未完待续：{{未完待续}}&lt;/nowiki&gt;
+{{未完待续}}
+
+===大脑升级===
+&lt;nowiki&gt;大脑升级：{{大脑升级}}&lt;/nowiki&gt;
+{{大脑升级}}
+
+===死亡===
+所编辑页面中涉及人物已经死亡，则应当追加“死人”模板，代码为&lt;nowiki&gt;{{Dead}}&lt;/nowiki&gt;。例如：
+&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:deathflower.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''饶文建'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]
+*此模板仅适用于两种情况：物理死亡和自称死亡。
+*此模板应该放置于所有AmBox类模板下方。
+
+===自定义模板===
+自定义模板：&lt;br&gt;
+&lt;nowiki&gt;{{信息框&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|border=左侧边条颜色（如green）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|image=图片（直接填写文件名，例：野兽先辈.jpg）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|type=标题&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|info=内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;}}&lt;/nowiki&gt;
+{{信息框
+|border=green
+|image=提示.jpg
+|type=（标题）
+|info=（内容）
+}}
+
+==信息卡模板==
+信息卡模板隔一个空行，放置在文档管理模板下方。如没有文档管理模板，请放置在条目顶部。针对人物，应当使用人物信息模板；对组织，使用组织信息模板模板。
+===人物信息模板===
+{{信息板
+|titlename=（标题姓名）
+|photo=NOBODY.jpg
+|photocap=（图片文字）
+|name=（姓名）
+|id=（常用id）
+|class=（职业）
+|ability=（能力）
+|hardness=1
+|IQ=（智商）
+|online=5
+|affinity=（所属）
+}}
+人物信息：&lt;br&gt;
+&lt;nowiki&gt;{{信息板&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|titlename=标题姓名&lt;/nowiki&gt;（此参数通常无需填写，仅在name参数未填写或填写了多个姓名时填写）&lt;br&gt;
+&lt;nowiki&gt;|photo=图片&lt;/nowiki&gt;（直接填写文件名，例：a.jpg）&lt;br&gt;
+&lt;nowiki&gt;|photocap=图片文字&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|name=姓名&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|id=常用id&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|class=职业&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|ability=能力&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|best=必杀技&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|hardness=硬度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|dangerous=(危险度)&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|IQ=智商&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|online=活跃度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|affinity=所属&lt;/nowiki&gt;&lt;br&gt;
+}}'''''（如信息未知应删除参数，至少填写一项）'''''
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+==正文==
+===正文规范===
+所有正文段落之间应且只应空一行。正文段落采用齐头式，不必缩进两格。正文标点符号应规范使用全角中文标点符号&lt;br&gt;
+请注意事件时间线的准确性，日期格式应为XXXX年X月X日，避免使用“最近”、“今年”、“本月”等词语。在指代不需要实名的事件关系人时，应该尽量体现其身份，如“朋友”、“一般通过人士”、“高雅人士”等，避免使用“有人”、“某些人”、“很多人”等词语。 &lt;br&gt;
+恶俗百科目前100%的条目都是使用大陆简体编写，因此对于新更改也必须使用大陆简体&lt;br&gt;
+在货币及计量单位上，必须采用页面涉及人物所在国家或地区的货币和计量单位。绝大多数页面涉及人物都居住在中国大陆，因此应采用RMB和公制单位，除非是带有捏他性质并且在本站载有换算关系的单位，如“贝天”、“恒”等。 &lt;br&gt;
+请避免“假大空”的措辞，不要言之无物或举伪证。除了文游和捏他的部分以外，请尽量采用浅显易懂的叙事风格与可信度高的佐证，以一般通过人士能够了解大致经过为宜，特别是在涉及圈外人物或公众人物的情况下。 &lt;br&gt;
+'''糟糕的例子：用户在其主笔的页面内试图批判某人为“死妈废物”，指责其“打滚”、“萎勃”、“放黑屁”云云，然而通篇下来并未提及任何具体事迹或摘选任何具体语录，显然一般通过人士是难以理解此类废文的。'''
+===重新导向页面===
+某些条目可能已经被移动或因为特殊原因而不显示其元条目名。为了使访问者能够正常无虞地访问存取目标条目，故需要对错误的或已经废止使用之条目进行重新导向操作，直至流量全无为限。 &lt;br&gt;
+一般地，在移动条目时会自动在移动前条目留下一个重新导向页面。但在某些特殊情况发生时，您可能需要对条目手动进行重新导向，其语法为#REDIRECT [[条目名]]。请注意，重新导向页面目前不支援使用外部链接，这可能造成错误。 &lt;br&gt;
+==分类==
+===人物===
+&lt;br&gt;
+原则上不重复收录
+&lt;br&gt;
+   * [[国际巨星]]:
+      * 知名度高、曾出现在首页的人物
+      * 曾收录于此的人物（永久保留）
+      * 原则上不轻易收录新的人物
+   * [[二线明星]]:
+      * 知名度高、未出现在首页的人物
+      * 有创作能力的人物
+      * 曾收录于此的人物（历史遗留问题）
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[神必人]]:
+      * 未出道的人物
+      * 这是一个强制性的分类，符合条件者必须收录于此
+   * [[其他人]]:
+      * 普通人,死妈人
+      * 没有创作能力且没有键政倾向的人物
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[纸片人]]:
+      * 动画、漫画、游戏、特摄等ACGN作品中的虚拟人物
+      * 该分类下条目只记录角色本身事迹，涉及到声优、制作、运营等相关事迹请单独创建条目
+   * [[思想品德]]:
+      * 语言能力低下的人物，其打出的文字晦涩难懂]
+
+==定义文本==
+&lt;br&gt;&lt;nowiki&gt;
+使用&lt;dt&gt;时，文字自动变成粗体；使用&lt;dd&gt;时，文字自动缩排四个字元。这通常用于强调定义。&lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;刘勤为什么死妈？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为刘勤是屑。&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;为什么刘勤是屑？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为他没屁眼&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;dl&gt;
+&lt;dt&gt;刘勤为什么死妈？
+&lt;dd&gt;因为刘勤是屑。
+&lt;dt&gt;为什么刘勤是屑？
+&lt;dd&gt;因为他没屁眼
+&lt;/dl&gt;
+===列表===
+====无序列表====
+格式为:
+&lt;nowiki&gt;* 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;* 条目2&lt;/nowiki&gt;&lt;br&gt;
+
+当然你也可以使用HTML语法。下面是格式:&lt;br&gt;
+&lt;nowiki&gt;&lt;ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+* 条目1
+* 条目2
+====有序列表====
+格式为:&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+
+同样可以使用HTML语法，看个人习惯，格式为:
+&lt;nowiki&gt;&lt;ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+# 条目1
+# 条目2
+===链接===
+&lt;nowiki&gt;对于恶俗百科内部条目链接，应当使用[[条目名]]或[[条目名|显示名]]格式。如果要设定显示名，链接的显示名应当是名词性质。如果并非链接名词，而以恶俗百科内部其他条目作为出典，适用出典的设置方式。内部条目链接只应该在该名词第一次出现的位置设置，其他出现不作设置，仅为纯文本。 &lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;对于外部链接，使用[链接 显示名]格式设置。设置原则同站内链接，但如果条目内包括页面全名，在全名上设置链接的，不必设置为引用，直接在文字上设置链接即可。&lt;/nowiki&gt;&lt;br&gt;
+本站也提供了到部分站点的快捷引用方式，可以按内部链接格式使用。例如： &lt;br&gt;
+* ALL网站:&lt;nowiki&gt;[[URL 描述文字]]&lt;/nowiki&gt;&lt;br&gt;
+* 恶俗百科内链接:&lt;nowiki&gt;[[尤小龙]]&lt;/nowiki&gt;
+
+===引用===
+&lt;nowiki&gt;对于页面内只使用很少次数的引用，用&lt;ref&gt;引用内容&lt;/ref&gt;格式，并在条目底部加入以下内容：&lt;/nowiki&gt;
+&lt;nowiki&gt;== 注释 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;references/&gt;&lt;/nowiki&gt;&lt;br&gt;
+维基系统会自动生成注释连接。 &lt;br&gt;
+对于整个页面处处参考的引用，不必使用注释格式，在页面底部加入“参考资料”一节并链接即可。 
+===隐蔽性注释===
+&lt;nowiki&gt;隐蔽性注释用于隐藏目标字元，使之无法在可视化编辑器及可视化页面下被查看。隐蔽性注释可以理解为Java中的单行注释。如果使用者需要对一部分字元进行隐蔽性注释，那么其格式为&lt;!-- 你要注释的字元 --&gt;。以下是示范：&lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;&lt;nowiki&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;
+===Wikitable===
+Wikitable是一种由MediaWiki提供的表格修饰，这种表格比直接绘制的表格好看十万甚至九万倍。下面是示例&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;{|&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|橘子||苹果||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|面包||饼||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|奶油||冰淇淋||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|}&lt;br&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:
+{|
+|橘子||苹果||更多
+|-
+|面包||饼||更多
+|-
+|奶油||冰淇淋||更多
+|}
+
+===文字上标===
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字上标。其引用格式为&lt;sup&gt;欲上标之字元&lt;/sup&gt;。下面是关于上标字的{{#vardefine:size|}}demo。 &lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;
+===文字下标===
+&lt;br&gt;
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字下标。其引用格式为&lt;sub&gt;欲下标之字元&lt;/sub&gt;。下面是关于下标字的{{#vardefine:size|}}demo。&lt;/nowiki&gt;&lt;br&gt;
+您输入的：&lt;br&gt;
+&lt;nowiki&gt;氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;
+===删除线===
+&lt;nowiki&gt;当使用者需要利用删除线效果时，其引用格式为&lt;s&gt;欲删除之字元&lt;/s&gt;，也可以使用其全写&lt;strike&gt;欲删除之字元&lt;/strike&gt;。 &lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;
+===姓名规范===
+&lt;br&gt;
+如果条目描述的是一个人的话 
+* 该人士有中国血统，且其有中文姓名的话，使用其真实中文姓名的简体作为标题。
+* 该人士其姓名为外文的，标题以其真实姓名的新华社译名为准。 
+  ** 英文姓名可参考：[[《英文姓名译文手册》]]
+  ** 如手册中无法找到，可在网络搜索同名人士的新华社报道（site:news.cn）。
+  ** 例如：有一名美国诺贝尔物理学奖得主Arieh译名为亚利耶，因此Arieh Smith的译名为亚利耶·史密斯
+  ** 若其姓名无官方翻译，亦无民间翻译者，应自行音译其姓名，但需要对该姓名至少加入一个注释，内容为原文写法。
+* 原名为日语者，应该使用已经简化的日本汉字，且应在汉字顶部标注其平假名写法。然描述1945年前出生者，不在此限。 
+  ** 对于一些特殊用字，有规定者，依规定；无规定者，依习惯[1]。（如「濱」在日语中简化为「浜」，但译作汉语时，应作「滨」字元。）
+===标题和目录===
+&lt;br&gt;
+对于所有条目的“简介”部分，应隔一个空行，放置在信息卡模板下方。如果没有模板，直接放置在条目顶部，不需要“简介”大标题。 
+&lt;br&gt;
+设置成标题的，会自动进入条目目录，不需要额外制作目录。设置标题时，标题不应有加粗、斜体、字号等额外格式。标题应尽量简短，以表述清晰，适合速读为标准。设置标题时为了方便修改代码，应在标题文字和“=”符号之间空一格。范例如下： 
+
+&lt;nowiki&gt;== 二级标题 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;=== 三级标题 ===&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==== 四级标题 ====&lt;/nowiki&gt;&lt;br&gt;
+
+如果使用者需要套用更多的标题，请使用HTML语法，但这通常会导致一些未知错误。格式为&lt;nowiki&gt;&lt;h1&gt;&lt;/nowiki&gt;，其中数字可以从1到6，通常建议从2开始。 
+&lt;br&gt;
+以下是错误用法： 
+&lt;nowiki&gt;=='''错误'''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==''错误''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;===&lt;span style="color:#F00;"&gt;错误&lt;/span&gt;===&lt;/nowiki&gt;&lt;br&gt;
+
+==用户页==
+&lt;br&gt;
+一般而言，您可以自由编辑您的用户页。因此，用户页不必拘泥于上文“使用百科形式撰写”这一守则，可以自由地进行编辑，采用任意格式均可。以下模板皆为“可选”模板，若您认为添加模板将影响您用户页的格式，可另辟蹊径，使用您青睐的方式达到目的。 
+&lt;br&gt;
+请合理使用您的用户页，避免进行以下活动： 
+  * 自我炒作
+  * 记载他人事迹（应该写在相关的主页面）
+  * 展示非法内容以及其他对用户有害的内容或不符合本站宗旨的内容
+===用户页===
+&lt;nowiki&gt;对于任何用户页，若希望以较为明显的方式提示阅览者该页面为用户页，并告知阅览者用户页编辑守则，可以添加“用户页”模板，代码为：{{UserPage}}。效果如下：&lt;/nowiki&gt;&lt;br&gt;
+{{UserPage}}
+&lt;br&gt;
+请注意，任何人都可以在您的用户页上留下评论，若您想关闭用户页评论区，请联系管理员。
+===自由编辑===
+&lt;nowiki&gt;用户本人许可其他用户编辑其用户页，可以添加“自由编辑”模板，代码为：{{FreetoEdit}}。效果如下：&lt;/nowiki&gt; 
+{{FreetoEdit}}
+===退站声明===
+&lt;nowiki&gt;已决定暂停恶俗百科事务的用户，可以添加“退站声明”模板，代码为：{{Quit|（用户名）|TIME=（时间段）}}。&lt;/nowiki&gt;'''（为保证安全，添加此模板的用户将在该时间段内被封禁，均必填）'''效果如下： &lt;br&gt;
+{{Quit|（用户名）|TIME=（时间段）}}
+
+==讨论页==
+在每个页面标签的右边，都有一个讨论的标签。 &lt;br&gt;
+在讨论页中，可以对当前页面的高雅创作进行编辑者之间的讨论。不要在主页面内进行讨论。
+===创建话题===
+&lt;br&gt;
+如要创建话题，可以点击右上角的创建话题按钮，也可以在编辑讨论页时添加以下代码：== 话题1111 ==
+&lt;br&gt;
+===签名===
+&lt;nowiki&gt;在讨论页上签名：要在讨论页上签名，只需输入四个波浪号（~~~~）&lt;/nowiki&gt;即可，它们将自动换成您的用户名和留言时间，就好像这样：[[用户:Tianyan|Tianyan]]（[[用户讨论:Tianyan|讨论]]） 2020年6月26日 (五) 12:55 (CST)。请注意所有人都没有可能留下匿名留言，因为就算您没有在留言时签名，您的用户名称或IP地址都会记录在页面历史中。您可以对签名进行自定义，新的签名务必包含本人用户页、用户讨论页、贡献页之中至少一个链接以及时间戳。签名不应包含容易混淆的链接，如同名人物条目、其他用户的相关页面等。
+
+===讨论格式标准===
+&lt;br&gt;
+往下书写：如果您将您的留言发布在页面的上方，这会使他人困惑并使其他人容易忽略您的留言。最新的讨论主题应置在页面的最下方，而接着的回应便能置于留言的下方，如此类推。此举能方便读者以发表时间的顺序来观看意见。一个较快捷的方法是使用“编辑”按钮右方的“添加话题”或“+”按钮新建主题，它会自动将您的讨论主题置于页面的最下方。 
+&lt;br&gt;
+分段书写：如果您的意见中有数个讨论重点，请将重点分段书写。您可以透过断行或使用列表符号（*）来分开每一个的讨论重点。 
+&lt;br&gt;
+使用缩排来使回应更易阅读：请使用缩排符号（:）来发表您的回应，这就与传统式BBS的回应方式相若。当其他人回应您的回应时，便会将回应的缩排层级增加，换言之即是使用两个缩排符号（::），如此类推。一般来说，列表符号（*）不应该当作缩排符号般使用。</text>
+      <sha1>lc71ajzd2sjwuvv7m3y7h0fsem00g0h</sha1>
+    </revision>
+    <revision>
+      <id>2142</id>
+      <parentid>2141</parentid>
+      <timestamp>2020-08-10T02:29:42Z</timestamp>
+      <contributor>
+        <username>imported&gt;巴卫大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22865" sha1="ivpsy63ipwi2pf1pz58y5e1u8lwxsgi" xml:space="preserve">该站编辑拥有严格的制度标准&lt;br&gt;
+左侧导航栏内分类需按照传送门模块进行排版&lt;br&gt;
+一个传送门模块代表创建一个总分类&lt;br&gt;
+中间的称号和人物名代表创建分类下的子类&lt;br&gt;
+所有导航栏内内容需按照本页要求进行编排&lt;br&gt;
+除主页外词条请任意编辑&lt;br&gt;
+创建词条不限格式，请随意创作，具体格式可参考
+*[{{SERVER}}/index.php?title=%E5%B0%A4%E5%B0%8F%E9%BE%99&amp;action=edit  尤小龙条目代码]
+==文档管理模板==
+在需要的页面上，可以加入合适的文档管理模板。文档管理模板应该在源代码的最上方列举。
+
+在页面顶端的文档管理模板，应自上至下，按以下颜色顺序摆放：
+
+'''{{color|blue|蓝色}}、{{color|yellow|黄色}}、{{color|orange|橙色}}、{{color|red|红色}}、其他颜色'''
+
+===精品===
+曾经被首页推送为特色条目的，应当由'''管理员'''（一般用户可以向管理员申请）追加“精品”模板。代码为&lt;nowiki&gt;{{精品}}&lt;/nowiki&gt;。效果如下：
+{{精品}}
+
+===当前事件===
+所讨论的内容包含仍在持续变化的当前事件的，应当追加“当前事件”模板，并包括模板追加时的时间以便验证。事件结束后超过15天的，可以移除模板。代码为&lt;nowiki&gt;{{当前事件}}&lt;/nowiki&gt;。效果如下：
+{{当前事件}}
+
+===保持中立===
+所编辑的页面中涉及的人士难以评定其立场的，应当追加“保持中立”模板，并在编辑该条目时去除自己的主观看法。代码为&lt;nowiki&gt;{{保持中立}}&lt;/nowiki&gt;。效果如下：&lt;br&gt;
+{{保持中立}}
+
+===小作品===
+长度过短，内容较少的，应当追加“小作品”模板。代码为&lt;nowiki&gt;{{小作品|（物品）}}。&lt;/nowiki&gt;效果如下：
+{{小作品|（物品）}}
+
+===请求出道===
+缺少条目涉及人士有关个人信息，并且的确需要其个人信息的，应当追加“请求出道”模板。另外，本站不推荐投稿信息甚少的人物。代码为&lt;nowiki&gt;{{请求出道}}&lt;/nowiki&gt;。效果如下：
+{{请求出道}}
+
+===缺乏格式===
+格式糟糕的，应当追加“缺乏格式”模板。代码为&lt;nowiki&gt;{{缺乏格式}}&lt;/nowiki&gt;。
+&lt;br&gt;
+{{缺乏格式}}
+
+===删除===
+&lt;nowiki&gt;认为条目应当删除的，应当由管理员(一般用户可以发起存废讨论),追加“删除”模板。代码为{{Deletion}}。如果有额外原因，代码为{{Deletion|原因}}。恶俗百科鼓励书写额外原因。效果分别如下:&lt;/nowiki&gt;&lt;br&gt;
+{{Deletion}}&lt;br&gt;
+常见的删除理由包括但不仅限于：
+* 空白条目
+* 条目内容无意义
+* 条目内容充满谬误
+* 条目主题与本站无关
+* 条目不具有足够的知名度
+* 自我炒作
+
+====快速删除====
+&lt;small&gt;主页面：[[帮助:快速删除]]&lt;/small&gt;
+
+===令人不适===
+&lt;nowiki&gt;令人感觉不适甚至会心肺停止的页面，应当追加“令人不适”模板。代码为{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}。效果如下:&lt;br&gt;&lt;/nowiki&gt;
+{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}
+&lt;br&gt;
+常见令人不适的原因包括但不限于： 
+* 频繁/强烈的语言暴力
+* 大量有关心理压力题材
+* 偶尔/轻微的成人/性暗示题材
+* 频繁/强烈的色情内容或裸露
+* 极度令人恶心的内容
+* 与社会主义核心价值观格格不入
+
+===注意备份===
+如果该页面人物擅长自我削除言行，应当追加“注意备份”模板。代码为&lt;nowiki&gt;{{注意备份}}&lt;/nowiki&gt;。效果如下：
+{{注意备份}}
+
+===禁止炒作===
+所编辑的页面中涉及的人士试图利用恶俗百科进行大量自我炒作赚取流量的，应当追加“禁止炒作”模板，代码为&lt;nowiki&gt;{{禁止炒作}}。效果如下：&lt;/nowiki&gt;
+{{禁止炒作}}
+{{color|red|注意}}:本模板只应用在这个人明确'''知道本站的存在，并希望借助本站炒作自己的条目'''的情况下。''这个最容易用错，并不是一般的炒作人都能加上''
+
+===谨慎行动===
+&lt;nowiki&gt;谨慎行动：{{谨慎行动|（人物能力）}}&lt;/nowiki&gt;
+{{谨慎行动|（人物能力）}}
+
+===极度危险===
+&lt;nowiki&gt;极度危险：{{极度危险|（人物能力）}}&lt;/nowiki&gt;
+{{极度危险|（人物能力）}}
+
+===正在服刑===
+&lt;nowiki&gt;正在服刑：{{正在服刑}}&lt;/nowiki&gt;
+{{正在服刑}}
+
+===曾经入狱===
+所编辑页面中涉及的人物如果因为某些原因入狱或者被刑拘，进局子，应当追加“曾经入狱”模板，代码为&lt;nowiki&gt;{{曾经入狱|（某种原因）}}&lt;/nowiki&gt;
+{{曾经入狱|（某种原因）}}
+
+===终止迫害===
+若由于某些原因，一些人不应当被继续迫害，应当追加“终止迫害”模板。代码&lt;nowiki&gt;终止迫害：{{终止迫害}}&lt;/nowiki&gt;
+{{终止迫害}}。效果如下：
+
+===迫害加速===
+若由于某些原因，一些人应当被加速迫害，且'''在人物信息栏中硬度为∞（7）、属于当前事件'''的可以追加“迫害加速”模板。代码为&lt;nowiki&gt;{{迫害加速|* 资料整理
+}}&lt;/nowiki&gt;。效果如下：
+{{迫害加速|* 资料整理}}
+常见迫害方法包括但不限于：
+*资料整理
+*电话互动
+*线上互动
+*素材开发
+*高雅创作
+*言行存档
+*义务教育
+*真人快打
+注意：
+*若此人确实诚恳道歉，并回归虚无达到一定时间，该模板应被移除。
+*此模板只有管理员才能添加，高雅人士的力量应该集中用于橄榄几个罪大恶极的人。
+
+===No mercy===
+&lt;nowiki&gt;无仁慈模式：{{Nomercy}}&lt;/nowiki&gt;
+{{Nomercy}}
+一旦添加此模板则代表着此人物将永远保留在恶俗百科，{{color|red|该模板只能由管理员添加，私自添加将获得封禁套餐}}
+
+===恶俗之最===
+&lt;nowiki&gt;恶俗之最：{{恶俗之最|（称号）|（理由）}}&lt;/nowiki&gt;
+{{恶俗之最|（称号）|（理由）}}
+
+===用语解释===
+如果当前页面是一个概念或专有名词解释页面，则应当添加&lt;nowiki&gt;{{用语解释}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{用语解释}}
+
+===御驾亲征===
+&lt;nowiki&gt;御驾亲征：{{御驾亲征}}&lt;/nowiki&gt;
+{{御驾亲征}}
+
+===暂无词条===
+&lt;nowiki&gt;暂无词条：{{暂无词条}}&lt;/nowiki&gt;
+{{暂无词条}}
+
+===消歧义===
+&lt;nowiki&gt;消歧义：{{消歧义}}&lt;/nowiki&gt;
+{{消歧义}}
+
+===过时===
+&lt;nowiki&gt;过时：{{过时}}&lt;/nowiki&gt;
+{{过时}}
+
+===搬运工===
+&lt;nowiki&gt;搬运工：{{搬运工|（出处）}}&lt;/nowiki&gt;
+{{搬运工|（出处）}}
+
+===站点===
+如果该页面描述的是一个网站，则应当添加&lt;nowiki&gt;{{网站}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{网站}}
+
+===未完待续===
+&lt;nowiki&gt;未完待续：{{未完待续}}&lt;/nowiki&gt;
+{{未完待续}}
+
+===大脑升级===
+&lt;nowiki&gt;大脑升级：{{大脑升级}}&lt;/nowiki&gt;
+{{大脑升级}}
+
+===死亡===
+所编辑页面中涉及人物已经死亡，则应当追加“死人”模板，代码为&lt;nowiki&gt;{{Dead}}&lt;/nowiki&gt;。例如：
+&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:deathflower.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''饶文建'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]
+*此模板仅适用于两种情况：物理死亡和自称死亡。
+*此模板应该放置于所有AmBox类模板下方。
+
+===自定义模板===
+自定义模板：&lt;br&gt;
+&lt;nowiki&gt;{{信息框&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|border=左侧边条颜色（如green）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|image=图片（直接填写文件名，例：野兽先辈.jpg）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|type=标题&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|info=内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;}}&lt;/nowiki&gt;
+{{信息框
+|border=green
+|image=提示.jpg
+|type=（标题）
+|info=（内容）
+}}
+
+==信息卡模板==
+信息卡模板隔一个空行，放置在文档管理模板下方。如没有文档管理模板，请放置在条目顶部。针对人物，应当使用人物信息模板；对组织，使用组织信息模板模板。
+===人物信息模板===
+{{信息板
+|titlename=（标题姓名）
+|photo=NOBODY.jpg
+|photocap=（图片文字）
+|name=（姓名）
+|id=（常用id）
+|class=（职业）
+|ability=（能力）
+|hardness=1
+|IQ=（智商）
+|online=5
+|affinity=（所属）
+}}
+人物信息：&lt;br&gt;
+&lt;nowiki&gt;{{信息板&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|titlename=标题姓名&lt;/nowiki&gt;（此参数通常无需填写，仅在name参数未填写或填写了多个姓名时填写）&lt;br&gt;
+&lt;nowiki&gt;|photo=图片&lt;/nowiki&gt;（直接填写文件名，例：a.jpg）&lt;br&gt;
+&lt;nowiki&gt;|photocap=图片文字&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|name=姓名&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|id=常用id&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|class=职业&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|ability=能力&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|best=必杀技&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|hardness=硬度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|dangerous=(危险度)&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|IQ=智商&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|online=活跃度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|affinity=所属&lt;/nowiki&gt;&lt;br&gt;
+}}'''''（如信息未知应删除参数，至少填写一项）'''''
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+==正文==
+===正文规范===
+所有正文段落之间应且只应空一行。正文段落采用齐头式，不必缩进两格。正文标点符号应规范使用全角中文标点符号&lt;br&gt;
+请注意事件时间线的准确性，日期格式应为XXXX年X月X日，避免使用“最近”、“今年”、“本月”等词语。在指代不需要实名的事件关系人时，应该尽量体现其身份，如“朋友”、“一般通过人士”、“高雅人士”等，避免使用“有人”、“某些人”、“很多人”等词语。 &lt;br&gt;
+恶俗百科目前100%的条目都是使用大陆简体编写，因此对于新更改也必须使用大陆简体&lt;br&gt;
+在货币及计量单位上，必须采用页面涉及人物所在国家或地区的货币和计量单位。绝大多数页面涉及人物都居住在中国大陆，因此应采用RMB和公制单位，除非是带有捏他性质并且在本站载有换算关系的单位，如“贝天”、“恒”等。 &lt;br&gt;
+请避免“假大空”的措辞，不要言之无物或举伪证。除了文游和捏他的部分以外，请尽量采用浅显易懂的叙事风格与可信度高的佐证，以一般通过人士能够了解大致经过为宜，特别是在涉及圈外人物或公众人物的情况下。 &lt;br&gt;
+'''糟糕的例子：用户在其主笔的页面内试图批判某人为“死妈废物”，指责其“打滚”、“萎勃”、“放黑屁”云云，然而通篇下来并未提及任何具体事迹或摘选任何具体语录，显然一般通过人士是难以理解此类废文的。'''
+===重新导向页面===
+某些条目可能已经被移动或因为特殊原因而不显示其元条目名。为了使访问者能够正常无虞地访问存取目标条目，故需要对错误的或已经废止使用之条目进行重新导向操作，直至流量全无为限。 &lt;br&gt;
+一般地，在移动条目时会自动在移动前条目留下一个重新导向页面。但在某些特殊情况发生时，您可能需要对条目手动进行重新导向，其语法为#REDIRECT [[条目名]]。请注意，重新导向页面目前不支援使用外部链接，这可能造成错误。 &lt;br&gt;
+==分类==
+===人物===
+&lt;br&gt;
+原则上不重复收录
+&lt;br&gt;
+   * [[国际巨星]]:
+      * 知名度高、曾出现在首页的人物
+      * 曾收录于此的人物（永久保留）
+      * 原则上不轻易收录新的人物
+   * [[二线明星]]:
+      * 知名度高、未出现在首页的人物
+      * 有创作能力的人物
+      * 曾收录于此的人物（历史遗留问题）
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[神必人]]:
+      * 未出道的人物
+      * 这是一个强制性的分类，符合条件者必须收录于此
+   * [[其他人]]:
+      * 普通人,死妈人
+      * 没有创作能力且没有键政倾向的人物
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[纸片人]]:
+      * 动画、漫画、游戏、特摄等ACGN作品中的虚拟人物
+      * 该分类下条目只记录角色本身事迹，涉及到声优、制作、运营等相关事迹请单独创建条目
+   * [[思想品德]]:
+      * 语言能力低下的人物，其打出的文字晦涩难懂]
+
+==定义文本==
+&lt;br&gt;&lt;nowiki&gt;
+使用&lt;dt&gt;时，文字自动变成粗体；使用&lt;dd&gt;时，文字自动缩排四个字元。这通常用于强调定义。&lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;刘勤为什么死妈？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为刘勤是屑。&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;为什么刘勤是屑？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为他没屁眼&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;dl&gt;
+&lt;dt&gt;刘勤为什么死妈？
+&lt;dd&gt;因为刘勤是屑。
+&lt;dt&gt;为什么刘勤是屑？
+&lt;dd&gt;因为他没屁眼
+&lt;/dl&gt;
+===列表===
+====无序列表====
+格式为:
+&lt;nowiki&gt;* 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;* 条目2&lt;/nowiki&gt;&lt;br&gt;
+
+当然你也可以使用HTML语法。下面是格式:&lt;br&gt;
+&lt;nowiki&gt;&lt;ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+* 条目1
+* 条目2
+====有序列表====
+格式为:&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+
+同样可以使用HTML语法，看个人习惯，格式为:
+&lt;nowiki&gt;&lt;ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+# 条目1
+# 条目2
+===链接===
+&lt;nowiki&gt;对于恶俗百科内部条目链接，应当使用[[条目名]]或[[条目名|显示名]]格式。如果要设定显示名，链接的显示名应当是名词性质。如果并非链接名词，而以恶俗百科内部其他条目作为出典，适用出典的设置方式。内部条目链接只应该在该名词第一次出现的位置设置，其他出现不作设置，仅为纯文本。 &lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;对于外部链接，使用[链接 显示名]格式设置。设置原则同站内链接，但如果条目内包括页面全名，在全名上设置链接的，不必设置为引用，直接在文字上设置链接即可。&lt;/nowiki&gt;&lt;br&gt;
+本站也提供了到部分站点的快捷引用方式，可以按内部链接格式使用。例如： &lt;br&gt;
+* ALL网站:&lt;nowiki&gt;[[URL 描述文字]]&lt;/nowiki&gt;&lt;br&gt;
+* 恶俗百科内链接:&lt;nowiki&gt;[[尤小龙]]&lt;/nowiki&gt;
+
+===引用===
+&lt;nowiki&gt;对于页面内只使用很少次数的引用，用&lt;ref&gt;引用内容&lt;/ref&gt;格式，并在条目底部加入以下内容：&lt;/nowiki&gt;
+&lt;nowiki&gt;== 注释 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;references/&gt;&lt;/nowiki&gt;&lt;br&gt;
+维基系统会自动生成注释连接。 &lt;br&gt;
+对于整个页面处处参考的引用，不必使用注释格式，在页面底部加入“参考资料”一节并链接即可。 
+===隐蔽性注释===
+&lt;nowiki&gt;隐蔽性注释用于隐藏目标字元，使之无法在可视化编辑器及可视化页面下被查看。隐蔽性注释可以理解为Java中的单行注释。如果使用者需要对一部分字元进行隐蔽性注释，那么其格式为&lt;!-- 你要注释的字元 --&gt;。以下是示范：&lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;&lt;nowiki&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;
+===Wikitable===
+Wikitable是一种由MediaWiki提供的表格修饰，这种表格比直接绘制的表格好看十万甚至九万倍。下面是示例&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;{|&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|橘子||苹果||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|面包||饼||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|奶油||冰淇淋||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|}&lt;br&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:
+{|
+|橘子||苹果||更多
+|-
+|面包||饼||更多
+|-
+|奶油||冰淇淋||更多
+|}
+
+===文字上标===
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字上标。其引用格式为&lt;sup&gt;欲上标之字元&lt;/sup&gt;。下面是关于上标字的{{#vardefine:size|}}demo。 &lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;
+===文字下标===
+&lt;br&gt;
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字下标。其引用格式为&lt;sub&gt;欲下标之字元&lt;/sub&gt;。下面是关于下标字的{{#vardefine:size|}}demo。&lt;/nowiki&gt;&lt;br&gt;
+您输入的：&lt;br&gt;
+&lt;nowiki&gt;氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;
+===删除线===
+&lt;nowiki&gt;当使用者需要利用删除线效果时，其引用格式为&lt;s&gt;欲删除之字元&lt;/s&gt;，也可以使用其全写&lt;strike&gt;欲删除之字元&lt;/strike&gt;。 &lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;
+===姓名规范===
+&lt;br&gt;
+如果条目描述的是一个人的话 
+* 该人士有中国血统，且其有中文姓名的话，使用其真实中文姓名的简体作为标题。
+* 该人士其姓名为外文的，标题以其真实姓名的新华社译名为准。 
+  ** 英文姓名可参考：[[《英文姓名译文手册》]]
+  ** 如手册中无法找到，可在网络搜索同名人士的新华社报道（site:news.cn）。
+  ** 例如：有一名美国诺贝尔物理学奖得主Arieh译名为亚利耶，因此Arieh Smith的译名为亚利耶·史密斯
+  ** 若其姓名无官方翻译，亦无民间翻译者，应自行音译其姓名，但需要对该姓名至少加入一个注释，内容为原文写法。
+* 原名为日语者，应该使用已经简化的日本汉字，且应在汉字顶部标注其平假名写法。然描述1945年前出生者，不在此限。 
+  ** 对于一些特殊用字，有规定者，依规定；无规定者，依习惯[1]。（如「濱」在日语中简化为「浜」，但译作汉语时，应作「滨」字元。）
+===标题和目录===
+&lt;br&gt;
+对于所有条目的“简介”部分，应隔一个空行，放置在信息卡模板下方。如果没有模板，直接放置在条目顶部，不需要“简介”大标题。 
+&lt;br&gt;
+设置成标题的，会自动进入条目目录，不需要额外制作目录。设置标题时，标题不应有加粗、斜体、字号等额外格式。标题应尽量简短，以表述清晰，适合速读为标准。设置标题时为了方便修改代码，应在标题文字和“=”符号之间空一格。范例如下： 
+
+&lt;nowiki&gt;== 二级标题 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;=== 三级标题 ===&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==== 四级标题 ====&lt;/nowiki&gt;&lt;br&gt;
+
+如果使用者需要套用更多的标题，请使用HTML语法，但这通常会导致一些未知错误。格式为&lt;nowiki&gt;&lt;h1&gt;&lt;/nowiki&gt;，其中数字可以从1到6，通常建议从2开始。 
+&lt;br&gt;
+以下是错误用法： 
+&lt;nowiki&gt;=='''错误'''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==''错误''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;===&lt;span style="color:#F00;"&gt;错误&lt;/span&gt;===&lt;/nowiki&gt;&lt;br&gt;
+
+==用户页==
+&lt;br&gt;
+一般而言，您可以自由编辑您的用户页。因此，用户页不必拘泥于上文“使用百科形式撰写”这一守则，可以自由地进行编辑，采用任意格式均可。以下模板皆为“可选”模板，若您认为添加模板将影响您用户页的格式，可另辟蹊径，使用您青睐的方式达到目的。 
+&lt;br&gt;
+请合理使用您的用户页，避免进行以下活动： 
+  * 自我炒作
+  * 记载他人事迹（应该写在相关的主页面）
+  * 展示非法内容以及其他对用户有害的内容或不符合本站宗旨的内容
+===用户页===
+&lt;nowiki&gt;对于任何用户页，若希望以较为明显的方式提示阅览者该页面为用户页，并告知阅览者用户页编辑守则，可以添加“用户页”模板，代码为：{{UserPage}}。效果如下：&lt;/nowiki&gt;&lt;br&gt;
+{{UserPage}}
+&lt;br&gt;
+请注意，任何人都可以在您的用户页上留下评论，若您想关闭用户页评论区，请联系管理员。
+===自由编辑===
+&lt;nowiki&gt;用户本人许可其他用户编辑其用户页，可以添加“自由编辑”模板，代码为：{{FreetoEdit}}。效果如下：&lt;/nowiki&gt; 
+{{FreetoEdit}}
+===退站声明===
+&lt;nowiki&gt;已决定暂停恶俗百科事务的用户，可以添加“退站声明”模板，代码为：{{Quit|（用户名）|TIME=（时间段）}}。&lt;/nowiki&gt;'''（为保证安全，添加此模板的用户将在该时间段内被封禁，均必填）'''效果如下： &lt;br&gt;
+{{Quit|（用户名）|TIME=（时间段）}}
+
+==讨论页==
+在每个页面标签的右边，都有一个讨论的标签。 &lt;br&gt;
+在讨论页中，可以对当前页面的高雅创作进行编辑者之间的讨论。不要在主页面内进行讨论。
+===创建话题===
+&lt;br&gt;
+如要创建话题，可以点击右上角的创建话题按钮，也可以在编辑讨论页时添加以下代码：== 话题1111 ==
+&lt;br&gt;
+===签名===
+&lt;nowiki&gt;在讨论页上签名：要在讨论页上签名，只需输入四个波浪号（~~~~）&lt;/nowiki&gt;即可，它们将自动换成您的用户名和留言时间，就好像这样：[[用户:Tianyan|Tianyan]]（[[用户讨论:Tianyan|讨论]]） 2020年6月26日 (五) 12:55 (CST)。请注意所有人都没有可能留下匿名留言，因为就算您没有在留言时签名，您的用户名称或IP地址都会记录在页面历史中。您可以对签名进行自定义，新的签名务必包含本人用户页、用户讨论页、贡献页之中至少一个链接以及时间戳。签名不应包含容易混淆的链接，如同名人物条目、其他用户的相关页面等。
+
+===讨论格式标准===
+&lt;br&gt;
+往下书写：如果您将您的留言发布在页面的上方，这会使他人困惑并使其他人容易忽略您的留言。最新的讨论主题应置在页面的最下方，而接着的回应便能置于留言的下方，如此类推。此举能方便读者以发表时间的顺序来观看意见。一个较快捷的方法是使用“编辑”按钮右方的“添加话题”或“+”按钮新建主题，它会自动将您的讨论主题置于页面的最下方。 
+&lt;br&gt;
+分段书写：如果您的意见中有数个讨论重点，请将重点分段书写。您可以透过断行或使用列表符号（*）来分开每一个的讨论重点。 
+&lt;br&gt;
+使用缩排来使回应更易阅读：请使用缩排符号（:）来发表您的回应，这就与传统式BBS的回应方式相若。当其他人回应您的回应时，便会将回应的缩排层级增加，换言之即是使用两个缩排符号（::），如此类推。一般来说，列表符号（*）不应该当作缩排符号般使用。
+
+&lt;comments /&gt;</text>
+      <sha1>ivpsy63ipwi2pf1pz58y5e1u8lwxsgi</sha1>
+    </revision>
+    <revision>
+      <id>2143</id>
+      <parentid>2142</parentid>
+      <timestamp>2020-08-14T08:43:46Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <minor/>
+      <comment>/* 人物 */</comment>
+      <origin>2143</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22864" sha1="5hi3b5r2yxfxqazmq4gcwqg2nttvuqb" xml:space="preserve">该站编辑拥有严格的制度标准&lt;br&gt;
+左侧导航栏内分类需按照传送门模块进行排版&lt;br&gt;
+一个传送门模块代表创建一个总分类&lt;br&gt;
+中间的称号和人物名代表创建分类下的子类&lt;br&gt;
+所有导航栏内内容需按照本页要求进行编排&lt;br&gt;
+除主页外词条请任意编辑&lt;br&gt;
+创建词条不限格式，请随意创作，具体格式可参考
+*[{{SERVER}}/index.php?title=%E5%B0%A4%E5%B0%8F%E9%BE%99&amp;action=edit  尤小龙条目代码]
+==文档管理模板==
+在需要的页面上，可以加入合适的文档管理模板。文档管理模板应该在源代码的最上方列举。
+
+在页面顶端的文档管理模板，应自上至下，按以下颜色顺序摆放：
+
+'''{{color|blue|蓝色}}、{{color|yellow|黄色}}、{{color|orange|橙色}}、{{color|red|红色}}、其他颜色'''
+
+===精品===
+曾经被首页推送为特色条目的，应当由'''管理员'''（一般用户可以向管理员申请）追加“精品”模板。代码为&lt;nowiki&gt;{{精品}}&lt;/nowiki&gt;。效果如下：
+{{精品}}
+
+===当前事件===
+所讨论的内容包含仍在持续变化的当前事件的，应当追加“当前事件”模板，并包括模板追加时的时间以便验证。事件结束后超过15天的，可以移除模板。代码为&lt;nowiki&gt;{{当前事件}}&lt;/nowiki&gt;。效果如下：
+{{当前事件}}
+
+===保持中立===
+所编辑的页面中涉及的人士难以评定其立场的，应当追加“保持中立”模板，并在编辑该条目时去除自己的主观看法。代码为&lt;nowiki&gt;{{保持中立}}&lt;/nowiki&gt;。效果如下：&lt;br&gt;
+{{保持中立}}
+
+===小作品===
+长度过短，内容较少的，应当追加“小作品”模板。代码为&lt;nowiki&gt;{{小作品|（物品）}}。&lt;/nowiki&gt;效果如下：
+{{小作品|（物品）}}
+
+===请求出道===
+缺少条目涉及人士有关个人信息，并且的确需要其个人信息的，应当追加“请求出道”模板。另外，本站不推荐投稿信息甚少的人物。代码为&lt;nowiki&gt;{{请求出道}}&lt;/nowiki&gt;。效果如下：
+{{请求出道}}
+
+===缺乏格式===
+格式糟糕的，应当追加“缺乏格式”模板。代码为&lt;nowiki&gt;{{缺乏格式}}&lt;/nowiki&gt;。
+&lt;br&gt;
+{{缺乏格式}}
+
+===删除===
+&lt;nowiki&gt;认为条目应当删除的，应当由管理员(一般用户可以发起存废讨论),追加“删除”模板。代码为{{Deletion}}。如果有额外原因，代码为{{Deletion|原因}}。恶俗百科鼓励书写额外原因。效果分别如下:&lt;/nowiki&gt;&lt;br&gt;
+{{Deletion}}&lt;br&gt;
+常见的删除理由包括但不仅限于：
+* 空白条目
+* 条目内容无意义
+* 条目内容充满谬误
+* 条目主题与本站无关
+* 条目不具有足够的知名度
+* 自我炒作
+
+====快速删除====
+&lt;small&gt;主页面：[[帮助:快速删除]]&lt;/small&gt;
+
+===令人不适===
+&lt;nowiki&gt;令人感觉不适甚至会心肺停止的页面，应当追加“令人不适”模板。代码为{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}。效果如下:&lt;br&gt;&lt;/nowiki&gt;
+{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}
+&lt;br&gt;
+常见令人不适的原因包括但不限于： 
+* 频繁/强烈的语言暴力
+* 大量有关心理压力题材
+* 偶尔/轻微的成人/性暗示题材
+* 频繁/强烈的色情内容或裸露
+* 极度令人恶心的内容
+* 与社会主义核心价值观格格不入
+
+===注意备份===
+如果该页面人物擅长自我削除言行，应当追加“注意备份”模板。代码为&lt;nowiki&gt;{{注意备份}}&lt;/nowiki&gt;。效果如下：
+{{注意备份}}
+
+===禁止炒作===
+所编辑的页面中涉及的人士试图利用恶俗百科进行大量自我炒作赚取流量的，应当追加“禁止炒作”模板，代码为&lt;nowiki&gt;{{禁止炒作}}。效果如下：&lt;/nowiki&gt;
+{{禁止炒作}}
+{{color|red|注意}}:本模板只应用在这个人明确'''知道本站的存在，并希望借助本站炒作自己的条目'''的情况下。''这个最容易用错，并不是一般的炒作人都能加上''
+
+===谨慎行动===
+&lt;nowiki&gt;谨慎行动：{{谨慎行动|（人物能力）}}&lt;/nowiki&gt;
+{{谨慎行动|（人物能力）}}
+
+===极度危险===
+&lt;nowiki&gt;极度危险：{{极度危险|（人物能力）}}&lt;/nowiki&gt;
+{{极度危险|（人物能力）}}
+
+===正在服刑===
+&lt;nowiki&gt;正在服刑：{{正在服刑}}&lt;/nowiki&gt;
+{{正在服刑}}
+
+===曾经入狱===
+所编辑页面中涉及的人物如果因为某些原因入狱或者被刑拘，进局子，应当追加“曾经入狱”模板，代码为&lt;nowiki&gt;{{曾经入狱|（某种原因）}}&lt;/nowiki&gt;
+{{曾经入狱|（某种原因）}}
+
+===终止迫害===
+若由于某些原因，一些人不应当被继续迫害，应当追加“终止迫害”模板。代码&lt;nowiki&gt;终止迫害：{{终止迫害}}&lt;/nowiki&gt;
+{{终止迫害}}。效果如下：
+
+===迫害加速===
+若由于某些原因，一些人应当被加速迫害，且'''在人物信息栏中硬度为∞（7）、属于当前事件'''的可以追加“迫害加速”模板。代码为&lt;nowiki&gt;{{迫害加速|* 资料整理
+}}&lt;/nowiki&gt;。效果如下：
+{{迫害加速|* 资料整理}}
+常见迫害方法包括但不限于：
+*资料整理
+*电话互动
+*线上互动
+*素材开发
+*高雅创作
+*言行存档
+*义务教育
+*真人快打
+注意：
+*若此人确实诚恳道歉，并回归虚无达到一定时间，该模板应被移除。
+*此模板只有管理员才能添加，高雅人士的力量应该集中用于橄榄几个罪大恶极的人。
+
+===No mercy===
+&lt;nowiki&gt;无仁慈模式：{{Nomercy}}&lt;/nowiki&gt;
+{{Nomercy}}
+一旦添加此模板则代表着此人物将永远保留在恶俗百科，{{color|red|该模板只能由管理员添加，私自添加将获得封禁套餐}}
+
+===恶俗之最===
+&lt;nowiki&gt;恶俗之最：{{恶俗之最|（称号）|（理由）}}&lt;/nowiki&gt;
+{{恶俗之最|（称号）|（理由）}}
+
+===用语解释===
+如果当前页面是一个概念或专有名词解释页面，则应当添加&lt;nowiki&gt;{{用语解释}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{用语解释}}
+
+===御驾亲征===
+&lt;nowiki&gt;御驾亲征：{{御驾亲征}}&lt;/nowiki&gt;
+{{御驾亲征}}
+
+===暂无词条===
+&lt;nowiki&gt;暂无词条：{{暂无词条}}&lt;/nowiki&gt;
+{{暂无词条}}
+
+===消歧义===
+&lt;nowiki&gt;消歧义：{{消歧义}}&lt;/nowiki&gt;
+{{消歧义}}
+
+===过时===
+&lt;nowiki&gt;过时：{{过时}}&lt;/nowiki&gt;
+{{过时}}
+
+===搬运工===
+&lt;nowiki&gt;搬运工：{{搬运工|（出处）}}&lt;/nowiki&gt;
+{{搬运工|（出处）}}
+
+===站点===
+如果该页面描述的是一个网站，则应当添加&lt;nowiki&gt;{{网站}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{网站}}
+
+===未完待续===
+&lt;nowiki&gt;未完待续：{{未完待续}}&lt;/nowiki&gt;
+{{未完待续}}
+
+===大脑升级===
+&lt;nowiki&gt;大脑升级：{{大脑升级}}&lt;/nowiki&gt;
+{{大脑升级}}
+
+===死亡===
+所编辑页面中涉及人物已经死亡，则应当追加“死人”模板，代码为&lt;nowiki&gt;{{Dead}}&lt;/nowiki&gt;。例如：
+&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:deathflower.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''饶文建'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]
+*此模板仅适用于两种情况：物理死亡和自称死亡。
+*此模板应该放置于所有AmBox类模板下方。
+
+===自定义模板===
+自定义模板：&lt;br&gt;
+&lt;nowiki&gt;{{信息框&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|border=左侧边条颜色（如green）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|image=图片（直接填写文件名，例：野兽先辈.jpg）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|type=标题&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|info=内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;}}&lt;/nowiki&gt;
+{{信息框
+|border=green
+|image=提示.jpg
+|type=（标题）
+|info=（内容）
+}}
+
+==信息卡模板==
+信息卡模板隔一个空行，放置在文档管理模板下方。如没有文档管理模板，请放置在条目顶部。针对人物，应当使用人物信息模板；对组织，使用组织信息模板模板。
+===人物信息模板===
+{{信息板
+|titlename=（标题姓名）
+|photo=NOBODY.jpg
+|photocap=（图片文字）
+|name=（姓名）
+|id=（常用id）
+|class=（职业）
+|ability=（能力）
+|hardness=1
+|IQ=（智商）
+|online=5
+|affinity=（所属）
+}}
+人物信息：&lt;br&gt;
+&lt;nowiki&gt;{{信息板&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|titlename=标题姓名&lt;/nowiki&gt;（此参数通常无需填写，仅在name参数未填写或填写了多个姓名时填写）&lt;br&gt;
+&lt;nowiki&gt;|photo=图片&lt;/nowiki&gt;（直接填写文件名，例：a.jpg）&lt;br&gt;
+&lt;nowiki&gt;|photocap=图片文字&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|name=姓名&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|id=常用id&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|class=职业&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|ability=能力&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|best=必杀技&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|hardness=硬度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|dangerous=(危险度)&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|IQ=智商&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|online=活跃度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|affinity=所属&lt;/nowiki&gt;&lt;br&gt;
+}}'''''（如信息未知应删除参数，至少填写一项）'''''
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+==正文==
+===正文规范===
+所有正文段落之间应且只应空一行。正文段落采用齐头式，不必缩进两格。正文标点符号应规范使用全角中文标点符号&lt;br&gt;
+请注意事件时间线的准确性，日期格式应为XXXX年X月X日，避免使用“最近”、“今年”、“本月”等词语。在指代不需要实名的事件关系人时，应该尽量体现其身份，如“朋友”、“一般通过人士”、“高雅人士”等，避免使用“有人”、“某些人”、“很多人”等词语。 &lt;br&gt;
+恶俗百科目前100%的条目都是使用大陆简体编写，因此对于新更改也必须使用大陆简体&lt;br&gt;
+在货币及计量单位上，必须采用页面涉及人物所在国家或地区的货币和计量单位。绝大多数页面涉及人物都居住在中国大陆，因此应采用RMB和公制单位，除非是带有捏他性质并且在本站载有换算关系的单位，如“贝天”、“恒”等。 &lt;br&gt;
+请避免“假大空”的措辞，不要言之无物或举伪证。除了文游和捏他的部分以外，请尽量采用浅显易懂的叙事风格与可信度高的佐证，以一般通过人士能够了解大致经过为宜，特别是在涉及圈外人物或公众人物的情况下。 &lt;br&gt;
+'''糟糕的例子：用户在其主笔的页面内试图批判某人为“死妈废物”，指责其“打滚”、“萎勃”、“放黑屁”云云，然而通篇下来并未提及任何具体事迹或摘选任何具体语录，显然一般通过人士是难以理解此类废文的。'''
+===重新导向页面===
+某些条目可能已经被移动或因为特殊原因而不显示其元条目名。为了使访问者能够正常无虞地访问存取目标条目，故需要对错误的或已经废止使用之条目进行重新导向操作，直至流量全无为限。 &lt;br&gt;
+一般地，在移动条目时会自动在移动前条目留下一个重新导向页面。但在某些特殊情况发生时，您可能需要对条目手动进行重新导向，其语法为#REDIRECT [[条目名]]。请注意，重新导向页面目前不支援使用外部链接，这可能造成错误。 &lt;br&gt;
+==分类==
+===人物===
+&lt;br&gt;
+原则上不重复收录
+&lt;br&gt;
+   * [[国际巨星]]:
+      * 知名度高、曾出现在首页的人物
+      * 曾收录于此的人物（永久保留）
+      * 原则上不轻易收录新的人物
+   * [[二线明星]]:
+      * 知名度高、未出现在首页的人物
+      * 有创作能力的人物
+      * 曾收录于此的人物（历史遗留问题）
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[神必人]]:
+      * 未出道的人物
+      * 这是一个强制性的分类，符合条件者必须收录于此
+   * [[其他人]]:
+      * 普通人,死妈人
+      * 没有创作能力且没有键政倾向的人物
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[纸片人]]:
+      * 动画、漫画、游戏、特摄等ACGN作品中的虚拟人物
+      * 该分类下条目只记录角色本身事迹，涉及到声优、制作、运营等相关事迹请单独创建条目
+   * [[思想品德]]:
+      * 语言能力低下的人物，其打出的文字晦涩难懂
+
+==定义文本==
+&lt;br&gt;&lt;nowiki&gt;
+使用&lt;dt&gt;时，文字自动变成粗体；使用&lt;dd&gt;时，文字自动缩排四个字元。这通常用于强调定义。&lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;刘勤为什么死妈？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为刘勤是屑。&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;为什么刘勤是屑？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为他没屁眼&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;dl&gt;
+&lt;dt&gt;刘勤为什么死妈？
+&lt;dd&gt;因为刘勤是屑。
+&lt;dt&gt;为什么刘勤是屑？
+&lt;dd&gt;因为他没屁眼
+&lt;/dl&gt;
+===列表===
+====无序列表====
+格式为:
+&lt;nowiki&gt;* 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;* 条目2&lt;/nowiki&gt;&lt;br&gt;
+
+当然你也可以使用HTML语法。下面是格式:&lt;br&gt;
+&lt;nowiki&gt;&lt;ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+* 条目1
+* 条目2
+====有序列表====
+格式为:&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+
+同样可以使用HTML语法，看个人习惯，格式为:
+&lt;nowiki&gt;&lt;ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+# 条目1
+# 条目2
+===链接===
+&lt;nowiki&gt;对于恶俗百科内部条目链接，应当使用[[条目名]]或[[条目名|显示名]]格式。如果要设定显示名，链接的显示名应当是名词性质。如果并非链接名词，而以恶俗百科内部其他条目作为出典，适用出典的设置方式。内部条目链接只应该在该名词第一次出现的位置设置，其他出现不作设置，仅为纯文本。 &lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;对于外部链接，使用[链接 显示名]格式设置。设置原则同站内链接，但如果条目内包括页面全名，在全名上设置链接的，不必设置为引用，直接在文字上设置链接即可。&lt;/nowiki&gt;&lt;br&gt;
+本站也提供了到部分站点的快捷引用方式，可以按内部链接格式使用。例如： &lt;br&gt;
+* ALL网站:&lt;nowiki&gt;[[URL 描述文字]]&lt;/nowiki&gt;&lt;br&gt;
+* 恶俗百科内链接:&lt;nowiki&gt;[[尤小龙]]&lt;/nowiki&gt;
+
+===引用===
+&lt;nowiki&gt;对于页面内只使用很少次数的引用，用&lt;ref&gt;引用内容&lt;/ref&gt;格式，并在条目底部加入以下内容：&lt;/nowiki&gt;
+&lt;nowiki&gt;== 注释 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;references/&gt;&lt;/nowiki&gt;&lt;br&gt;
+维基系统会自动生成注释连接。 &lt;br&gt;
+对于整个页面处处参考的引用，不必使用注释格式，在页面底部加入“参考资料”一节并链接即可。 
+===隐蔽性注释===
+&lt;nowiki&gt;隐蔽性注释用于隐藏目标字元，使之无法在可视化编辑器及可视化页面下被查看。隐蔽性注释可以理解为Java中的单行注释。如果使用者需要对一部分字元进行隐蔽性注释，那么其格式为&lt;!-- 你要注释的字元 --&gt;。以下是示范：&lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;&lt;nowiki&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;
+===Wikitable===
+Wikitable是一种由MediaWiki提供的表格修饰，这种表格比直接绘制的表格好看十万甚至九万倍。下面是示例&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;{|&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|橘子||苹果||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|面包||饼||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|奶油||冰淇淋||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|}&lt;br&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:
+{|
+|橘子||苹果||更多
+|-
+|面包||饼||更多
+|-
+|奶油||冰淇淋||更多
+|}
+
+===文字上标===
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字上标。其引用格式为&lt;sup&gt;欲上标之字元&lt;/sup&gt;。下面是关于上标字的{{#vardefine:size|}}demo。 &lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;
+===文字下标===
+&lt;br&gt;
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字下标。其引用格式为&lt;sub&gt;欲下标之字元&lt;/sub&gt;。下面是关于下标字的{{#vardefine:size|}}demo。&lt;/nowiki&gt;&lt;br&gt;
+您输入的：&lt;br&gt;
+&lt;nowiki&gt;氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;
+===删除线===
+&lt;nowiki&gt;当使用者需要利用删除线效果时，其引用格式为&lt;s&gt;欲删除之字元&lt;/s&gt;，也可以使用其全写&lt;strike&gt;欲删除之字元&lt;/strike&gt;。 &lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;
+===姓名规范===
+&lt;br&gt;
+如果条目描述的是一个人的话 
+* 该人士有中国血统，且其有中文姓名的话，使用其真实中文姓名的简体作为标题。
+* 该人士其姓名为外文的，标题以其真实姓名的新华社译名为准。 
+  ** 英文姓名可参考：[[《英文姓名译文手册》]]
+  ** 如手册中无法找到，可在网络搜索同名人士的新华社报道（site:news.cn）。
+  ** 例如：有一名美国诺贝尔物理学奖得主Arieh译名为亚利耶，因此Arieh Smith的译名为亚利耶·史密斯
+  ** 若其姓名无官方翻译，亦无民间翻译者，应自行音译其姓名，但需要对该姓名至少加入一个注释，内容为原文写法。
+* 原名为日语者，应该使用已经简化的日本汉字，且应在汉字顶部标注其平假名写法。然描述1945年前出生者，不在此限。 
+  ** 对于一些特殊用字，有规定者，依规定；无规定者，依习惯[1]。（如「濱」在日语中简化为「浜」，但译作汉语时，应作「滨」字元。）
+===标题和目录===
+&lt;br&gt;
+对于所有条目的“简介”部分，应隔一个空行，放置在信息卡模板下方。如果没有模板，直接放置在条目顶部，不需要“简介”大标题。 
+&lt;br&gt;
+设置成标题的，会自动进入条目目录，不需要额外制作目录。设置标题时，标题不应有加粗、斜体、字号等额外格式。标题应尽量简短，以表述清晰，适合速读为标准。设置标题时为了方便修改代码，应在标题文字和“=”符号之间空一格。范例如下： 
+
+&lt;nowiki&gt;== 二级标题 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;=== 三级标题 ===&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==== 四级标题 ====&lt;/nowiki&gt;&lt;br&gt;
+
+如果使用者需要套用更多的标题，请使用HTML语法，但这通常会导致一些未知错误。格式为&lt;nowiki&gt;&lt;h1&gt;&lt;/nowiki&gt;，其中数字可以从1到6，通常建议从2开始。 
+&lt;br&gt;
+以下是错误用法： 
+&lt;nowiki&gt;=='''错误'''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==''错误''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;===&lt;span style="color:#F00;"&gt;错误&lt;/span&gt;===&lt;/nowiki&gt;&lt;br&gt;
+
+==用户页==
+&lt;br&gt;
+一般而言，您可以自由编辑您的用户页。因此，用户页不必拘泥于上文“使用百科形式撰写”这一守则，可以自由地进行编辑，采用任意格式均可。以下模板皆为“可选”模板，若您认为添加模板将影响您用户页的格式，可另辟蹊径，使用您青睐的方式达到目的。 
+&lt;br&gt;
+请合理使用您的用户页，避免进行以下活动： 
+  * 自我炒作
+  * 记载他人事迹（应该写在相关的主页面）
+  * 展示非法内容以及其他对用户有害的内容或不符合本站宗旨的内容
+===用户页===
+&lt;nowiki&gt;对于任何用户页，若希望以较为明显的方式提示阅览者该页面为用户页，并告知阅览者用户页编辑守则，可以添加“用户页”模板，代码为：{{UserPage}}。效果如下：&lt;/nowiki&gt;&lt;br&gt;
+{{UserPage}}
+&lt;br&gt;
+请注意，任何人都可以在您的用户页上留下评论，若您想关闭用户页评论区，请联系管理员。
+===自由编辑===
+&lt;nowiki&gt;用户本人许可其他用户编辑其用户页，可以添加“自由编辑”模板，代码为：{{FreetoEdit}}。效果如下：&lt;/nowiki&gt; 
+{{FreetoEdit}}
+===退站声明===
+&lt;nowiki&gt;已决定暂停恶俗百科事务的用户，可以添加“退站声明”模板，代码为：{{Quit|（用户名）|TIME=（时间段）}}。&lt;/nowiki&gt;'''（为保证安全，添加此模板的用户将在该时间段内被封禁，均必填）'''效果如下： &lt;br&gt;
+{{Quit|（用户名）|TIME=（时间段）}}
+
+==讨论页==
+在每个页面标签的右边，都有一个讨论的标签。 &lt;br&gt;
+在讨论页中，可以对当前页面的高雅创作进行编辑者之间的讨论。不要在主页面内进行讨论。
+===创建话题===
+&lt;br&gt;
+如要创建话题，可以点击右上角的创建话题按钮，也可以在编辑讨论页时添加以下代码：== 话题1111 ==
+&lt;br&gt;
+===签名===
+&lt;nowiki&gt;在讨论页上签名：要在讨论页上签名，只需输入四个波浪号（~~~~）&lt;/nowiki&gt;即可，它们将自动换成您的用户名和留言时间，就好像这样：[[用户:Tianyan|Tianyan]]（[[用户讨论:Tianyan|讨论]]） 2020年6月26日 (五) 12:55 (CST)。请注意所有人都没有可能留下匿名留言，因为就算您没有在留言时签名，您的用户名称或IP地址都会记录在页面历史中。您可以对签名进行自定义，新的签名务必包含本人用户页、用户讨论页、贡献页之中至少一个链接以及时间戳。签名不应包含容易混淆的链接，如同名人物条目、其他用户的相关页面等。
+
+===讨论格式标准===
+&lt;br&gt;
+往下书写：如果您将您的留言发布在页面的上方，这会使他人困惑并使其他人容易忽略您的留言。最新的讨论主题应置在页面的最下方，而接着的回应便能置于留言的下方，如此类推。此举能方便读者以发表时间的顺序来观看意见。一个较快捷的方法是使用“编辑”按钮右方的“添加话题”或“+”按钮新建主题，它会自动将您的讨论主题置于页面的最下方。 
+&lt;br&gt;
+分段书写：如果您的意见中有数个讨论重点，请将重点分段书写。您可以透过断行或使用列表符号（*）来分开每一个的讨论重点。 
+&lt;br&gt;
+使用缩排来使回应更易阅读：请使用缩排符号（:）来发表您的回应，这就与传统式BBS的回应方式相若。当其他人回应您的回应时，便会将回应的缩排层级增加，换言之即是使用两个缩排符号（::），如此类推。一般来说，列表符号（*）不应该当作缩排符号般使用。
+
+&lt;comments /&gt;</text>
+      <sha1>5hi3b5r2yxfxqazmq4gcwqg2nttvuqb</sha1>
+    </revision>
+    <revision>
+      <id>2144</id>
+      <parentid>2143</parentid>
+      <timestamp>2020-08-22T16:52:00Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22983" sha1="lcodslh02cbzwi03qwdc67zhlhdoz5l" xml:space="preserve">该站编辑拥有严格的制度标准&lt;br&gt;
+左侧导航栏内分类需按照传送门模块进行排版&lt;br&gt;
+一个传送门模块代表创建一个总分类&lt;br&gt;
+中间的称号和人物名代表创建分类下的子类&lt;br&gt;
+所有导航栏内内容需按照本页要求进行编排&lt;br&gt;
+除主页外词条请任意编辑&lt;br&gt;
+创建词条不限格式，请随意创作，具体格式可参考
+*[{{SERVER}}/index.php?title=%E5%B0%A4%E5%B0%8F%E9%BE%99&amp;action=edit  尤小龙条目代码]
+==文档管理模板==
+在需要的页面上，可以加入合适的文档管理模板。文档管理模板应该在源代码的最上方列举。
+
+在页面顶端的文档管理模板，应自上至下，按以下颜色顺序摆放：
+
+'''{{color|blue|蓝色}}、{{color|yellow|黄色}}、{{color|orange|橙色}}、{{color|red|红色}}、其他颜色'''
+
+===精品===
+曾经被首页推送为特色条目的，应当由'''管理员'''（一般用户可以向管理员申请）追加“精品”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{精品}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{精品}}
+
+===当前事件===
+所讨论的内容包含仍在持续变化的当前事件的，应当追加“当前事件”模板，并包括模板追加时的时间以便验证。事件结束后超过15天的，可以移除模板。代码为&lt;code&gt;&lt;nowiki&gt;{{当前事件}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{当前事件}}
+
+===保持中立===
+所编辑的页面中涉及的人士难以评定其立场的，应当追加“保持中立”模板，并在编辑该条目时去除自己的主观看法。代码为&lt;code&gt;&lt;nowiki&gt;{{保持中立}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：&lt;br&gt;
+{{保持中立}}
+
+===小作品===
+长度过短，内容较少的，应当追加“小作品”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{小作品|（物品）}}。&lt;/nowiki&gt;&lt;/code&gt;效果如下：
+{{小作品|（物品）}}
+
+===请求出道===
+缺少条目涉及人士有关个人信息，并且的确需要其个人信息的，应当追加“请求出道”模板。另外，本站不推荐投稿信息甚少的人物。代码为&lt;code&gt;&lt;nowiki&gt;{{请求出道}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{请求出道}}
+
+===缺乏格式===
+格式糟糕的，应当追加“缺乏格式”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{缺乏格式}}&lt;/nowiki&gt;&lt;/code&gt;。
+&lt;br&gt;
+{{缺乏格式}}
+
+===删除===
+认为条目应当删除的，应当由管理员(一般用户可以发起存废讨论),追加“删除”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{Deletion}}&lt;nowiki&gt;&lt;/code&gt;。如果有额外原因，代码为&lt;code&gt;&lt;nowiki&gt;{{Deletion|原因}}&lt;nowiki&gt;&lt;/code&gt;。恶俗百科鼓励书写额外原因。效果分别如下:&lt;br&gt;
+{{Deletion}}&lt;br&gt;
+常见的删除理由包括但不仅限于：
+* 空白条目
+* 条目内容无意义
+* 条目内容充满谬误
+* 条目主题与本站无关
+* 条目不具有足够的知名度
+* 自我炒作
+
+====快速删除====
+&lt;small&gt;主页面：[[帮助:快速删除]]&lt;/small&gt;
+
+===令人不适===
+&lt;nowiki&gt;令人感觉不适甚至会心肺停止的页面，应当追加“令人不适”模板。代码为{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}。效果如下:&lt;br&gt;&lt;/nowiki&gt;
+{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}
+&lt;br&gt;
+常见令人不适的原因包括但不限于： 
+* 频繁/强烈的语言暴力
+* 大量有关心理压力题材
+* 偶尔/轻微的成人/性暗示题材
+* 频繁/强烈的色情内容或裸露
+* 极度令人恶心的内容
+* 与社会主义核心价值观格格不入
+
+===注意备份===
+如果该页面人物擅长自我削除言行，应当追加“注意备份”模板。代码为&lt;nowiki&gt;{{注意备份}}&lt;/nowiki&gt;。效果如下：
+{{注意备份}}
+
+===禁止炒作===
+所编辑的页面中涉及的人士试图利用恶俗百科进行大量自我炒作赚取流量的，应当追加“禁止炒作”模板，代码为&lt;nowiki&gt;{{禁止炒作}}。效果如下：&lt;/nowiki&gt;
+{{禁止炒作}}
+{{color|red|注意}}:本模板只应用在这个人明确'''知道本站的存在，并希望借助本站炒作自己的条目'''的情况下。''这个最容易用错，并不是一般的炒作人都能加上''
+
+===谨慎行动===
+&lt;nowiki&gt;谨慎行动：{{谨慎行动|（人物能力）}}&lt;/nowiki&gt;
+{{谨慎行动|（人物能力）}}
+
+===极度危险===
+&lt;nowiki&gt;极度危险：{{极度危险|（人物能力）}}&lt;/nowiki&gt;
+{{极度危险|（人物能力）}}
+
+===正在服刑===
+&lt;nowiki&gt;正在服刑：{{正在服刑}}&lt;/nowiki&gt;
+{{正在服刑}}
+
+===曾经入狱===
+所编辑页面中涉及的人物如果因为某些原因入狱或者被刑拘，进局子，应当追加“曾经入狱”模板，代码为&lt;nowiki&gt;{{曾经入狱|（某种原因）}}&lt;/nowiki&gt;
+{{曾经入狱|（某种原因）}}
+
+===终止迫害===
+若由于某些原因，一些人不应当被继续迫害，应当追加“终止迫害”模板。代码&lt;nowiki&gt;终止迫害：{{终止迫害}}&lt;/nowiki&gt;
+{{终止迫害}}。效果如下：
+
+===迫害加速===
+若由于某些原因，一些人应当被加速迫害，且'''在人物信息栏中硬度为∞（7）、属于当前事件'''的可以追加“迫害加速”模板。代码为&lt;nowiki&gt;{{迫害加速|* 资料整理
+}}&lt;/nowiki&gt;。效果如下：
+{{迫害加速|* 资料整理}}
+常见迫害方法包括但不限于：
+*资料整理
+*电话互动
+*线上互动
+*素材开发
+*高雅创作
+*言行存档
+*义务教育
+*真人快打
+注意：
+*若此人确实诚恳道歉，并回归虚无达到一定时间，该模板应被移除。
+*此模板只有管理员才能添加，高雅人士的力量应该集中用于橄榄几个罪大恶极的人。
+
+===No mercy===
+&lt;nowiki&gt;无仁慈模式：{{Nomercy}}&lt;/nowiki&gt;
+{{Nomercy}}
+一旦添加此模板则代表着此人物将永远保留在恶俗百科，{{color|red|该模板只能由管理员添加，私自添加将获得封禁套餐}}
+
+===恶俗之最===
+&lt;nowiki&gt;恶俗之最：{{恶俗之最|（称号）|（理由）}}&lt;/nowiki&gt;
+{{恶俗之最|（称号）|（理由）}}
+
+===用语解释===
+如果当前页面是一个概念或专有名词解释页面，则应当添加&lt;nowiki&gt;{{用语解释}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{用语解释}}
+
+===御驾亲征===
+&lt;nowiki&gt;御驾亲征：{{御驾亲征}}&lt;/nowiki&gt;
+{{御驾亲征}}
+
+===暂无词条===
+&lt;nowiki&gt;暂无词条：{{暂无词条}}&lt;/nowiki&gt;
+{{暂无词条}}
+
+===消歧义===
+&lt;nowiki&gt;消歧义：{{消歧义}}&lt;/nowiki&gt;
+{{消歧义}}
+
+===过时===
+&lt;nowiki&gt;过时：{{过时}}&lt;/nowiki&gt;
+{{过时}}
+
+===搬运工===
+&lt;nowiki&gt;搬运工：{{搬运工|（出处）}}&lt;/nowiki&gt;
+{{搬运工|（出处）}}
+
+===站点===
+如果该页面描述的是一个网站，则应当添加&lt;nowiki&gt;{{网站}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{网站}}
+
+===未完待续===
+&lt;nowiki&gt;未完待续：{{未完待续}}&lt;/nowiki&gt;
+{{未完待续}}
+
+===大脑升级===
+&lt;nowiki&gt;大脑升级：{{大脑升级}}&lt;/nowiki&gt;
+{{大脑升级}}
+
+===死亡===
+所编辑页面中涉及人物已经死亡，则应当追加“死人”模板，代码为&lt;nowiki&gt;{{Dead}}&lt;/nowiki&gt;。例如：
+&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:deathflower.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''饶文建'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]
+*此模板仅适用于两种情况：物理死亡和自称死亡。
+*此模板应该放置于所有AmBox类模板下方。
+
+===自定义模板===
+自定义模板：&lt;br&gt;
+&lt;nowiki&gt;{{信息框&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|border=左侧边条颜色（如green）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|image=图片（直接填写文件名，例：野兽先辈.jpg）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|type=标题&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|info=内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;}}&lt;/nowiki&gt;
+{{信息框
+|border=green
+|image=提示.jpg
+|type=（标题）
+|info=（内容）
+}}
+
+==信息卡模板==
+信息卡模板隔一个空行，放置在文档管理模板下方。如没有文档管理模板，请放置在条目顶部。针对人物，应当使用人物信息模板；对组织，使用组织信息模板模板。
+===人物信息模板===
+{{信息板
+|titlename=（标题姓名）
+|photo=NOBODY.jpg
+|photocap=（图片文字）
+|name=（姓名）
+|id=（常用id）
+|class=（职业）
+|ability=（能力）
+|hardness=1
+|IQ=（智商）
+|online=5
+|affinity=（所属）
+}}
+人物信息：&lt;br&gt;
+&lt;nowiki&gt;{{信息板&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|titlename=标题姓名&lt;/nowiki&gt;（此参数通常无需填写，仅在name参数未填写或填写了多个姓名时填写）&lt;br&gt;
+&lt;nowiki&gt;|photo=图片&lt;/nowiki&gt;（直接填写文件名，例：a.jpg）&lt;br&gt;
+&lt;nowiki&gt;|photocap=图片文字&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|name=姓名&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|id=常用id&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|class=职业&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|ability=能力&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|best=必杀技&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|hardness=硬度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|dangerous=(危险度)&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|IQ=智商&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|online=活跃度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|affinity=所属&lt;/nowiki&gt;&lt;br&gt;
+}}'''''（如信息未知应删除参数，至少填写一项）'''''
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+==正文==
+===正文规范===
+所有正文段落之间应且只应空一行。正文段落采用齐头式，不必缩进两格。正文标点符号应规范使用全角中文标点符号&lt;br&gt;
+请注意事件时间线的准确性，日期格式应为XXXX年X月X日，避免使用“最近”、“今年”、“本月”等词语。在指代不需要实名的事件关系人时，应该尽量体现其身份，如“朋友”、“一般通过人士”、“高雅人士”等，避免使用“有人”、“某些人”、“很多人”等词语。 &lt;br&gt;
+恶俗百科目前100%的条目都是使用大陆简体编写，因此对于新更改也必须使用大陆简体&lt;br&gt;
+在货币及计量单位上，必须采用页面涉及人物所在国家或地区的货币和计量单位。绝大多数页面涉及人物都居住在中国大陆，因此应采用RMB和公制单位，除非是带有捏他性质并且在本站载有换算关系的单位，如“贝天”、“恒”等。 &lt;br&gt;
+请避免“假大空”的措辞，不要言之无物或举伪证。除了文游和捏他的部分以外，请尽量采用浅显易懂的叙事风格与可信度高的佐证，以一般通过人士能够了解大致经过为宜，特别是在涉及圈外人物或公众人物的情况下。 &lt;br&gt;
+'''糟糕的例子：用户在其主笔的页面内试图批判某人为“死妈废物”，指责其“打滚”、“萎勃”、“放黑屁”云云，然而通篇下来并未提及任何具体事迹或摘选任何具体语录，显然一般通过人士是难以理解此类废文的。'''
+===重新导向页面===
+某些条目可能已经被移动或因为特殊原因而不显示其元条目名。为了使访问者能够正常无虞地访问存取目标条目，故需要对错误的或已经废止使用之条目进行重新导向操作，直至流量全无为限。 &lt;br&gt;
+一般地，在移动条目时会自动在移动前条目留下一个重新导向页面。但在某些特殊情况发生时，您可能需要对条目手动进行重新导向，其语法为#REDIRECT [[条目名]]。请注意，重新导向页面目前不支援使用外部链接，这可能造成错误。 &lt;br&gt;
+==分类==
+===人物===
+&lt;br&gt;
+原则上不重复收录
+&lt;br&gt;
+   * [[国际巨星]]:
+      * 知名度高、曾出现在首页的人物
+      * 曾收录于此的人物（永久保留）
+      * 原则上不轻易收录新的人物
+   * [[二线明星]]:
+      * 知名度高、未出现在首页的人物
+      * 有创作能力的人物
+      * 曾收录于此的人物（历史遗留问题）
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[神必人]]:
+      * 未出道的人物
+      * 这是一个强制性的分类，符合条件者必须收录于此
+   * [[其他人]]:
+      * 普通人,死妈人
+      * 没有创作能力且没有键政倾向的人物
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[纸片人]]:
+      * 动画、漫画、游戏、特摄等ACGN作品中的虚拟人物
+      * 该分类下条目只记录角色本身事迹，涉及到声优、制作、运营等相关事迹请单独创建条目
+   * [[思想品德]]:
+      * 语言能力低下的人物，其打出的文字晦涩难懂
+
+==定义文本==
+&lt;br&gt;&lt;nowiki&gt;
+使用&lt;dt&gt;时，文字自动变成粗体；使用&lt;dd&gt;时，文字自动缩排四个字元。这通常用于强调定义。&lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;刘勤为什么死妈？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为刘勤是屑。&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;为什么刘勤是屑？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为他没屁眼&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;dl&gt;
+&lt;dt&gt;刘勤为什么死妈？
+&lt;dd&gt;因为刘勤是屑。
+&lt;dt&gt;为什么刘勤是屑？
+&lt;dd&gt;因为他没屁眼
+&lt;/dl&gt;
+===列表===
+====无序列表====
+格式为:
+&lt;nowiki&gt;* 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;* 条目2&lt;/nowiki&gt;&lt;br&gt;
+
+当然你也可以使用HTML语法。下面是格式:&lt;br&gt;
+&lt;nowiki&gt;&lt;ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+* 条目1
+* 条目2
+====有序列表====
+格式为:&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+
+同样可以使用HTML语法，看个人习惯，格式为:
+&lt;nowiki&gt;&lt;ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+# 条目1
+# 条目2
+===链接===
+&lt;nowiki&gt;对于恶俗百科内部条目链接，应当使用[[条目名]]或[[条目名|显示名]]格式。如果要设定显示名，链接的显示名应当是名词性质。如果并非链接名词，而以恶俗百科内部其他条目作为出典，适用出典的设置方式。内部条目链接只应该在该名词第一次出现的位置设置，其他出现不作设置，仅为纯文本。 &lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;对于外部链接，使用[链接 显示名]格式设置。设置原则同站内链接，但如果条目内包括页面全名，在全名上设置链接的，不必设置为引用，直接在文字上设置链接即可。&lt;/nowiki&gt;&lt;br&gt;
+本站也提供了到部分站点的快捷引用方式，可以按内部链接格式使用。例如： &lt;br&gt;
+* ALL网站:&lt;nowiki&gt;[[URL 描述文字]]&lt;/nowiki&gt;&lt;br&gt;
+* 恶俗百科内链接:&lt;nowiki&gt;[[尤小龙]]&lt;/nowiki&gt;
+
+===引用===
+&lt;nowiki&gt;对于页面内只使用很少次数的引用，用&lt;ref&gt;引用内容&lt;/ref&gt;格式，并在条目底部加入以下内容：&lt;/nowiki&gt;
+&lt;nowiki&gt;== 注释 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;references/&gt;&lt;/nowiki&gt;&lt;br&gt;
+维基系统会自动生成注释连接。 &lt;br&gt;
+对于整个页面处处参考的引用，不必使用注释格式，在页面底部加入“参考资料”一节并链接即可。 
+===隐蔽性注释===
+&lt;nowiki&gt;隐蔽性注释用于隐藏目标字元，使之无法在可视化编辑器及可视化页面下被查看。隐蔽性注释可以理解为Java中的单行注释。如果使用者需要对一部分字元进行隐蔽性注释，那么其格式为&lt;!-- 你要注释的字元 --&gt;。以下是示范：&lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;&lt;nowiki&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;
+===Wikitable===
+Wikitable是一种由MediaWiki提供的表格修饰，这种表格比直接绘制的表格好看十万甚至九万倍。下面是示例&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;{|&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|橘子||苹果||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|面包||饼||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|奶油||冰淇淋||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|}&lt;br&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:
+{|
+|橘子||苹果||更多
+|-
+|面包||饼||更多
+|-
+|奶油||冰淇淋||更多
+|}
+
+===文字上标===
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字上标。其引用格式为&lt;sup&gt;欲上标之字元&lt;/sup&gt;。下面是关于上标字的{{#vardefine:size|}}demo。 &lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;
+===文字下标===
+&lt;br&gt;
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字下标。其引用格式为&lt;sub&gt;欲下标之字元&lt;/sub&gt;。下面是关于下标字的{{#vardefine:size|}}demo。&lt;/nowiki&gt;&lt;br&gt;
+您输入的：&lt;br&gt;
+&lt;nowiki&gt;氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;
+===删除线===
+&lt;nowiki&gt;当使用者需要利用删除线效果时，其引用格式为&lt;s&gt;欲删除之字元&lt;/s&gt;，也可以使用其全写&lt;strike&gt;欲删除之字元&lt;/strike&gt;。 &lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;
+===姓名规范===
+&lt;br&gt;
+如果条目描述的是一个人的话 
+* 该人士有中国血统，且其有中文姓名的话，使用其真实中文姓名的简体作为标题。
+* 该人士其姓名为外文的，标题以其真实姓名的新华社译名为准。 
+  ** 英文姓名可参考：[[《英文姓名译文手册》]]
+  ** 如手册中无法找到，可在网络搜索同名人士的新华社报道（site:news.cn）。
+  ** 例如：有一名美国诺贝尔物理学奖得主Arieh译名为亚利耶，因此Arieh Smith的译名为亚利耶·史密斯
+  ** 若其姓名无官方翻译，亦无民间翻译者，应自行音译其姓名，但需要对该姓名至少加入一个注释，内容为原文写法。
+* 原名为日语者，应该使用已经简化的日本汉字，且应在汉字顶部标注其平假名写法。然描述1945年前出生者，不在此限。 
+  ** 对于一些特殊用字，有规定者，依规定；无规定者，依习惯[1]。（如「濱」在日语中简化为「浜」，但译作汉语时，应作「滨」字元。）
+===标题和目录===
+&lt;br&gt;
+对于所有条目的“简介”部分，应隔一个空行，放置在信息卡模板下方。如果没有模板，直接放置在条目顶部，不需要“简介”大标题。 
+&lt;br&gt;
+设置成标题的，会自动进入条目目录，不需要额外制作目录。设置标题时，标题不应有加粗、斜体、字号等额外格式。标题应尽量简短，以表述清晰，适合速读为标准。设置标题时为了方便修改代码，应在标题文字和“=”符号之间空一格。范例如下： 
+
+&lt;nowiki&gt;== 二级标题 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;=== 三级标题 ===&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==== 四级标题 ====&lt;/nowiki&gt;&lt;br&gt;
+
+如果使用者需要套用更多的标题，请使用HTML语法，但这通常会导致一些未知错误。格式为&lt;nowiki&gt;&lt;h1&gt;&lt;/nowiki&gt;，其中数字可以从1到6，通常建议从2开始。 
+&lt;br&gt;
+以下是错误用法： 
+&lt;nowiki&gt;=='''错误'''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==''错误''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;===&lt;span style="color:#F00;"&gt;错误&lt;/span&gt;===&lt;/nowiki&gt;&lt;br&gt;
+
+==用户页==
+&lt;br&gt;
+一般而言，您可以自由编辑您的用户页。因此，用户页不必拘泥于上文“使用百科形式撰写”这一守则，可以自由地进行编辑，采用任意格式均可。以下模板皆为“可选”模板，若您认为添加模板将影响您用户页的格式，可另辟蹊径，使用您青睐的方式达到目的。 
+&lt;br&gt;
+请合理使用您的用户页，避免进行以下活动： 
+  * 自我炒作
+  * 记载他人事迹（应该写在相关的主页面）
+  * 展示非法内容以及其他对用户有害的内容或不符合本站宗旨的内容
+===用户页===
+&lt;nowiki&gt;对于任何用户页，若希望以较为明显的方式提示阅览者该页面为用户页，并告知阅览者用户页编辑守则，可以添加“用户页”模板，代码为：{{UserPage}}。效果如下：&lt;/nowiki&gt;&lt;br&gt;
+{{UserPage}}
+&lt;br&gt;
+请注意，任何人都可以在您的用户页上留下评论，若您想关闭用户页评论区，请联系管理员。
+===自由编辑===
+&lt;nowiki&gt;用户本人许可其他用户编辑其用户页，可以添加“自由编辑”模板，代码为：{{FreetoEdit}}。效果如下：&lt;/nowiki&gt; 
+{{FreetoEdit}}
+===退站声明===
+&lt;nowiki&gt;已决定暂停恶俗百科事务的用户，可以添加“退站声明”模板，代码为：{{Quit|（用户名）|TIME=（时间段）}}。&lt;/nowiki&gt;'''（为保证安全，添加此模板的用户将在该时间段内被封禁，均必填）'''效果如下： &lt;br&gt;
+{{Quit|（用户名）|TIME=（时间段）}}
+
+==讨论页==
+在每个页面标签的右边，都有一个讨论的标签。 &lt;br&gt;
+在讨论页中，可以对当前页面的高雅创作进行编辑者之间的讨论。不要在主页面内进行讨论。
+===创建话题===
+&lt;br&gt;
+如要创建话题，可以点击右上角的创建话题按钮，也可以在编辑讨论页时添加以下代码：== 话题1111 ==
+&lt;br&gt;
+===签名===
+&lt;nowiki&gt;在讨论页上签名：要在讨论页上签名，只需输入四个波浪号（~~~~）&lt;/nowiki&gt;即可，它们将自动换成您的用户名和留言时间，就好像这样：[[用户:Tianyan|Tianyan]]（[[用户讨论:Tianyan|讨论]]） 2020年6月26日 (五) 12:55 (CST)。请注意所有人都没有可能留下匿名留言，因为就算您没有在留言时签名，您的用户名称或IP地址都会记录在页面历史中。您可以对签名进行自定义，新的签名务必包含本人用户页、用户讨论页、贡献页之中至少一个链接以及时间戳。签名不应包含容易混淆的链接，如同名人物条目、其他用户的相关页面等。
+
+===讨论格式标准===
+&lt;br&gt;
+往下书写：如果您将您的留言发布在页面的上方，这会使他人困惑并使其他人容易忽略您的留言。最新的讨论主题应置在页面的最下方，而接着的回应便能置于留言的下方，如此类推。此举能方便读者以发表时间的顺序来观看意见。一个较快捷的方法是使用“编辑”按钮右方的“添加话题”或“+”按钮新建主题，它会自动将您的讨论主题置于页面的最下方。 
+&lt;br&gt;
+分段书写：如果您的意见中有数个讨论重点，请将重点分段书写。您可以透过断行或使用列表符号（*）来分开每一个的讨论重点。 
+&lt;br&gt;
+使用缩排来使回应更易阅读：请使用缩排符号（:）来发表您的回应，这就与传统式BBS的回应方式相若。当其他人回应您的回应时，便会将回应的缩排层级增加，换言之即是使用两个缩排符号（::），如此类推。一般来说，列表符号（*）不应该当作缩排符号般使用。
+
+&lt;comments /&gt;</text>
+      <sha1>lcodslh02cbzwi03qwdc67zhlhdoz5l</sha1>
+    </revision>
+    <revision>
+      <id>2145</id>
+      <parentid>2144</parentid>
+      <timestamp>2020-08-22T16:52:53Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22985" sha1="7yw4u5v7iw98h5ane37cdylas5528h8" xml:space="preserve">该站编辑拥有严格的制度标准&lt;br&gt;
+左侧导航栏内分类需按照传送门模块进行排版&lt;br&gt;
+一个传送门模块代表创建一个总分类&lt;br&gt;
+中间的称号和人物名代表创建分类下的子类&lt;br&gt;
+所有导航栏内内容需按照本页要求进行编排&lt;br&gt;
+除主页外词条请任意编辑&lt;br&gt;
+创建词条不限格式，请随意创作，具体格式可参考
+*[{{SERVER}}/index.php?title=%E5%B0%A4%E5%B0%8F%E9%BE%99&amp;action=edit  尤小龙条目代码]
+==文档管理模板==
+在需要的页面上，可以加入合适的文档管理模板。文档管理模板应该在源代码的最上方列举。
+
+在页面顶端的文档管理模板，应自上至下，按以下颜色顺序摆放：
+
+'''{{color|blue|蓝色}}、{{color|yellow|黄色}}、{{color|orange|橙色}}、{{color|red|红色}}、其他颜色'''
+
+===精品===
+曾经被首页推送为特色条目的，应当由'''管理员'''（一般用户可以向管理员申请）追加“精品”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{精品}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{精品}}
+
+===当前事件===
+所讨论的内容包含仍在持续变化的当前事件的，应当追加“当前事件”模板，并包括模板追加时的时间以便验证。事件结束后超过15天的，可以移除模板。代码为&lt;code&gt;&lt;nowiki&gt;{{当前事件}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{当前事件}}
+
+===保持中立===
+所编辑的页面中涉及的人士难以评定其立场的，应当追加“保持中立”模板，并在编辑该条目时去除自己的主观看法。代码为&lt;code&gt;&lt;nowiki&gt;{{保持中立}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：&lt;br&gt;
+{{保持中立}}
+
+===小作品===
+长度过短，内容较少的，应当追加“小作品”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{小作品|（物品）}}。&lt;/nowiki&gt;&lt;/code&gt;效果如下：
+{{小作品|（物品）}}
+
+===请求出道===
+缺少条目涉及人士有关个人信息，并且的确需要其个人信息的，应当追加“请求出道”模板。另外，本站不推荐投稿信息甚少的人物。代码为&lt;code&gt;&lt;nowiki&gt;{{请求出道}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{请求出道}}
+
+===缺乏格式===
+格式糟糕的，应当追加“缺乏格式”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{缺乏格式}}&lt;/nowiki&gt;&lt;/code&gt;。
+&lt;br&gt;
+{{缺乏格式}}
+
+===删除===
+认为条目应当删除的，应当由管理员(一般用户可以发起存废讨论),追加“删除”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{Deletion}}&lt;/nowiki&gt;&lt;/code&gt;。如果有额外原因，代码为&lt;code&gt;&lt;nowiki&gt;{{Deletion|原因}}&lt;/nowiki&gt;&lt;/code&gt;。恶俗百科鼓励书写额外原因。效果分别如下:&lt;br&gt;
+{{Deletion}}&lt;br&gt;
+常见的删除理由包括但不仅限于：
+* 空白条目
+* 条目内容无意义
+* 条目内容充满谬误
+* 条目主题与本站无关
+* 条目不具有足够的知名度
+* 自我炒作
+
+====快速删除====
+&lt;small&gt;主页面：[[帮助:快速删除]]&lt;/small&gt;
+
+===令人不适===
+&lt;nowiki&gt;令人感觉不适甚至会心肺停止的页面，应当追加“令人不适”模板。代码为{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}。效果如下:&lt;br&gt;&lt;/nowiki&gt;
+{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}
+&lt;br&gt;
+常见令人不适的原因包括但不限于： 
+* 频繁/强烈的语言暴力
+* 大量有关心理压力题材
+* 偶尔/轻微的成人/性暗示题材
+* 频繁/强烈的色情内容或裸露
+* 极度令人恶心的内容
+* 与社会主义核心价值观格格不入
+
+===注意备份===
+如果该页面人物擅长自我削除言行，应当追加“注意备份”模板。代码为&lt;nowiki&gt;{{注意备份}}&lt;/nowiki&gt;。效果如下：
+{{注意备份}}
+
+===禁止炒作===
+所编辑的页面中涉及的人士试图利用恶俗百科进行大量自我炒作赚取流量的，应当追加“禁止炒作”模板，代码为&lt;nowiki&gt;{{禁止炒作}}。效果如下：&lt;/nowiki&gt;
+{{禁止炒作}}
+{{color|red|注意}}:本模板只应用在这个人明确'''知道本站的存在，并希望借助本站炒作自己的条目'''的情况下。''这个最容易用错，并不是一般的炒作人都能加上''
+
+===谨慎行动===
+&lt;nowiki&gt;谨慎行动：{{谨慎行动|（人物能力）}}&lt;/nowiki&gt;
+{{谨慎行动|（人物能力）}}
+
+===极度危险===
+&lt;nowiki&gt;极度危险：{{极度危险|（人物能力）}}&lt;/nowiki&gt;
+{{极度危险|（人物能力）}}
+
+===正在服刑===
+&lt;nowiki&gt;正在服刑：{{正在服刑}}&lt;/nowiki&gt;
+{{正在服刑}}
+
+===曾经入狱===
+所编辑页面中涉及的人物如果因为某些原因入狱或者被刑拘，进局子，应当追加“曾经入狱”模板，代码为&lt;nowiki&gt;{{曾经入狱|（某种原因）}}&lt;/nowiki&gt;
+{{曾经入狱|（某种原因）}}
+
+===终止迫害===
+若由于某些原因，一些人不应当被继续迫害，应当追加“终止迫害”模板。代码&lt;nowiki&gt;终止迫害：{{终止迫害}}&lt;/nowiki&gt;
+{{终止迫害}}。效果如下：
+
+===迫害加速===
+若由于某些原因，一些人应当被加速迫害，且'''在人物信息栏中硬度为∞（7）、属于当前事件'''的可以追加“迫害加速”模板。代码为&lt;nowiki&gt;{{迫害加速|* 资料整理
+}}&lt;/nowiki&gt;。效果如下：
+{{迫害加速|* 资料整理}}
+常见迫害方法包括但不限于：
+*资料整理
+*电话互动
+*线上互动
+*素材开发
+*高雅创作
+*言行存档
+*义务教育
+*真人快打
+注意：
+*若此人确实诚恳道歉，并回归虚无达到一定时间，该模板应被移除。
+*此模板只有管理员才能添加，高雅人士的力量应该集中用于橄榄几个罪大恶极的人。
+
+===No mercy===
+&lt;nowiki&gt;无仁慈模式：{{Nomercy}}&lt;/nowiki&gt;
+{{Nomercy}}
+一旦添加此模板则代表着此人物将永远保留在恶俗百科，{{color|red|该模板只能由管理员添加，私自添加将获得封禁套餐}}
+
+===恶俗之最===
+&lt;nowiki&gt;恶俗之最：{{恶俗之最|（称号）|（理由）}}&lt;/nowiki&gt;
+{{恶俗之最|（称号）|（理由）}}
+
+===用语解释===
+如果当前页面是一个概念或专有名词解释页面，则应当添加&lt;nowiki&gt;{{用语解释}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{用语解释}}
+
+===御驾亲征===
+&lt;nowiki&gt;御驾亲征：{{御驾亲征}}&lt;/nowiki&gt;
+{{御驾亲征}}
+
+===暂无词条===
+&lt;nowiki&gt;暂无词条：{{暂无词条}}&lt;/nowiki&gt;
+{{暂无词条}}
+
+===消歧义===
+&lt;nowiki&gt;消歧义：{{消歧义}}&lt;/nowiki&gt;
+{{消歧义}}
+
+===过时===
+&lt;nowiki&gt;过时：{{过时}}&lt;/nowiki&gt;
+{{过时}}
+
+===搬运工===
+&lt;nowiki&gt;搬运工：{{搬运工|（出处）}}&lt;/nowiki&gt;
+{{搬运工|（出处）}}
+
+===站点===
+如果该页面描述的是一个网站，则应当添加&lt;nowiki&gt;{{网站}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{网站}}
+
+===未完待续===
+&lt;nowiki&gt;未完待续：{{未完待续}}&lt;/nowiki&gt;
+{{未完待续}}
+
+===大脑升级===
+&lt;nowiki&gt;大脑升级：{{大脑升级}}&lt;/nowiki&gt;
+{{大脑升级}}
+
+===死亡===
+所编辑页面中涉及人物已经死亡，则应当追加“死人”模板，代码为&lt;nowiki&gt;{{Dead}}&lt;/nowiki&gt;。例如：
+&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:deathflower.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''饶文建'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]
+*此模板仅适用于两种情况：物理死亡和自称死亡。
+*此模板应该放置于所有AmBox类模板下方。
+
+===自定义模板===
+自定义模板：&lt;br&gt;
+&lt;nowiki&gt;{{信息框&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|border=左侧边条颜色（如green）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|image=图片（直接填写文件名，例：野兽先辈.jpg）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|type=标题&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|info=内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;}}&lt;/nowiki&gt;
+{{信息框
+|border=green
+|image=提示.jpg
+|type=（标题）
+|info=（内容）
+}}
+
+==信息卡模板==
+信息卡模板隔一个空行，放置在文档管理模板下方。如没有文档管理模板，请放置在条目顶部。针对人物，应当使用人物信息模板；对组织，使用组织信息模板模板。
+===人物信息模板===
+{{信息板
+|titlename=（标题姓名）
+|photo=NOBODY.jpg
+|photocap=（图片文字）
+|name=（姓名）
+|id=（常用id）
+|class=（职业）
+|ability=（能力）
+|hardness=1
+|IQ=（智商）
+|online=5
+|affinity=（所属）
+}}
+人物信息：&lt;br&gt;
+&lt;nowiki&gt;{{信息板&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|titlename=标题姓名&lt;/nowiki&gt;（此参数通常无需填写，仅在name参数未填写或填写了多个姓名时填写）&lt;br&gt;
+&lt;nowiki&gt;|photo=图片&lt;/nowiki&gt;（直接填写文件名，例：a.jpg）&lt;br&gt;
+&lt;nowiki&gt;|photocap=图片文字&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|name=姓名&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|id=常用id&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|class=职业&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|ability=能力&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|best=必杀技&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|hardness=硬度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|dangerous=(危险度)&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|IQ=智商&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|online=活跃度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|affinity=所属&lt;/nowiki&gt;&lt;br&gt;
+}}'''''（如信息未知应删除参数，至少填写一项）'''''
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+==正文==
+===正文规范===
+所有正文段落之间应且只应空一行。正文段落采用齐头式，不必缩进两格。正文标点符号应规范使用全角中文标点符号&lt;br&gt;
+请注意事件时间线的准确性，日期格式应为XXXX年X月X日，避免使用“最近”、“今年”、“本月”等词语。在指代不需要实名的事件关系人时，应该尽量体现其身份，如“朋友”、“一般通过人士”、“高雅人士”等，避免使用“有人”、“某些人”、“很多人”等词语。 &lt;br&gt;
+恶俗百科目前100%的条目都是使用大陆简体编写，因此对于新更改也必须使用大陆简体&lt;br&gt;
+在货币及计量单位上，必须采用页面涉及人物所在国家或地区的货币和计量单位。绝大多数页面涉及人物都居住在中国大陆，因此应采用RMB和公制单位，除非是带有捏他性质并且在本站载有换算关系的单位，如“贝天”、“恒”等。 &lt;br&gt;
+请避免“假大空”的措辞，不要言之无物或举伪证。除了文游和捏他的部分以外，请尽量采用浅显易懂的叙事风格与可信度高的佐证，以一般通过人士能够了解大致经过为宜，特别是在涉及圈外人物或公众人物的情况下。 &lt;br&gt;
+'''糟糕的例子：用户在其主笔的页面内试图批判某人为“死妈废物”，指责其“打滚”、“萎勃”、“放黑屁”云云，然而通篇下来并未提及任何具体事迹或摘选任何具体语录，显然一般通过人士是难以理解此类废文的。'''
+===重新导向页面===
+某些条目可能已经被移动或因为特殊原因而不显示其元条目名。为了使访问者能够正常无虞地访问存取目标条目，故需要对错误的或已经废止使用之条目进行重新导向操作，直至流量全无为限。 &lt;br&gt;
+一般地，在移动条目时会自动在移动前条目留下一个重新导向页面。但在某些特殊情况发生时，您可能需要对条目手动进行重新导向，其语法为#REDIRECT [[条目名]]。请注意，重新导向页面目前不支援使用外部链接，这可能造成错误。 &lt;br&gt;
+==分类==
+===人物===
+&lt;br&gt;
+原则上不重复收录
+&lt;br&gt;
+   * [[国际巨星]]:
+      * 知名度高、曾出现在首页的人物
+      * 曾收录于此的人物（永久保留）
+      * 原则上不轻易收录新的人物
+   * [[二线明星]]:
+      * 知名度高、未出现在首页的人物
+      * 有创作能力的人物
+      * 曾收录于此的人物（历史遗留问题）
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[神必人]]:
+      * 未出道的人物
+      * 这是一个强制性的分类，符合条件者必须收录于此
+   * [[其他人]]:
+      * 普通人,死妈人
+      * 没有创作能力且没有键政倾向的人物
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[纸片人]]:
+      * 动画、漫画、游戏、特摄等ACGN作品中的虚拟人物
+      * 该分类下条目只记录角色本身事迹，涉及到声优、制作、运营等相关事迹请单独创建条目
+   * [[思想品德]]:
+      * 语言能力低下的人物，其打出的文字晦涩难懂
+
+==定义文本==
+&lt;br&gt;&lt;nowiki&gt;
+使用&lt;dt&gt;时，文字自动变成粗体；使用&lt;dd&gt;时，文字自动缩排四个字元。这通常用于强调定义。&lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;刘勤为什么死妈？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为刘勤是屑。&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;为什么刘勤是屑？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为他没屁眼&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;dl&gt;
+&lt;dt&gt;刘勤为什么死妈？
+&lt;dd&gt;因为刘勤是屑。
+&lt;dt&gt;为什么刘勤是屑？
+&lt;dd&gt;因为他没屁眼
+&lt;/dl&gt;
+===列表===
+====无序列表====
+格式为:
+&lt;nowiki&gt;* 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;* 条目2&lt;/nowiki&gt;&lt;br&gt;
+
+当然你也可以使用HTML语法。下面是格式:&lt;br&gt;
+&lt;nowiki&gt;&lt;ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+* 条目1
+* 条目2
+====有序列表====
+格式为:&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+
+同样可以使用HTML语法，看个人习惯，格式为:
+&lt;nowiki&gt;&lt;ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+# 条目1
+# 条目2
+===链接===
+&lt;nowiki&gt;对于恶俗百科内部条目链接，应当使用[[条目名]]或[[条目名|显示名]]格式。如果要设定显示名，链接的显示名应当是名词性质。如果并非链接名词，而以恶俗百科内部其他条目作为出典，适用出典的设置方式。内部条目链接只应该在该名词第一次出现的位置设置，其他出现不作设置，仅为纯文本。 &lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;对于外部链接，使用[链接 显示名]格式设置。设置原则同站内链接，但如果条目内包括页面全名，在全名上设置链接的，不必设置为引用，直接在文字上设置链接即可。&lt;/nowiki&gt;&lt;br&gt;
+本站也提供了到部分站点的快捷引用方式，可以按内部链接格式使用。例如： &lt;br&gt;
+* ALL网站:&lt;nowiki&gt;[[URL 描述文字]]&lt;/nowiki&gt;&lt;br&gt;
+* 恶俗百科内链接:&lt;nowiki&gt;[[尤小龙]]&lt;/nowiki&gt;
+
+===引用===
+&lt;nowiki&gt;对于页面内只使用很少次数的引用，用&lt;ref&gt;引用内容&lt;/ref&gt;格式，并在条目底部加入以下内容：&lt;/nowiki&gt;
+&lt;nowiki&gt;== 注释 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;references/&gt;&lt;/nowiki&gt;&lt;br&gt;
+维基系统会自动生成注释连接。 &lt;br&gt;
+对于整个页面处处参考的引用，不必使用注释格式，在页面底部加入“参考资料”一节并链接即可。 
+===隐蔽性注释===
+&lt;nowiki&gt;隐蔽性注释用于隐藏目标字元，使之无法在可视化编辑器及可视化页面下被查看。隐蔽性注释可以理解为Java中的单行注释。如果使用者需要对一部分字元进行隐蔽性注释，那么其格式为&lt;!-- 你要注释的字元 --&gt;。以下是示范：&lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;&lt;nowiki&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;
+===Wikitable===
+Wikitable是一种由MediaWiki提供的表格修饰，这种表格比直接绘制的表格好看十万甚至九万倍。下面是示例&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;{|&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|橘子||苹果||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|面包||饼||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|奶油||冰淇淋||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|}&lt;br&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:
+{|
+|橘子||苹果||更多
+|-
+|面包||饼||更多
+|-
+|奶油||冰淇淋||更多
+|}
+
+===文字上标===
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字上标。其引用格式为&lt;sup&gt;欲上标之字元&lt;/sup&gt;。下面是关于上标字的{{#vardefine:size|}}demo。 &lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;
+===文字下标===
+&lt;br&gt;
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字下标。其引用格式为&lt;sub&gt;欲下标之字元&lt;/sub&gt;。下面是关于下标字的{{#vardefine:size|}}demo。&lt;/nowiki&gt;&lt;br&gt;
+您输入的：&lt;br&gt;
+&lt;nowiki&gt;氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;
+===删除线===
+&lt;nowiki&gt;当使用者需要利用删除线效果时，其引用格式为&lt;s&gt;欲删除之字元&lt;/s&gt;，也可以使用其全写&lt;strike&gt;欲删除之字元&lt;/strike&gt;。 &lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;
+===姓名规范===
+&lt;br&gt;
+如果条目描述的是一个人的话 
+* 该人士有中国血统，且其有中文姓名的话，使用其真实中文姓名的简体作为标题。
+* 该人士其姓名为外文的，标题以其真实姓名的新华社译名为准。 
+  ** 英文姓名可参考：[[《英文姓名译文手册》]]
+  ** 如手册中无法找到，可在网络搜索同名人士的新华社报道（site:news.cn）。
+  ** 例如：有一名美国诺贝尔物理学奖得主Arieh译名为亚利耶，因此Arieh Smith的译名为亚利耶·史密斯
+  ** 若其姓名无官方翻译，亦无民间翻译者，应自行音译其姓名，但需要对该姓名至少加入一个注释，内容为原文写法。
+* 原名为日语者，应该使用已经简化的日本汉字，且应在汉字顶部标注其平假名写法。然描述1945年前出生者，不在此限。 
+  ** 对于一些特殊用字，有规定者，依规定；无规定者，依习惯[1]。（如「濱」在日语中简化为「浜」，但译作汉语时，应作「滨」字元。）
+===标题和目录===
+&lt;br&gt;
+对于所有条目的“简介”部分，应隔一个空行，放置在信息卡模板下方。如果没有模板，直接放置在条目顶部，不需要“简介”大标题。 
+&lt;br&gt;
+设置成标题的，会自动进入条目目录，不需要额外制作目录。设置标题时，标题不应有加粗、斜体、字号等额外格式。标题应尽量简短，以表述清晰，适合速读为标准。设置标题时为了方便修改代码，应在标题文字和“=”符号之间空一格。范例如下： 
+
+&lt;nowiki&gt;== 二级标题 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;=== 三级标题 ===&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==== 四级标题 ====&lt;/nowiki&gt;&lt;br&gt;
+
+如果使用者需要套用更多的标题，请使用HTML语法，但这通常会导致一些未知错误。格式为&lt;nowiki&gt;&lt;h1&gt;&lt;/nowiki&gt;，其中数字可以从1到6，通常建议从2开始。 
+&lt;br&gt;
+以下是错误用法： 
+&lt;nowiki&gt;=='''错误'''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==''错误''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;===&lt;span style="color:#F00;"&gt;错误&lt;/span&gt;===&lt;/nowiki&gt;&lt;br&gt;
+
+==用户页==
+&lt;br&gt;
+一般而言，您可以自由编辑您的用户页。因此，用户页不必拘泥于上文“使用百科形式撰写”这一守则，可以自由地进行编辑，采用任意格式均可。以下模板皆为“可选”模板，若您认为添加模板将影响您用户页的格式，可另辟蹊径，使用您青睐的方式达到目的。 
+&lt;br&gt;
+请合理使用您的用户页，避免进行以下活动： 
+  * 自我炒作
+  * 记载他人事迹（应该写在相关的主页面）
+  * 展示非法内容以及其他对用户有害的内容或不符合本站宗旨的内容
+===用户页===
+&lt;nowiki&gt;对于任何用户页，若希望以较为明显的方式提示阅览者该页面为用户页，并告知阅览者用户页编辑守则，可以添加“用户页”模板，代码为：{{UserPage}}。效果如下：&lt;/nowiki&gt;&lt;br&gt;
+{{UserPage}}
+&lt;br&gt;
+请注意，任何人都可以在您的用户页上留下评论，若您想关闭用户页评论区，请联系管理员。
+===自由编辑===
+&lt;nowiki&gt;用户本人许可其他用户编辑其用户页，可以添加“自由编辑”模板，代码为：{{FreetoEdit}}。效果如下：&lt;/nowiki&gt; 
+{{FreetoEdit}}
+===退站声明===
+&lt;nowiki&gt;已决定暂停恶俗百科事务的用户，可以添加“退站声明”模板，代码为：{{Quit|（用户名）|TIME=（时间段）}}。&lt;/nowiki&gt;'''（为保证安全，添加此模板的用户将在该时间段内被封禁，均必填）'''效果如下： &lt;br&gt;
+{{Quit|（用户名）|TIME=（时间段）}}
+
+==讨论页==
+在每个页面标签的右边，都有一个讨论的标签。 &lt;br&gt;
+在讨论页中，可以对当前页面的高雅创作进行编辑者之间的讨论。不要在主页面内进行讨论。
+===创建话题===
+&lt;br&gt;
+如要创建话题，可以点击右上角的创建话题按钮，也可以在编辑讨论页时添加以下代码：== 话题1111 ==
+&lt;br&gt;
+===签名===
+&lt;nowiki&gt;在讨论页上签名：要在讨论页上签名，只需输入四个波浪号（~~~~）&lt;/nowiki&gt;即可，它们将自动换成您的用户名和留言时间，就好像这样：[[用户:Tianyan|Tianyan]]（[[用户讨论:Tianyan|讨论]]） 2020年6月26日 (五) 12:55 (CST)。请注意所有人都没有可能留下匿名留言，因为就算您没有在留言时签名，您的用户名称或IP地址都会记录在页面历史中。您可以对签名进行自定义，新的签名务必包含本人用户页、用户讨论页、贡献页之中至少一个链接以及时间戳。签名不应包含容易混淆的链接，如同名人物条目、其他用户的相关页面等。
+
+===讨论格式标准===
+&lt;br&gt;
+往下书写：如果您将您的留言发布在页面的上方，这会使他人困惑并使其他人容易忽略您的留言。最新的讨论主题应置在页面的最下方，而接着的回应便能置于留言的下方，如此类推。此举能方便读者以发表时间的顺序来观看意见。一个较快捷的方法是使用“编辑”按钮右方的“添加话题”或“+”按钮新建主题，它会自动将您的讨论主题置于页面的最下方。 
+&lt;br&gt;
+分段书写：如果您的意见中有数个讨论重点，请将重点分段书写。您可以透过断行或使用列表符号（*）来分开每一个的讨论重点。 
+&lt;br&gt;
+使用缩排来使回应更易阅读：请使用缩排符号（:）来发表您的回应，这就与传统式BBS的回应方式相若。当其他人回应您的回应时，便会将回应的缩排层级增加，换言之即是使用两个缩排符号（::），如此类推。一般来说，列表符号（*）不应该当作缩排符号般使用。
+
+&lt;comments /&gt;</text>
+      <sha1>7yw4u5v7iw98h5ane37cdylas5528h8</sha1>
+    </revision>
+    <revision>
+      <id>2146</id>
+      <parentid>2145</parentid>
+      <timestamp>2020-08-22T16:53:24Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22982" sha1="8h4dyc9fo1namf0r3q69bbi667bjyeu" xml:space="preserve">该站编辑拥有严格的制度标准&lt;br&gt;
+左侧导航栏内分类需按照传送门模块进行排版&lt;br&gt;
+一个传送门模块代表创建一个总分类&lt;br&gt;
+中间的称号和人物名代表创建分类下的子类&lt;br&gt;
+所有导航栏内内容需按照本页要求进行编排&lt;br&gt;
+除主页外词条请任意编辑&lt;br&gt;
+创建词条不限格式，请随意创作，具体格式可参考
+*[{{SERVER}}/index.php?title=%E5%B0%A4%E5%B0%8F%E9%BE%99&amp;action=edit  尤小龙条目代码]
+==文档管理模板==
+在需要的页面上，可以加入合适的文档管理模板。文档管理模板应该在源代码的最上方列举。
+
+在页面顶端的文档管理模板，应自上至下，按以下颜色顺序摆放：
+
+'''{{color|blue|蓝色}}、{{color|yellow|黄色}}、{{color|orange|橙色}}、{{color|red|红色}}、其他颜色'''
+
+===精品===
+曾经被首页推送为特色条目的，应当由'''管理员'''（一般用户可以向管理员申请）追加“精品”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{精品}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{精品}}
+
+===当前事件===
+所讨论的内容包含仍在持续变化的当前事件的，应当追加“当前事件”模板，并包括模板追加时的时间以便验证。事件结束后超过15天的，可以移除模板。代码为&lt;code&gt;&lt;nowiki&gt;{{当前事件}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{当前事件}}
+
+===保持中立===
+所编辑的页面中涉及的人士难以评定其立场的，应当追加“保持中立”模板，并在编辑该条目时去除自己的主观看法。代码为&lt;code&gt;&lt;nowiki&gt;{{保持中立}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：&lt;br&gt;
+{{保持中立}}
+
+===小作品===
+长度过短，内容较少的，应当追加“小作品”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{小作品|（物品）}}&lt;/nowiki&gt;&lt;/code&gt;效果如下：
+{{小作品|（物品）}}
+
+===请求出道===
+缺少条目涉及人士有关个人信息，并且的确需要其个人信息的，应当追加“请求出道”模板。另外，本站不推荐投稿信息甚少的人物。代码为&lt;code&gt;&lt;nowiki&gt;{{请求出道}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{请求出道}}
+
+===缺乏格式===
+格式糟糕的，应当追加“缺乏格式”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{缺乏格式}}&lt;/nowiki&gt;&lt;/code&gt;。
+&lt;br&gt;
+{{缺乏格式}}
+
+===删除===
+认为条目应当删除的，应当由管理员(一般用户可以发起存废讨论),追加“删除”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{Deletion}}&lt;/nowiki&gt;&lt;/code&gt;。如果有额外原因，代码为&lt;code&gt;&lt;nowiki&gt;{{Deletion|原因}}&lt;/nowiki&gt;&lt;/code&gt;。恶俗百科鼓励书写额外原因。效果分别如下:&lt;br&gt;
+{{Deletion}}&lt;br&gt;
+常见的删除理由包括但不仅限于：
+* 空白条目
+* 条目内容无意义
+* 条目内容充满谬误
+* 条目主题与本站无关
+* 条目不具有足够的知名度
+* 自我炒作
+
+====快速删除====
+&lt;small&gt;主页面：[[帮助:快速删除]]&lt;/small&gt;
+
+===令人不适===
+&lt;nowiki&gt;令人感觉不适甚至会心肺停止的页面，应当追加“令人不适”模板。代码为{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}。效果如下:&lt;br&gt;&lt;/nowiki&gt;
+{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}
+&lt;br&gt;
+常见令人不适的原因包括但不限于： 
+* 频繁/强烈的语言暴力
+* 大量有关心理压力题材
+* 偶尔/轻微的成人/性暗示题材
+* 频繁/强烈的色情内容或裸露
+* 极度令人恶心的内容
+* 与社会主义核心价值观格格不入
+
+===注意备份===
+如果该页面人物擅长自我削除言行，应当追加“注意备份”模板。代码为&lt;nowiki&gt;{{注意备份}}&lt;/nowiki&gt;。效果如下：
+{{注意备份}}
+
+===禁止炒作===
+所编辑的页面中涉及的人士试图利用恶俗百科进行大量自我炒作赚取流量的，应当追加“禁止炒作”模板，代码为&lt;nowiki&gt;{{禁止炒作}}。效果如下：&lt;/nowiki&gt;
+{{禁止炒作}}
+{{color|red|注意}}:本模板只应用在这个人明确'''知道本站的存在，并希望借助本站炒作自己的条目'''的情况下。''这个最容易用错，并不是一般的炒作人都能加上''
+
+===谨慎行动===
+&lt;nowiki&gt;谨慎行动：{{谨慎行动|（人物能力）}}&lt;/nowiki&gt;
+{{谨慎行动|（人物能力）}}
+
+===极度危险===
+&lt;nowiki&gt;极度危险：{{极度危险|（人物能力）}}&lt;/nowiki&gt;
+{{极度危险|（人物能力）}}
+
+===正在服刑===
+&lt;nowiki&gt;正在服刑：{{正在服刑}}&lt;/nowiki&gt;
+{{正在服刑}}
+
+===曾经入狱===
+所编辑页面中涉及的人物如果因为某些原因入狱或者被刑拘，进局子，应当追加“曾经入狱”模板，代码为&lt;nowiki&gt;{{曾经入狱|（某种原因）}}&lt;/nowiki&gt;
+{{曾经入狱|（某种原因）}}
+
+===终止迫害===
+若由于某些原因，一些人不应当被继续迫害，应当追加“终止迫害”模板。代码&lt;nowiki&gt;终止迫害：{{终止迫害}}&lt;/nowiki&gt;
+{{终止迫害}}。效果如下：
+
+===迫害加速===
+若由于某些原因，一些人应当被加速迫害，且'''在人物信息栏中硬度为∞（7）、属于当前事件'''的可以追加“迫害加速”模板。代码为&lt;nowiki&gt;{{迫害加速|* 资料整理
+}}&lt;/nowiki&gt;。效果如下：
+{{迫害加速|* 资料整理}}
+常见迫害方法包括但不限于：
+*资料整理
+*电话互动
+*线上互动
+*素材开发
+*高雅创作
+*言行存档
+*义务教育
+*真人快打
+注意：
+*若此人确实诚恳道歉，并回归虚无达到一定时间，该模板应被移除。
+*此模板只有管理员才能添加，高雅人士的力量应该集中用于橄榄几个罪大恶极的人。
+
+===No mercy===
+&lt;nowiki&gt;无仁慈模式：{{Nomercy}}&lt;/nowiki&gt;
+{{Nomercy}}
+一旦添加此模板则代表着此人物将永远保留在恶俗百科，{{color|red|该模板只能由管理员添加，私自添加将获得封禁套餐}}
+
+===恶俗之最===
+&lt;nowiki&gt;恶俗之最：{{恶俗之最|（称号）|（理由）}}&lt;/nowiki&gt;
+{{恶俗之最|（称号）|（理由）}}
+
+===用语解释===
+如果当前页面是一个概念或专有名词解释页面，则应当添加&lt;nowiki&gt;{{用语解释}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{用语解释}}
+
+===御驾亲征===
+&lt;nowiki&gt;御驾亲征：{{御驾亲征}}&lt;/nowiki&gt;
+{{御驾亲征}}
+
+===暂无词条===
+&lt;nowiki&gt;暂无词条：{{暂无词条}}&lt;/nowiki&gt;
+{{暂无词条}}
+
+===消歧义===
+&lt;nowiki&gt;消歧义：{{消歧义}}&lt;/nowiki&gt;
+{{消歧义}}
+
+===过时===
+&lt;nowiki&gt;过时：{{过时}}&lt;/nowiki&gt;
+{{过时}}
+
+===搬运工===
+&lt;nowiki&gt;搬运工：{{搬运工|（出处）}}&lt;/nowiki&gt;
+{{搬运工|（出处）}}
+
+===站点===
+如果该页面描述的是一个网站，则应当添加&lt;nowiki&gt;{{网站}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{网站}}
+
+===未完待续===
+&lt;nowiki&gt;未完待续：{{未完待续}}&lt;/nowiki&gt;
+{{未完待续}}
+
+===大脑升级===
+&lt;nowiki&gt;大脑升级：{{大脑升级}}&lt;/nowiki&gt;
+{{大脑升级}}
+
+===死亡===
+所编辑页面中涉及人物已经死亡，则应当追加“死人”模板，代码为&lt;nowiki&gt;{{Dead}}&lt;/nowiki&gt;。例如：
+&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:deathflower.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''饶文建'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]
+*此模板仅适用于两种情况：物理死亡和自称死亡。
+*此模板应该放置于所有AmBox类模板下方。
+
+===自定义模板===
+自定义模板：&lt;br&gt;
+&lt;nowiki&gt;{{信息框&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|border=左侧边条颜色（如green）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|image=图片（直接填写文件名，例：野兽先辈.jpg）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|type=标题&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|info=内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;}}&lt;/nowiki&gt;
+{{信息框
+|border=green
+|image=提示.jpg
+|type=（标题）
+|info=（内容）
+}}
+
+==信息卡模板==
+信息卡模板隔一个空行，放置在文档管理模板下方。如没有文档管理模板，请放置在条目顶部。针对人物，应当使用人物信息模板；对组织，使用组织信息模板模板。
+===人物信息模板===
+{{信息板
+|titlename=（标题姓名）
+|photo=NOBODY.jpg
+|photocap=（图片文字）
+|name=（姓名）
+|id=（常用id）
+|class=（职业）
+|ability=（能力）
+|hardness=1
+|IQ=（智商）
+|online=5
+|affinity=（所属）
+}}
+人物信息：&lt;br&gt;
+&lt;nowiki&gt;{{信息板&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|titlename=标题姓名&lt;/nowiki&gt;（此参数通常无需填写，仅在name参数未填写或填写了多个姓名时填写）&lt;br&gt;
+&lt;nowiki&gt;|photo=图片&lt;/nowiki&gt;（直接填写文件名，例：a.jpg）&lt;br&gt;
+&lt;nowiki&gt;|photocap=图片文字&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|name=姓名&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|id=常用id&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|class=职业&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|ability=能力&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|best=必杀技&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|hardness=硬度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|dangerous=(危险度)&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|IQ=智商&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|online=活跃度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|affinity=所属&lt;/nowiki&gt;&lt;br&gt;
+}}'''''（如信息未知应删除参数，至少填写一项）'''''
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+==正文==
+===正文规范===
+所有正文段落之间应且只应空一行。正文段落采用齐头式，不必缩进两格。正文标点符号应规范使用全角中文标点符号&lt;br&gt;
+请注意事件时间线的准确性，日期格式应为XXXX年X月X日，避免使用“最近”、“今年”、“本月”等词语。在指代不需要实名的事件关系人时，应该尽量体现其身份，如“朋友”、“一般通过人士”、“高雅人士”等，避免使用“有人”、“某些人”、“很多人”等词语。 &lt;br&gt;
+恶俗百科目前100%的条目都是使用大陆简体编写，因此对于新更改也必须使用大陆简体&lt;br&gt;
+在货币及计量单位上，必须采用页面涉及人物所在国家或地区的货币和计量单位。绝大多数页面涉及人物都居住在中国大陆，因此应采用RMB和公制单位，除非是带有捏他性质并且在本站载有换算关系的单位，如“贝天”、“恒”等。 &lt;br&gt;
+请避免“假大空”的措辞，不要言之无物或举伪证。除了文游和捏他的部分以外，请尽量采用浅显易懂的叙事风格与可信度高的佐证，以一般通过人士能够了解大致经过为宜，特别是在涉及圈外人物或公众人物的情况下。 &lt;br&gt;
+'''糟糕的例子：用户在其主笔的页面内试图批判某人为“死妈废物”，指责其“打滚”、“萎勃”、“放黑屁”云云，然而通篇下来并未提及任何具体事迹或摘选任何具体语录，显然一般通过人士是难以理解此类废文的。'''
+===重新导向页面===
+某些条目可能已经被移动或因为特殊原因而不显示其元条目名。为了使访问者能够正常无虞地访问存取目标条目，故需要对错误的或已经废止使用之条目进行重新导向操作，直至流量全无为限。 &lt;br&gt;
+一般地，在移动条目时会自动在移动前条目留下一个重新导向页面。但在某些特殊情况发生时，您可能需要对条目手动进行重新导向，其语法为#REDIRECT [[条目名]]。请注意，重新导向页面目前不支援使用外部链接，这可能造成错误。 &lt;br&gt;
+==分类==
+===人物===
+&lt;br&gt;
+原则上不重复收录
+&lt;br&gt;
+   * [[国际巨星]]:
+      * 知名度高、曾出现在首页的人物
+      * 曾收录于此的人物（永久保留）
+      * 原则上不轻易收录新的人物
+   * [[二线明星]]:
+      * 知名度高、未出现在首页的人物
+      * 有创作能力的人物
+      * 曾收录于此的人物（历史遗留问题）
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[神必人]]:
+      * 未出道的人物
+      * 这是一个强制性的分类，符合条件者必须收录于此
+   * [[其他人]]:
+      * 普通人,死妈人
+      * 没有创作能力且没有键政倾向的人物
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[纸片人]]:
+      * 动画、漫画、游戏、特摄等ACGN作品中的虚拟人物
+      * 该分类下条目只记录角色本身事迹，涉及到声优、制作、运营等相关事迹请单独创建条目
+   * [[思想品德]]:
+      * 语言能力低下的人物，其打出的文字晦涩难懂
+
+==定义文本==
+&lt;br&gt;&lt;nowiki&gt;
+使用&lt;dt&gt;时，文字自动变成粗体；使用&lt;dd&gt;时，文字自动缩排四个字元。这通常用于强调定义。&lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;刘勤为什么死妈？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为刘勤是屑。&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;为什么刘勤是屑？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为他没屁眼&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;dl&gt;
+&lt;dt&gt;刘勤为什么死妈？
+&lt;dd&gt;因为刘勤是屑。
+&lt;dt&gt;为什么刘勤是屑？
+&lt;dd&gt;因为他没屁眼
+&lt;/dl&gt;
+===列表===
+====无序列表====
+格式为:
+&lt;nowiki&gt;* 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;* 条目2&lt;/nowiki&gt;&lt;br&gt;
+
+当然你也可以使用HTML语法。下面是格式:&lt;br&gt;
+&lt;nowiki&gt;&lt;ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+* 条目1
+* 条目2
+====有序列表====
+格式为:&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+
+同样可以使用HTML语法，看个人习惯，格式为:
+&lt;nowiki&gt;&lt;ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+# 条目1
+# 条目2
+===链接===
+&lt;nowiki&gt;对于恶俗百科内部条目链接，应当使用[[条目名]]或[[条目名|显示名]]格式。如果要设定显示名，链接的显示名应当是名词性质。如果并非链接名词，而以恶俗百科内部其他条目作为出典，适用出典的设置方式。内部条目链接只应该在该名词第一次出现的位置设置，其他出现不作设置，仅为纯文本。 &lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;对于外部链接，使用[链接 显示名]格式设置。设置原则同站内链接，但如果条目内包括页面全名，在全名上设置链接的，不必设置为引用，直接在文字上设置链接即可。&lt;/nowiki&gt;&lt;br&gt;
+本站也提供了到部分站点的快捷引用方式，可以按内部链接格式使用。例如： &lt;br&gt;
+* ALL网站:&lt;nowiki&gt;[[URL 描述文字]]&lt;/nowiki&gt;&lt;br&gt;
+* 恶俗百科内链接:&lt;nowiki&gt;[[尤小龙]]&lt;/nowiki&gt;
+
+===引用===
+&lt;nowiki&gt;对于页面内只使用很少次数的引用，用&lt;ref&gt;引用内容&lt;/ref&gt;格式，并在条目底部加入以下内容：&lt;/nowiki&gt;
+&lt;nowiki&gt;== 注释 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;references/&gt;&lt;/nowiki&gt;&lt;br&gt;
+维基系统会自动生成注释连接。 &lt;br&gt;
+对于整个页面处处参考的引用，不必使用注释格式，在页面底部加入“参考资料”一节并链接即可。 
+===隐蔽性注释===
+&lt;nowiki&gt;隐蔽性注释用于隐藏目标字元，使之无法在可视化编辑器及可视化页面下被查看。隐蔽性注释可以理解为Java中的单行注释。如果使用者需要对一部分字元进行隐蔽性注释，那么其格式为&lt;!-- 你要注释的字元 --&gt;。以下是示范：&lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;&lt;nowiki&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;
+===Wikitable===
+Wikitable是一种由MediaWiki提供的表格修饰，这种表格比直接绘制的表格好看十万甚至九万倍。下面是示例&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;{|&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|橘子||苹果||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|面包||饼||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|奶油||冰淇淋||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|}&lt;br&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:
+{|
+|橘子||苹果||更多
+|-
+|面包||饼||更多
+|-
+|奶油||冰淇淋||更多
+|}
+
+===文字上标===
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字上标。其引用格式为&lt;sup&gt;欲上标之字元&lt;/sup&gt;。下面是关于上标字的{{#vardefine:size|}}demo。 &lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;
+===文字下标===
+&lt;br&gt;
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字下标。其引用格式为&lt;sub&gt;欲下标之字元&lt;/sub&gt;。下面是关于下标字的{{#vardefine:size|}}demo。&lt;/nowiki&gt;&lt;br&gt;
+您输入的：&lt;br&gt;
+&lt;nowiki&gt;氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;
+===删除线===
+&lt;nowiki&gt;当使用者需要利用删除线效果时，其引用格式为&lt;s&gt;欲删除之字元&lt;/s&gt;，也可以使用其全写&lt;strike&gt;欲删除之字元&lt;/strike&gt;。 &lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;
+===姓名规范===
+&lt;br&gt;
+如果条目描述的是一个人的话 
+* 该人士有中国血统，且其有中文姓名的话，使用其真实中文姓名的简体作为标题。
+* 该人士其姓名为外文的，标题以其真实姓名的新华社译名为准。 
+  ** 英文姓名可参考：[[《英文姓名译文手册》]]
+  ** 如手册中无法找到，可在网络搜索同名人士的新华社报道（site:news.cn）。
+  ** 例如：有一名美国诺贝尔物理学奖得主Arieh译名为亚利耶，因此Arieh Smith的译名为亚利耶·史密斯
+  ** 若其姓名无官方翻译，亦无民间翻译者，应自行音译其姓名，但需要对该姓名至少加入一个注释，内容为原文写法。
+* 原名为日语者，应该使用已经简化的日本汉字，且应在汉字顶部标注其平假名写法。然描述1945年前出生者，不在此限。 
+  ** 对于一些特殊用字，有规定者，依规定；无规定者，依习惯[1]。（如「濱」在日语中简化为「浜」，但译作汉语时，应作「滨」字元。）
+===标题和目录===
+&lt;br&gt;
+对于所有条目的“简介”部分，应隔一个空行，放置在信息卡模板下方。如果没有模板，直接放置在条目顶部，不需要“简介”大标题。 
+&lt;br&gt;
+设置成标题的，会自动进入条目目录，不需要额外制作目录。设置标题时，标题不应有加粗、斜体、字号等额外格式。标题应尽量简短，以表述清晰，适合速读为标准。设置标题时为了方便修改代码，应在标题文字和“=”符号之间空一格。范例如下： 
+
+&lt;nowiki&gt;== 二级标题 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;=== 三级标题 ===&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==== 四级标题 ====&lt;/nowiki&gt;&lt;br&gt;
+
+如果使用者需要套用更多的标题，请使用HTML语法，但这通常会导致一些未知错误。格式为&lt;nowiki&gt;&lt;h1&gt;&lt;/nowiki&gt;，其中数字可以从1到6，通常建议从2开始。 
+&lt;br&gt;
+以下是错误用法： 
+&lt;nowiki&gt;=='''错误'''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==''错误''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;===&lt;span style="color:#F00;"&gt;错误&lt;/span&gt;===&lt;/nowiki&gt;&lt;br&gt;
+
+==用户页==
+&lt;br&gt;
+一般而言，您可以自由编辑您的用户页。因此，用户页不必拘泥于上文“使用百科形式撰写”这一守则，可以自由地进行编辑，采用任意格式均可。以下模板皆为“可选”模板，若您认为添加模板将影响您用户页的格式，可另辟蹊径，使用您青睐的方式达到目的。 
+&lt;br&gt;
+请合理使用您的用户页，避免进行以下活动： 
+  * 自我炒作
+  * 记载他人事迹（应该写在相关的主页面）
+  * 展示非法内容以及其他对用户有害的内容或不符合本站宗旨的内容
+===用户页===
+&lt;nowiki&gt;对于任何用户页，若希望以较为明显的方式提示阅览者该页面为用户页，并告知阅览者用户页编辑守则，可以添加“用户页”模板，代码为：{{UserPage}}。效果如下：&lt;/nowiki&gt;&lt;br&gt;
+{{UserPage}}
+&lt;br&gt;
+请注意，任何人都可以在您的用户页上留下评论，若您想关闭用户页评论区，请联系管理员。
+===自由编辑===
+&lt;nowiki&gt;用户本人许可其他用户编辑其用户页，可以添加“自由编辑”模板，代码为：{{FreetoEdit}}。效果如下：&lt;/nowiki&gt; 
+{{FreetoEdit}}
+===退站声明===
+&lt;nowiki&gt;已决定暂停恶俗百科事务的用户，可以添加“退站声明”模板，代码为：{{Quit|（用户名）|TIME=（时间段）}}。&lt;/nowiki&gt;'''（为保证安全，添加此模板的用户将在该时间段内被封禁，均必填）'''效果如下： &lt;br&gt;
+{{Quit|（用户名）|TIME=（时间段）}}
+
+==讨论页==
+在每个页面标签的右边，都有一个讨论的标签。 &lt;br&gt;
+在讨论页中，可以对当前页面的高雅创作进行编辑者之间的讨论。不要在主页面内进行讨论。
+===创建话题===
+&lt;br&gt;
+如要创建话题，可以点击右上角的创建话题按钮，也可以在编辑讨论页时添加以下代码：== 话题1111 ==
+&lt;br&gt;
+===签名===
+&lt;nowiki&gt;在讨论页上签名：要在讨论页上签名，只需输入四个波浪号（~~~~）&lt;/nowiki&gt;即可，它们将自动换成您的用户名和留言时间，就好像这样：[[用户:Tianyan|Tianyan]]（[[用户讨论:Tianyan|讨论]]） 2020年6月26日 (五) 12:55 (CST)。请注意所有人都没有可能留下匿名留言，因为就算您没有在留言时签名，您的用户名称或IP地址都会记录在页面历史中。您可以对签名进行自定义，新的签名务必包含本人用户页、用户讨论页、贡献页之中至少一个链接以及时间戳。签名不应包含容易混淆的链接，如同名人物条目、其他用户的相关页面等。
+
+===讨论格式标准===
+&lt;br&gt;
+往下书写：如果您将您的留言发布在页面的上方，这会使他人困惑并使其他人容易忽略您的留言。最新的讨论主题应置在页面的最下方，而接着的回应便能置于留言的下方，如此类推。此举能方便读者以发表时间的顺序来观看意见。一个较快捷的方法是使用“编辑”按钮右方的“添加话题”或“+”按钮新建主题，它会自动将您的讨论主题置于页面的最下方。 
+&lt;br&gt;
+分段书写：如果您的意见中有数个讨论重点，请将重点分段书写。您可以透过断行或使用列表符号（*）来分开每一个的讨论重点。 
+&lt;br&gt;
+使用缩排来使回应更易阅读：请使用缩排符号（:）来发表您的回应，这就与传统式BBS的回应方式相若。当其他人回应您的回应时，便会将回应的缩排层级增加，换言之即是使用两个缩排符号（::），如此类推。一般来说，列表符号（*）不应该当作缩排符号般使用。
+
+&lt;comments /&gt;</text>
+      <sha1>8h4dyc9fo1namf0r3q69bbi667bjyeu</sha1>
+    </revision>
+    <revision>
+      <id>2147</id>
+      <parentid>2146</parentid>
+      <timestamp>2020-08-23T06:34:10Z</timestamp>
+      <contributor>
+        <username>imported&gt;犬吠九天</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 定义文本 */</comment>
+      <origin>2147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23000" sha1="j9pcwu40m6s5qp0wmkg0zijv6pp6pne" xml:space="preserve">该站编辑拥有严格的制度标准&lt;br&gt;
+左侧导航栏内分类需按照传送门模块进行排版&lt;br&gt;
+一个传送门模块代表创建一个总分类&lt;br&gt;
+中间的称号和人物名代表创建分类下的子类&lt;br&gt;
+所有导航栏内内容需按照本页要求进行编排&lt;br&gt;
+除主页外词条请任意编辑&lt;br&gt;
+创建词条不限格式，请随意创作，具体格式可参考
+*[{{SERVER}}/index.php?title=%E5%B0%A4%E5%B0%8F%E9%BE%99&amp;action=edit  尤小龙条目代码]
+==文档管理模板==
+在需要的页面上，可以加入合适的文档管理模板。文档管理模板应该在源代码的最上方列举。
+
+在页面顶端的文档管理模板，应自上至下，按以下颜色顺序摆放：
+
+'''{{color|blue|蓝色}}、{{color|yellow|黄色}}、{{color|orange|橙色}}、{{color|red|红色}}、其他颜色'''
+
+===精品===
+曾经被首页推送为特色条目的，应当由'''管理员'''（一般用户可以向管理员申请）追加“精品”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{精品}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{精品}}
+
+===当前事件===
+所讨论的内容包含仍在持续变化的当前事件的，应当追加“当前事件”模板，并包括模板追加时的时间以便验证。事件结束后超过15天的，可以移除模板。代码为&lt;code&gt;&lt;nowiki&gt;{{当前事件}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{当前事件}}
+
+===保持中立===
+所编辑的页面中涉及的人士难以评定其立场的，应当追加“保持中立”模板，并在编辑该条目时去除自己的主观看法。代码为&lt;code&gt;&lt;nowiki&gt;{{保持中立}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：&lt;br&gt;
+{{保持中立}}
+
+===小作品===
+长度过短，内容较少的，应当追加“小作品”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{小作品|（物品）}}&lt;/nowiki&gt;&lt;/code&gt;效果如下：
+{{小作品|（物品）}}
+
+===请求出道===
+缺少条目涉及人士有关个人信息，并且的确需要其个人信息的，应当追加“请求出道”模板。另外，本站不推荐投稿信息甚少的人物。代码为&lt;code&gt;&lt;nowiki&gt;{{请求出道}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{请求出道}}
+
+===缺乏格式===
+格式糟糕的，应当追加“缺乏格式”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{缺乏格式}}&lt;/nowiki&gt;&lt;/code&gt;。
+&lt;br&gt;
+{{缺乏格式}}
+
+===删除===
+认为条目应当删除的，应当由管理员(一般用户可以发起存废讨论),追加“删除”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{Deletion}}&lt;/nowiki&gt;&lt;/code&gt;。如果有额外原因，代码为&lt;code&gt;&lt;nowiki&gt;{{Deletion|原因}}&lt;/nowiki&gt;&lt;/code&gt;。恶俗百科鼓励书写额外原因。效果分别如下:&lt;br&gt;
+{{Deletion}}&lt;br&gt;
+常见的删除理由包括但不仅限于：
+* 空白条目
+* 条目内容无意义
+* 条目内容充满谬误
+* 条目主题与本站无关
+* 条目不具有足够的知名度
+* 自我炒作
+
+====快速删除====
+&lt;small&gt;主页面：[[帮助:快速删除]]&lt;/small&gt;
+
+===令人不适===
+&lt;nowiki&gt;令人感觉不适甚至会心肺停止的页面，应当追加“令人不适”模板。代码为{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}。效果如下:&lt;br&gt;&lt;/nowiki&gt;
+{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}
+&lt;br&gt;
+常见令人不适的原因包括但不限于： 
+* 频繁/强烈的语言暴力
+* 大量有关心理压力题材
+* 偶尔/轻微的成人/性暗示题材
+* 频繁/强烈的色情内容或裸露
+* 极度令人恶心的内容
+* 与社会主义核心价值观格格不入
+
+===注意备份===
+如果该页面人物擅长自我削除言行，应当追加“注意备份”模板。代码为&lt;nowiki&gt;{{注意备份}}&lt;/nowiki&gt;。效果如下：
+{{注意备份}}
+
+===禁止炒作===
+所编辑的页面中涉及的人士试图利用恶俗百科进行大量自我炒作赚取流量的，应当追加“禁止炒作”模板，代码为&lt;nowiki&gt;{{禁止炒作}}。效果如下：&lt;/nowiki&gt;
+{{禁止炒作}}
+{{color|red|注意}}:本模板只应用在这个人明确'''知道本站的存在，并希望借助本站炒作自己的条目'''的情况下。''这个最容易用错，并不是一般的炒作人都能加上''
+
+===谨慎行动===
+&lt;nowiki&gt;谨慎行动：{{谨慎行动|（人物能力）}}&lt;/nowiki&gt;
+{{谨慎行动|（人物能力）}}
+
+===极度危险===
+&lt;nowiki&gt;极度危险：{{极度危险|（人物能力）}}&lt;/nowiki&gt;
+{{极度危险|（人物能力）}}
+
+===正在服刑===
+&lt;nowiki&gt;正在服刑：{{正在服刑}}&lt;/nowiki&gt;
+{{正在服刑}}
+
+===曾经入狱===
+所编辑页面中涉及的人物如果因为某些原因入狱或者被刑拘，进局子，应当追加“曾经入狱”模板，代码为&lt;nowiki&gt;{{曾经入狱|（某种原因）}}&lt;/nowiki&gt;
+{{曾经入狱|（某种原因）}}
+
+===终止迫害===
+若由于某些原因，一些人不应当被继续迫害，应当追加“终止迫害”模板。代码&lt;nowiki&gt;终止迫害：{{终止迫害}}&lt;/nowiki&gt;
+{{终止迫害}}。效果如下：
+
+===迫害加速===
+若由于某些原因，一些人应当被加速迫害，且'''在人物信息栏中硬度为∞（7）、属于当前事件'''的可以追加“迫害加速”模板。代码为&lt;nowiki&gt;{{迫害加速|* 资料整理
+}}&lt;/nowiki&gt;。效果如下：
+{{迫害加速|* 资料整理}}
+常见迫害方法包括但不限于：
+*资料整理
+*电话互动
+*线上互动
+*素材开发
+*高雅创作
+*言行存档
+*义务教育
+*真人快打
+注意：
+*若此人确实诚恳道歉，并回归虚无达到一定时间，该模板应被移除。
+*此模板只有管理员才能添加，高雅人士的力量应该集中用于橄榄几个罪大恶极的人。
+
+===No mercy===
+&lt;nowiki&gt;无仁慈模式：{{Nomercy}}&lt;/nowiki&gt;
+{{Nomercy}}
+一旦添加此模板则代表着此人物将永远保留在恶俗百科，{{color|red|该模板只能由管理员添加，私自添加将获得封禁套餐}}
+
+===恶俗之最===
+&lt;nowiki&gt;恶俗之最：{{恶俗之最|（称号）|（理由）}}&lt;/nowiki&gt;
+{{恶俗之最|（称号）|（理由）}}
+
+===用语解释===
+如果当前页面是一个概念或专有名词解释页面，则应当添加&lt;nowiki&gt;{{用语解释}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{用语解释}}
+
+===御驾亲征===
+&lt;nowiki&gt;御驾亲征：{{御驾亲征}}&lt;/nowiki&gt;
+{{御驾亲征}}
+
+===暂无词条===
+&lt;nowiki&gt;暂无词条：{{暂无词条}}&lt;/nowiki&gt;
+{{暂无词条}}
+
+===消歧义===
+&lt;nowiki&gt;消歧义：{{消歧义}}&lt;/nowiki&gt;
+{{消歧义}}
+
+===过时===
+&lt;nowiki&gt;过时：{{过时}}&lt;/nowiki&gt;
+{{过时}}
+
+===搬运工===
+&lt;nowiki&gt;搬运工：{{搬运工|（出处）}}&lt;/nowiki&gt;
+{{搬运工|（出处）}}
+
+===站点===
+如果该页面描述的是一个网站，则应当添加&lt;nowiki&gt;{{网站}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{网站}}
+
+===未完待续===
+&lt;nowiki&gt;未完待续：{{未完待续}}&lt;/nowiki&gt;
+{{未完待续}}
+
+===大脑升级===
+&lt;nowiki&gt;大脑升级：{{大脑升级}}&lt;/nowiki&gt;
+{{大脑升级}}
+
+===死亡===
+所编辑页面中涉及人物已经死亡，则应当追加“死人”模板，代码为&lt;nowiki&gt;{{Dead}}&lt;/nowiki&gt;。例如：
+&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:deathflower.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''饶文建'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]
+*此模板仅适用于两种情况：物理死亡和自称死亡。
+*此模板应该放置于所有AmBox类模板下方。
+
+===自定义模板===
+自定义模板：&lt;br&gt;
+&lt;nowiki&gt;{{信息框&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|border=左侧边条颜色（如green）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|image=图片（直接填写文件名，例：野兽先辈.jpg）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|type=标题&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|info=内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;}}&lt;/nowiki&gt;
+{{信息框
+|border=green
+|image=提示.jpg
+|type=（标题）
+|info=（内容）
+}}
+
+==信息卡模板==
+信息卡模板隔一个空行，放置在文档管理模板下方。如没有文档管理模板，请放置在条目顶部。针对人物，应当使用人物信息模板；对组织，使用组织信息模板模板。
+===人物信息模板===
+{{信息板
+|titlename=（标题姓名）
+|photo=NOBODY.jpg
+|photocap=（图片文字）
+|name=（姓名）
+|id=（常用id）
+|class=（职业）
+|ability=（能力）
+|hardness=1
+|IQ=（智商）
+|online=5
+|affinity=（所属）
+}}
+人物信息：&lt;br&gt;
+&lt;nowiki&gt;{{信息板&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|titlename=标题姓名&lt;/nowiki&gt;（此参数通常无需填写，仅在name参数未填写或填写了多个姓名时填写）&lt;br&gt;
+&lt;nowiki&gt;|photo=图片&lt;/nowiki&gt;（直接填写文件名，例：a.jpg）&lt;br&gt;
+&lt;nowiki&gt;|photocap=图片文字&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|name=姓名&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|id=常用id&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|class=职业&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|ability=能力&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|best=必杀技&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|hardness=硬度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|dangerous=(危险度)&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|IQ=智商&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|online=活跃度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|affinity=所属&lt;/nowiki&gt;&lt;br&gt;
+}}'''''（如信息未知应删除参数，至少填写一项）'''''
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+==正文==
+===正文规范===
+所有正文段落之间应且只应空一行。正文段落采用齐头式，不必缩进两格。正文标点符号应规范使用全角中文标点符号&lt;br&gt;
+请注意事件时间线的准确性，日期格式应为XXXX年X月X日，避免使用“最近”、“今年”、“本月”等词语。在指代不需要实名的事件关系人时，应该尽量体现其身份，如“朋友”、“一般通过人士”、“高雅人士”等，避免使用“有人”、“某些人”、“很多人”等词语。 &lt;br&gt;
+恶俗百科目前100%的条目都是使用大陆简体编写，因此对于新更改也必须使用大陆简体&lt;br&gt;
+在货币及计量单位上，必须采用页面涉及人物所在国家或地区的货币和计量单位。绝大多数页面涉及人物都居住在中国大陆，因此应采用RMB和公制单位，除非是带有捏他性质并且在本站载有换算关系的单位，如“贝天”、“恒”等。 &lt;br&gt;
+请避免“假大空”的措辞，不要言之无物或举伪证。除了文游和捏他的部分以外，请尽量采用浅显易懂的叙事风格与可信度高的佐证，以一般通过人士能够了解大致经过为宜，特别是在涉及圈外人物或公众人物的情况下。 &lt;br&gt;
+'''糟糕的例子：用户在其主笔的页面内试图批判某人为“死妈废物”，指责其“打滚”、“萎勃”、“放黑屁”云云，然而通篇下来并未提及任何具体事迹或摘选任何具体语录，显然一般通过人士是难以理解此类废文的。'''
+===重新导向页面===
+某些条目可能已经被移动或因为特殊原因而不显示其元条目名。为了使访问者能够正常无虞地访问存取目标条目，故需要对错误的或已经废止使用之条目进行重新导向操作，直至流量全无为限。 &lt;br&gt;
+一般地，在移动条目时会自动在移动前条目留下一个重新导向页面。但在某些特殊情况发生时，您可能需要对条目手动进行重新导向，其语法为#REDIRECT [[条目名]]。请注意，重新导向页面目前不支援使用外部链接，这可能造成错误。 &lt;br&gt;
+==分类==
+===人物===
+&lt;br&gt;
+原则上不重复收录
+&lt;br&gt;
+   * [[国际巨星]]:
+      * 知名度高、曾出现在首页的人物
+      * 曾收录于此的人物（永久保留）
+      * 原则上不轻易收录新的人物
+   * [[二线明星]]:
+      * 知名度高、未出现在首页的人物
+      * 有创作能力的人物
+      * 曾收录于此的人物（历史遗留问题）
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[神必人]]:
+      * 未出道的人物
+      * 这是一个强制性的分类，符合条件者必须收录于此
+   * [[其他人]]:
+      * 普通人,死妈人
+      * 没有创作能力且没有键政倾向的人物
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[纸片人]]:
+      * 动画、漫画、游戏、特摄等ACGN作品中的虚拟人物
+      * 该分类下条目只记录角色本身事迹，涉及到声优、制作、运营等相关事迹请单独创建条目
+   * [[思想品德]]:
+      * 语言能力低下的人物，其打出的文字晦涩难懂
+
+==定义文本==
+&lt;br&gt;&lt;nowiki&gt;
+使用&lt;dt&gt;时，文字自动变成粗体；使用&lt;dd&gt;时，文字自动缩排四个字元。这通常用于强调定义。&lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;齐孟泽为什么死妈？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为齐孟泽是屑。&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;为什么齐孟泽是屑？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为他没屁眼&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;dl&gt;
+&lt;dt&gt;齐孟泽为什么死妈？
+&lt;dd&gt;因为齐孟泽是屑。
+&lt;dt&gt;为什么齐孟泽是屑？
+&lt;dd&gt;因为他没屁眼
+&lt;/dl&gt;
+===列表===
+====无序列表====
+格式为:
+&lt;nowiki&gt;* 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;* 条目2&lt;/nowiki&gt;&lt;br&gt;
+
+当然你也可以使用HTML语法。下面是格式:&lt;br&gt;
+&lt;nowiki&gt;&lt;ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+* 条目1
+* 条目2
+====有序列表====
+格式为:&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+
+同样可以使用HTML语法，看个人习惯，格式为:
+&lt;nowiki&gt;&lt;ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+# 条目1
+# 条目2
+===链接===
+&lt;nowiki&gt;对于恶俗百科内部条目链接，应当使用[[条目名]]或[[条目名|显示名]]格式。如果要设定显示名，链接的显示名应当是名词性质。如果并非链接名词，而以恶俗百科内部其他条目作为出典，适用出典的设置方式。内部条目链接只应该在该名词第一次出现的位置设置，其他出现不作设置，仅为纯文本。 &lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;对于外部链接，使用[链接 显示名]格式设置。设置原则同站内链接，但如果条目内包括页面全名，在全名上设置链接的，不必设置为引用，直接在文字上设置链接即可。&lt;/nowiki&gt;&lt;br&gt;
+本站也提供了到部分站点的快捷引用方式，可以按内部链接格式使用。例如： &lt;br&gt;
+* ALL网站:&lt;nowiki&gt;[[URL 描述文字]]&lt;/nowiki&gt;&lt;br&gt;
+* 恶俗百科内链接:&lt;nowiki&gt;[[尤小龙]]&lt;/nowiki&gt;
+
+===引用===
+&lt;nowiki&gt;对于页面内只使用很少次数的引用，用&lt;ref&gt;引用内容&lt;/ref&gt;格式，并在条目底部加入以下内容：&lt;/nowiki&gt;
+&lt;nowiki&gt;== 注释 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;references/&gt;&lt;/nowiki&gt;&lt;br&gt;
+维基系统会自动生成注释连接。 &lt;br&gt;
+对于整个页面处处参考的引用，不必使用注释格式，在页面底部加入“参考资料”一节并链接即可。 
+===隐蔽性注释===
+&lt;nowiki&gt;隐蔽性注释用于隐藏目标字元，使之无法在可视化编辑器及可视化页面下被查看。隐蔽性注释可以理解为Java中的单行注释。如果使用者需要对一部分字元进行隐蔽性注释，那么其格式为&lt;!-- 你要注释的字元 --&gt;。以下是示范：&lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;&lt;nowiki&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;
+===Wikitable===
+Wikitable是一种由MediaWiki提供的表格修饰，这种表格比直接绘制的表格好看十万甚至九万倍。下面是示例&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;{|&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|橘子||苹果||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|面包||饼||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|奶油||冰淇淋||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|}&lt;br&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:
+{|
+|橘子||苹果||更多
+|-
+|面包||饼||更多
+|-
+|奶油||冰淇淋||更多
+|}
+
+===文字上标===
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字上标。其引用格式为&lt;sup&gt;欲上标之字元&lt;/sup&gt;。下面是关于上标字的{{#vardefine:size|}}demo。 &lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;
+===文字下标===
+&lt;br&gt;
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字下标。其引用格式为&lt;sub&gt;欲下标之字元&lt;/sub&gt;。下面是关于下标字的{{#vardefine:size|}}demo。&lt;/nowiki&gt;&lt;br&gt;
+您输入的：&lt;br&gt;
+&lt;nowiki&gt;氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;
+===删除线===
+&lt;nowiki&gt;当使用者需要利用删除线效果时，其引用格式为&lt;s&gt;欲删除之字元&lt;/s&gt;，也可以使用其全写&lt;strike&gt;欲删除之字元&lt;/strike&gt;。 &lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;
+===姓名规范===
+&lt;br&gt;
+如果条目描述的是一个人的话 
+* 该人士有中国血统，且其有中文姓名的话，使用其真实中文姓名的简体作为标题。
+* 该人士其姓名为外文的，标题以其真实姓名的新华社译名为准。 
+  ** 英文姓名可参考：[[《英文姓名译文手册》]]
+  ** 如手册中无法找到，可在网络搜索同名人士的新华社报道（site:news.cn）。
+  ** 例如：有一名美国诺贝尔物理学奖得主Arieh译名为亚利耶，因此Arieh Smith的译名为亚利耶·史密斯
+  ** 若其姓名无官方翻译，亦无民间翻译者，应自行音译其姓名，但需要对该姓名至少加入一个注释，内容为原文写法。
+* 原名为日语者，应该使用已经简化的日本汉字，且应在汉字顶部标注其平假名写法。然描述1945年前出生者，不在此限。 
+  ** 对于一些特殊用字，有规定者，依规定；无规定者，依习惯[1]。（如「濱」在日语中简化为「浜」，但译作汉语时，应作「滨」字元。）
+===标题和目录===
+&lt;br&gt;
+对于所有条目的“简介”部分，应隔一个空行，放置在信息卡模板下方。如果没有模板，直接放置在条目顶部，不需要“简介”大标题。 
+&lt;br&gt;
+设置成标题的，会自动进入条目目录，不需要额外制作目录。设置标题时，标题不应有加粗、斜体、字号等额外格式。标题应尽量简短，以表述清晰，适合速读为标准。设置标题时为了方便修改代码，应在标题文字和“=”符号之间空一格。范例如下： 
+
+&lt;nowiki&gt;== 二级标题 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;=== 三级标题 ===&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==== 四级标题 ====&lt;/nowiki&gt;&lt;br&gt;
+
+如果使用者需要套用更多的标题，请使用HTML语法，但这通常会导致一些未知错误。格式为&lt;nowiki&gt;&lt;h1&gt;&lt;/nowiki&gt;，其中数字可以从1到6，通常建议从2开始。 
+&lt;br&gt;
+以下是错误用法： 
+&lt;nowiki&gt;=='''错误'''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==''错误''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;===&lt;span style="color:#F00;"&gt;错误&lt;/span&gt;===&lt;/nowiki&gt;&lt;br&gt;
+
+==用户页==
+&lt;br&gt;
+一般而言，您可以自由编辑您的用户页。因此，用户页不必拘泥于上文“使用百科形式撰写”这一守则，可以自由地进行编辑，采用任意格式均可。以下模板皆为“可选”模板，若您认为添加模板将影响您用户页的格式，可另辟蹊径，使用您青睐的方式达到目的。 
+&lt;br&gt;
+请合理使用您的用户页，避免进行以下活动： 
+  * 自我炒作
+  * 记载他人事迹（应该写在相关的主页面）
+  * 展示非法内容以及其他对用户有害的内容或不符合本站宗旨的内容
+===用户页===
+&lt;nowiki&gt;对于任何用户页，若希望以较为明显的方式提示阅览者该页面为用户页，并告知阅览者用户页编辑守则，可以添加“用户页”模板，代码为：{{UserPage}}。效果如下：&lt;/nowiki&gt;&lt;br&gt;
+{{UserPage}}
+&lt;br&gt;
+请注意，任何人都可以在您的用户页上留下评论，若您想关闭用户页评论区，请联系管理员。
+===自由编辑===
+&lt;nowiki&gt;用户本人许可其他用户编辑其用户页，可以添加“自由编辑”模板，代码为：{{FreetoEdit}}。效果如下：&lt;/nowiki&gt; 
+{{FreetoEdit}}
+===退站声明===
+&lt;nowiki&gt;已决定暂停恶俗百科事务的用户，可以添加“退站声明”模板，代码为：{{Quit|（用户名）|TIME=（时间段）}}。&lt;/nowiki&gt;'''（为保证安全，添加此模板的用户将在该时间段内被封禁，均必填）'''效果如下： &lt;br&gt;
+{{Quit|（用户名）|TIME=（时间段）}}
+
+==讨论页==
+在每个页面标签的右边，都有一个讨论的标签。 &lt;br&gt;
+在讨论页中，可以对当前页面的高雅创作进行编辑者之间的讨论。不要在主页面内进行讨论。
+===创建话题===
+&lt;br&gt;
+如要创建话题，可以点击右上角的创建话题按钮，也可以在编辑讨论页时添加以下代码：== 话题1111 ==
+&lt;br&gt;
+===签名===
+&lt;nowiki&gt;在讨论页上签名：要在讨论页上签名，只需输入四个波浪号（~~~~）&lt;/nowiki&gt;即可，它们将自动换成您的用户名和留言时间，就好像这样：[[用户:Tianyan|Tianyan]]（[[用户讨论:Tianyan|讨论]]） 2020年6月26日 (五) 12:55 (CST)。请注意所有人都没有可能留下匿名留言，因为就算您没有在留言时签名，您的用户名称或IP地址都会记录在页面历史中。您可以对签名进行自定义，新的签名务必包含本人用户页、用户讨论页、贡献页之中至少一个链接以及时间戳。签名不应包含容易混淆的链接，如同名人物条目、其他用户的相关页面等。
+
+===讨论格式标准===
+&lt;br&gt;
+往下书写：如果您将您的留言发布在页面的上方，这会使他人困惑并使其他人容易忽略您的留言。最新的讨论主题应置在页面的最下方，而接着的回应便能置于留言的下方，如此类推。此举能方便读者以发表时间的顺序来观看意见。一个较快捷的方法是使用“编辑”按钮右方的“添加话题”或“+”按钮新建主题，它会自动将您的讨论主题置于页面的最下方。 
+&lt;br&gt;
+分段书写：如果您的意见中有数个讨论重点，请将重点分段书写。您可以透过断行或使用列表符号（*）来分开每一个的讨论重点。 
+&lt;br&gt;
+使用缩排来使回应更易阅读：请使用缩排符号（:）来发表您的回应，这就与传统式BBS的回应方式相若。当其他人回应您的回应时，便会将回应的缩排层级增加，换言之即是使用两个缩排符号（::），如此类推。一般来说，列表符号（*）不应该当作缩排符号般使用。
+
+&lt;comments /&gt;</text>
+      <sha1>j9pcwu40m6s5qp0wmkg0zijv6pp6pne</sha1>
+    </revision>
+    <revision>
+      <id>2148</id>
+      <parentid>2147</parentid>
+      <timestamp>2020-08-23T06:37:48Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22982" sha1="3fjljkn48hsh7r9rxgdbbs9vikkglyi" xml:space="preserve">该站编辑拥有严格的制度标准&lt;br&gt;
+左侧导航栏内分类需按照传送门模块进行排版&lt;br&gt;
+一个传送门模块代表创建一个总分类&lt;br&gt;
+中间的称号和人物名代表创建分类下的子类&lt;br&gt;
+所有导航栏内内容需按照本页要求进行编排&lt;br&gt;
+除主页外词条请任意编辑&lt;br&gt;
+创建词条不限格式，请随意创作，具体格式可参考
+*[{{SERVER}}/index.php?title=%E5%B0%A4%E5%B0%8F%E9%BE%99&amp;action=edit  尤小龙条目代码]
+==文档管理模板==
+在需要的页面上，可以加入合适的文档管理模板。文档管理模板应该在源代码的最上方列举。
+
+在页面顶端的文档管理模板，应自上至下，按以下颜色顺序摆放：
+
+'''{{color|blue|蓝色}}、{{color|yellow|黄色}}、{{color|orange|橙色}}、{{color|red|红色}}、其他颜色'''
+
+===精品===
+曾经被首页推送为特色条目的，应当由'''管理员'''（一般用户可以向管理员申请）追加“精品”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{精品}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{精品}}
+
+===当前事件===
+所讨论的内容包含仍在持续变化的当前事件的，应当追加“当前事件”模板，并包括模板追加时的时间以便验证。事件结束后超过15天的，可以移除模板。代码为&lt;code&gt;&lt;nowiki&gt;{{当前事件}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{当前事件}}
+
+===保持中立===
+所编辑的页面中涉及的人士难以评定其立场的，应当追加“保持中立”模板，并在编辑该条目时去除自己的主观看法。代码为&lt;code&gt;&lt;nowiki&gt;{{保持中立}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：&lt;br&gt;
+{{保持中立}}
+
+===小作品===
+长度过短，内容较少的，应当追加“小作品”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{小作品|（物品）}}&lt;/nowiki&gt;&lt;/code&gt;效果如下：
+{{小作品|（物品）}}
+
+===请求出道===
+缺少条目涉及人士有关个人信息，并且的确需要其个人信息的，应当追加“请求出道”模板。另外，本站不推荐投稿信息甚少的人物。代码为&lt;code&gt;&lt;nowiki&gt;{{请求出道}}&lt;/nowiki&gt;&lt;/code&gt;。效果如下：
+{{请求出道}}
+
+===缺乏格式===
+格式糟糕的，应当追加“缺乏格式”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{缺乏格式}}&lt;/nowiki&gt;&lt;/code&gt;。
+&lt;br&gt;
+{{缺乏格式}}
+
+===删除===
+认为条目应当删除的，应当由管理员(一般用户可以发起存废讨论),追加“删除”模板。代码为&lt;code&gt;&lt;nowiki&gt;{{Deletion}}&lt;/nowiki&gt;&lt;/code&gt;。如果有额外原因，代码为&lt;code&gt;&lt;nowiki&gt;{{Deletion|原因}}&lt;/nowiki&gt;&lt;/code&gt;。恶俗百科鼓励书写额外原因。效果分别如下:&lt;br&gt;
+{{Deletion}}&lt;br&gt;
+常见的删除理由包括但不仅限于：
+* 空白条目
+* 条目内容无意义
+* 条目内容充满谬误
+* 条目主题与本站无关
+* 条目不具有足够的知名度
+* 自我炒作
+
+====快速删除====
+&lt;small&gt;主页面：[[帮助:快速删除]]&lt;/small&gt;
+
+===令人不适===
+&lt;nowiki&gt;令人感觉不适甚至会心肺停止的页面，应当追加“令人不适”模板。代码为{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}。效果如下:&lt;br&gt;&lt;/nowiki&gt;
+{{Discomfort|reason=噔噔咚&lt;br&gt;心肺停止}}
+&lt;br&gt;
+常见令人不适的原因包括但不限于： 
+* 频繁/强烈的语言暴力
+* 大量有关心理压力题材
+* 偶尔/轻微的成人/性暗示题材
+* 频繁/强烈的色情内容或裸露
+* 极度令人恶心的内容
+* 与社会主义核心价值观格格不入
+
+===注意备份===
+如果该页面人物擅长自我削除言行，应当追加“注意备份”模板。代码为&lt;nowiki&gt;{{注意备份}}&lt;/nowiki&gt;。效果如下：
+{{注意备份}}
+
+===禁止炒作===
+所编辑的页面中涉及的人士试图利用恶俗百科进行大量自我炒作赚取流量的，应当追加“禁止炒作”模板，代码为&lt;nowiki&gt;{{禁止炒作}}。效果如下：&lt;/nowiki&gt;
+{{禁止炒作}}
+{{color|red|注意}}:本模板只应用在这个人明确'''知道本站的存在，并希望借助本站炒作自己的条目'''的情况下。''这个最容易用错，并不是一般的炒作人都能加上''
+
+===谨慎行动===
+&lt;nowiki&gt;谨慎行动：{{谨慎行动|（人物能力）}}&lt;/nowiki&gt;
+{{谨慎行动|（人物能力）}}
+
+===极度危险===
+&lt;nowiki&gt;极度危险：{{极度危险|（人物能力）}}&lt;/nowiki&gt;
+{{极度危险|（人物能力）}}
+
+===正在服刑===
+&lt;nowiki&gt;正在服刑：{{正在服刑}}&lt;/nowiki&gt;
+{{正在服刑}}
+
+===曾经入狱===
+所编辑页面中涉及的人物如果因为某些原因入狱或者被刑拘，进局子，应当追加“曾经入狱”模板，代码为&lt;nowiki&gt;{{曾经入狱|（某种原因）}}&lt;/nowiki&gt;
+{{曾经入狱|（某种原因）}}
+
+===终止迫害===
+若由于某些原因，一些人不应当被继续迫害，应当追加“终止迫害”模板。代码&lt;nowiki&gt;终止迫害：{{终止迫害}}&lt;/nowiki&gt;
+{{终止迫害}}。效果如下：
+
+===迫害加速===
+若由于某些原因，一些人应当被加速迫害，且'''在人物信息栏中硬度为∞（7）、属于当前事件'''的可以追加“迫害加速”模板。代码为&lt;nowiki&gt;{{迫害加速|* 资料整理
+}}&lt;/nowiki&gt;。效果如下：
+{{迫害加速|* 资料整理}}
+常见迫害方法包括但不限于：
+*资料整理
+*电话互动
+*线上互动
+*素材开发
+*高雅创作
+*言行存档
+*义务教育
+*真人快打
+注意：
+*若此人确实诚恳道歉，并回归虚无达到一定时间，该模板应被移除。
+*此模板只有管理员才能添加，高雅人士的力量应该集中用于橄榄几个罪大恶极的人。
+
+===No mercy===
+&lt;nowiki&gt;无仁慈模式：{{Nomercy}}&lt;/nowiki&gt;
+{{Nomercy}}
+一旦添加此模板则代表着此人物将永远保留在恶俗百科，{{color|red|该模板只能由管理员添加，私自添加将获得封禁套餐}}
+
+===恶俗之最===
+&lt;nowiki&gt;恶俗之最：{{恶俗之最|（称号）|（理由）}}&lt;/nowiki&gt;
+{{恶俗之最|（称号）|（理由）}}
+
+===用语解释===
+如果当前页面是一个概念或专有名词解释页面，则应当添加&lt;nowiki&gt;{{用语解释}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{用语解释}}
+
+===御驾亲征===
+&lt;nowiki&gt;御驾亲征：{{御驾亲征}}&lt;/nowiki&gt;
+{{御驾亲征}}
+
+===暂无词条===
+&lt;nowiki&gt;暂无词条：{{暂无词条}}&lt;/nowiki&gt;
+{{暂无词条}}
+
+===消歧义===
+&lt;nowiki&gt;消歧义：{{消歧义}}&lt;/nowiki&gt;
+{{消歧义}}
+
+===过时===
+&lt;nowiki&gt;过时：{{过时}}&lt;/nowiki&gt;
+{{过时}}
+
+===搬运工===
+&lt;nowiki&gt;搬运工：{{搬运工|（出处）}}&lt;/nowiki&gt;
+{{搬运工|（出处）}}
+
+===站点===
+如果该页面描述的是一个网站，则应当添加&lt;nowiki&gt;{{网站}}&lt;/nowiki&gt;模板:&lt;br&gt;
+{{网站}}
+
+===未完待续===
+&lt;nowiki&gt;未完待续：{{未完待续}}&lt;/nowiki&gt;
+{{未完待续}}
+
+===大脑升级===
+&lt;nowiki&gt;大脑升级：{{大脑升级}}&lt;/nowiki&gt;
+{{大脑升级}}
+
+===死亡===
+所编辑页面中涉及人物已经死亡，则应当追加“死人”模板，代码为&lt;nowiki&gt;{{Dead}}&lt;/nowiki&gt;。例如：
+&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:deathflower.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''饶文建'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]
+*此模板仅适用于两种情况：物理死亡和自称死亡。
+*此模板应该放置于所有AmBox类模板下方。
+
+===自定义模板===
+自定义模板：&lt;br&gt;
+&lt;nowiki&gt;{{信息框&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|border=左侧边条颜色（如green）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|image=图片（直接填写文件名，例：野兽先辈.jpg）&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|type=标题&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|info=内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;}}&lt;/nowiki&gt;
+{{信息框
+|border=green
+|image=提示.jpg
+|type=（标题）
+|info=（内容）
+}}
+
+==信息卡模板==
+信息卡模板隔一个空行，放置在文档管理模板下方。如没有文档管理模板，请放置在条目顶部。针对人物，应当使用人物信息模板；对组织，使用组织信息模板模板。
+===人物信息模板===
+{{信息板
+|titlename=（标题姓名）
+|photo=NOBODY.jpg
+|photocap=（图片文字）
+|name=（姓名）
+|id=（常用id）
+|class=（职业）
+|ability=（能力）
+|hardness=1
+|IQ=（智商）
+|online=5
+|affinity=（所属）
+}}
+人物信息：&lt;br&gt;
+&lt;nowiki&gt;{{信息板&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|titlename=标题姓名&lt;/nowiki&gt;（此参数通常无需填写，仅在name参数未填写或填写了多个姓名时填写）&lt;br&gt;
+&lt;nowiki&gt;|photo=图片&lt;/nowiki&gt;（直接填写文件名，例：a.jpg）&lt;br&gt;
+&lt;nowiki&gt;|photocap=图片文字&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|name=姓名&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|id=常用id&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|class=职业&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|ability=能力&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|best=必杀技&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|hardness=硬度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|dangerous=(危险度)&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|IQ=智商&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|online=活跃度&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|affinity=所属&lt;/nowiki&gt;&lt;br&gt;
+}}'''''（如信息未知应删除参数，至少填写一项）'''''
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+==正文==
+===正文规范===
+所有正文段落之间应且只应空一行。正文段落采用齐头式，不必缩进两格。正文标点符号应规范使用全角中文标点符号&lt;br&gt;
+请注意事件时间线的准确性，日期格式应为XXXX年X月X日，避免使用“最近”、“今年”、“本月”等词语。在指代不需要实名的事件关系人时，应该尽量体现其身份，如“朋友”、“一般通过人士”、“高雅人士”等，避免使用“有人”、“某些人”、“很多人”等词语。 &lt;br&gt;
+恶俗百科目前100%的条目都是使用大陆简体编写，因此对于新更改也必须使用大陆简体&lt;br&gt;
+在货币及计量单位上，必须采用页面涉及人物所在国家或地区的货币和计量单位。绝大多数页面涉及人物都居住在中国大陆，因此应采用RMB和公制单位，除非是带有捏他性质并且在本站载有换算关系的单位，如“贝天”、“恒”等。 &lt;br&gt;
+请避免“假大空”的措辞，不要言之无物或举伪证。除了文游和捏他的部分以外，请尽量采用浅显易懂的叙事风格与可信度高的佐证，以一般通过人士能够了解大致经过为宜，特别是在涉及圈外人物或公众人物的情况下。 &lt;br&gt;
+'''糟糕的例子：用户在其主笔的页面内试图批判某人为“死妈废物”，指责其“打滚”、“萎勃”、“放黑屁”云云，然而通篇下来并未提及任何具体事迹或摘选任何具体语录，显然一般通过人士是难以理解此类废文的。'''
+===重新导向页面===
+某些条目可能已经被移动或因为特殊原因而不显示其元条目名。为了使访问者能够正常无虞地访问存取目标条目，故需要对错误的或已经废止使用之条目进行重新导向操作，直至流量全无为限。 &lt;br&gt;
+一般地，在移动条目时会自动在移动前条目留下一个重新导向页面。但在某些特殊情况发生时，您可能需要对条目手动进行重新导向，其语法为#REDIRECT [[条目名]]。请注意，重新导向页面目前不支援使用外部链接，这可能造成错误。 &lt;br&gt;
+==分类==
+===人物===
+&lt;br&gt;
+原则上不重复收录
+&lt;br&gt;
+   * [[国际巨星]]:
+      * 知名度高、曾出现在首页的人物
+      * 曾收录于此的人物（永久保留）
+      * 原则上不轻易收录新的人物
+   * [[二线明星]]:
+      * 知名度高、未出现在首页的人物
+      * 有创作能力的人物
+      * 曾收录于此的人物（历史遗留问题）
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[神必人]]:
+      * 未出道的人物
+      * 这是一个强制性的分类，符合条件者必须收录于此
+   * [[其他人]]:
+      * 普通人,死妈人
+      * 没有创作能力且没有键政倾向的人物
+      * 这是一个除外性的分类，没有收录的“金标准”
+   * [[纸片人]]:
+      * 动画、漫画、游戏、特摄等ACGN作品中的虚拟人物
+      * 该分类下条目只记录角色本身事迹，涉及到声优、制作、运营等相关事迹请单独创建条目
+   * [[思想品德]]:
+      * 语言能力低下的人物，其打出的文字晦涩难懂
+
+==定义文本==
+&lt;br&gt;&lt;nowiki&gt;
+使用&lt;dt&gt;时，文字自动变成粗体；使用&lt;dd&gt;时，文字自动缩排四个字元。这通常用于强调定义。&lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;刘泽为什么死妈？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为刘泽是屑。&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dt&gt;为什么刘泽是屑？&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;dd&gt;因为他没屁眼&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/dl&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;dl&gt;
+&lt;dt&gt;刘泽为什么死妈？
+&lt;dd&gt;因为刘泽是屑。
+&lt;dt&gt;为什么刘泽是屑？
+&lt;dd&gt;因为他没屁眼
+&lt;/dl&gt;
+===列表===
+====无序列表====
+格式为:
+&lt;nowiki&gt;* 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;* 条目2&lt;/nowiki&gt;&lt;br&gt;
+
+当然你也可以使用HTML语法。下面是格式:&lt;br&gt;
+&lt;nowiki&gt;&lt;ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ul&gt;&lt;/nowiki&gt;&lt;br&gt;
+* 条目1
+* 条目2
+====有序列表====
+格式为:&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;# 条目1&lt;/nowiki&gt;&lt;br&gt;
+
+同样可以使用HTML语法，看个人习惯，格式为:
+&lt;nowiki&gt;&lt;ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第一行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;li&gt;这是第二行内容&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;/ol&gt;&lt;/nowiki&gt;&lt;br&gt;
+# 条目1
+# 条目2
+===链接===
+&lt;nowiki&gt;对于恶俗百科内部条目链接，应当使用[[条目名]]或[[条目名|显示名]]格式。如果要设定显示名，链接的显示名应当是名词性质。如果并非链接名词，而以恶俗百科内部其他条目作为出典，适用出典的设置方式。内部条目链接只应该在该名词第一次出现的位置设置，其他出现不作设置，仅为纯文本。 &lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;对于外部链接，使用[链接 显示名]格式设置。设置原则同站内链接，但如果条目内包括页面全名，在全名上设置链接的，不必设置为引用，直接在文字上设置链接即可。&lt;/nowiki&gt;&lt;br&gt;
+本站也提供了到部分站点的快捷引用方式，可以按内部链接格式使用。例如： &lt;br&gt;
+* ALL网站:&lt;nowiki&gt;[[URL 描述文字]]&lt;/nowiki&gt;&lt;br&gt;
+* 恶俗百科内链接:&lt;nowiki&gt;[[尤小龙]]&lt;/nowiki&gt;
+
+===引用===
+&lt;nowiki&gt;对于页面内只使用很少次数的引用，用&lt;ref&gt;引用内容&lt;/ref&gt;格式，并在条目底部加入以下内容：&lt;/nowiki&gt;
+&lt;nowiki&gt;== 注释 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;&lt;references/&gt;&lt;/nowiki&gt;&lt;br&gt;
+维基系统会自动生成注释连接。 &lt;br&gt;
+对于整个页面处处参考的引用，不必使用注释格式，在页面底部加入“参考资料”一节并链接即可。 
+===隐蔽性注释===
+&lt;nowiki&gt;隐蔽性注释用于隐藏目标字元，使之无法在可视化编辑器及可视化页面下被查看。隐蔽性注释可以理解为Java中的单行注释。如果使用者需要对一部分字元进行隐蔽性注释，那么其格式为&lt;!-- 你要注释的字元 --&gt;。以下是示范：&lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;&lt;nowiki&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+刘泽其实是个好人，没有死妈。&lt;!-- 放你妈的屁，刘泽就是死妈人 --&gt;
+===Wikitable===
+Wikitable是一种由MediaWiki提供的表格修饰，这种表格比直接绘制的表格好看十万甚至九万倍。下面是示例&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;{|&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|橘子||苹果||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|面包||饼||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|-&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|奶油||冰淇淋||更多&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;|}&lt;br&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:
+{|
+|橘子||苹果||更多
+|-
+|面包||饼||更多
+|-
+|奶油||冰淇淋||更多
+|}
+
+===文字上标===
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字上标。其引用格式为&lt;sup&gt;欲上标之字元&lt;/sup&gt;。下面是关于上标字的{{#vardefine:size|}}demo。 &lt;/nowiki&gt;&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+亚铁离子的化学式是Fe&lt;sup&gt;2+&lt;/sup&gt;
+===文字下标===
+&lt;br&gt;
+&lt;nowiki&gt;当使用者需要键入化学式一类的文字时，可能需要使用文字下标。其引用格式为&lt;sub&gt;欲下标之字元&lt;/sub&gt;。下面是关于下标字的{{#vardefine:size|}}demo。&lt;/nowiki&gt;&lt;br&gt;
+您输入的：&lt;br&gt;
+&lt;nowiki&gt;氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+氯化亚铁的化学式是FeCl&lt;sub&gt;2&lt;/sub&gt;
+===删除线===
+&lt;nowiki&gt;当使用者需要利用删除线效果时，其引用格式为&lt;s&gt;欲删除之字元&lt;/s&gt;，也可以使用其全写&lt;strike&gt;欲删除之字元&lt;/strike&gt;。 &lt;/nowiki&gt;
+&lt;br&gt;
+您输入的:&lt;br&gt;
+&lt;nowiki&gt;&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;&lt;/nowiki&gt;&lt;br&gt;
+您看到的:&lt;br&gt;
+&lt;s&gt;这是一条删除线，请注意&lt;/s&gt;
+===姓名规范===
+&lt;br&gt;
+如果条目描述的是一个人的话 
+* 该人士有中国血统，且其有中文姓名的话，使用其真实中文姓名的简体作为标题。
+* 该人士其姓名为外文的，标题以其真实姓名的新华社译名为准。 
+  ** 英文姓名可参考：[[《英文姓名译文手册》]]
+  ** 如手册中无法找到，可在网络搜索同名人士的新华社报道（site:news.cn）。
+  ** 例如：有一名美国诺贝尔物理学奖得主Arieh译名为亚利耶，因此Arieh Smith的译名为亚利耶·史密斯
+  ** 若其姓名无官方翻译，亦无民间翻译者，应自行音译其姓名，但需要对该姓名至少加入一个注释，内容为原文写法。
+* 原名为日语者，应该使用已经简化的日本汉字，且应在汉字顶部标注其平假名写法。然描述1945年前出生者，不在此限。 
+  ** 对于一些特殊用字，有规定者，依规定；无规定者，依习惯[1]。（如「濱」在日语中简化为「浜」，但译作汉语时，应作「滨」字元。）
+===标题和目录===
+&lt;br&gt;
+对于所有条目的“简介”部分，应隔一个空行，放置在信息卡模板下方。如果没有模板，直接放置在条目顶部，不需要“简介”大标题。 
+&lt;br&gt;
+设置成标题的，会自动进入条目目录，不需要额外制作目录。设置标题时，标题不应有加粗、斜体、字号等额外格式。标题应尽量简短，以表述清晰，适合速读为标准。设置标题时为了方便修改代码，应在标题文字和“=”符号之间空一格。范例如下： 
+
+&lt;nowiki&gt;== 二级标题 ==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;=== 三级标题 ===&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==== 四级标题 ====&lt;/nowiki&gt;&lt;br&gt;
+
+如果使用者需要套用更多的标题，请使用HTML语法，但这通常会导致一些未知错误。格式为&lt;nowiki&gt;&lt;h1&gt;&lt;/nowiki&gt;，其中数字可以从1到6，通常建议从2开始。 
+&lt;br&gt;
+以下是错误用法： 
+&lt;nowiki&gt;=='''错误'''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;==''错误''==&lt;/nowiki&gt;&lt;br&gt;
+&lt;nowiki&gt;===&lt;span style="color:#F00;"&gt;错误&lt;/span&gt;===&lt;/nowiki&gt;&lt;br&gt;
+
+==用户页==
+&lt;br&gt;
+一般而言，您可以自由编辑您的用户页。因此，用户页不必拘泥于上文“使用百科形式撰写”这一守则，可以自由地进行编辑，采用任意格式均可。以下模板皆为“可选”模板，若您认为添加模板将影响您用户页的格式，可另辟蹊径，使用您青睐的方式达到目的。 
+&lt;br&gt;
+请合理使用您的用户页，避免进行以下活动： 
+  * 自我炒作
+  * 记载他人事迹（应该写在相关的主页面）
+  * 展示非法内容以及其他对用户有害的内容或不符合本站宗旨的内容
+===用户页===
+&lt;nowiki&gt;对于任何用户页，若希望以较为明显的方式提示阅览者该页面为用户页，并告知阅览者用户页编辑守则，可以添加“用户页”模板，代码为：{{UserPage}}。效果如下：&lt;/nowiki&gt;&lt;br&gt;
+{{UserPage}}
+&lt;br&gt;
+请注意，任何人都可以在您的用户页上留下评论，若您想关闭用户页评论区，请联系管理员。
+===自由编辑===
+&lt;nowiki&gt;用户本人许可其他用户编辑其用户页，可以添加“自由编辑”模板，代码为：{{FreetoEdit}}。效果如下：&lt;/nowiki&gt; 
+{{FreetoEdit}}
+===退站声明===
+&lt;nowiki&gt;已决定暂停恶俗百科事务的用户，可以添加“退站声明”模板，代码为：{{Quit|（用户名）|TIME=（时间段）}}。&lt;/nowiki&gt;'''（为保证安全，添加此模板的用户将在该时间段内被封禁，均必填）'''效果如下： &lt;br&gt;
+{{Quit|（用户名）|TIME=（时间段）}}
+
+==讨论页==
+在每个页面标签的右边，都有一个讨论的标签。 &lt;br&gt;
+在讨论页中，可以对当前页面的高雅创作进行编辑者之间的讨论。不要在主页面内进行讨论。
+===创建话题===
+&lt;br&gt;
+如要创建话题，可以点击右上角的创建话题按钮，也可以在编辑讨论页时添加以下代码：== 话题1111 ==
+&lt;br&gt;
+===签名===
+&lt;nowiki&gt;在讨论页上签名：要在讨论页上签名，只需输入四个波浪号（~~~~）&lt;/nowiki&gt;即可，它们将自动换成您的用户名和留言时间，就好像这样：[[用户:Tianyan|Tianyan]]（[[用户讨论:Tianyan|讨论]]） 2020年6月26日 (五) 12:55 (CST)。请注意所有人都没有可能留下匿名留言，因为就算您没有在留言时签名，您的用户名称或IP地址都会记录在页面历史中。您可以对签名进行自定义，新的签名务必包含本人用户页、用户讨论页、贡献页之中至少一个链接以及时间戳。签名不应包含容易混淆的链接，如同名人物条目、其他用户的相关页面等。
+
+===讨论格式标准===
+&lt;br&gt;
+往下书写：如果您将您的留言发布在页面的上方，这会使他人困惑并使其他人容易忽略您的留言。最新的讨论主题应置在页面的最下方，而接着的回应便能置于留言的下方，如此类推。此举能方便读者以发表时间的顺序来观看意见。一个较快捷的方法是使用“编辑”按钮右方的“添加话题”或“+”按钮新建主题，它会自动将您的讨论主题置于页面的最下方。 
+&lt;br&gt;
+分段书写：如果您的意见中有数个讨论重点，请将重点分段书写。您可以透过断行或使用列表符号（*）来分开每一个的讨论重点。 
+&lt;br&gt;
+使用缩排来使回应更易阅读：请使用缩排符号（:）来发表您的回应，这就与传统式BBS的回应方式相若。当其他人回应您的回应时，便会将回应的缩排层级增加，换言之即是使用两个缩排符号（::），如此类推。一般来说，列表符号（*）不应该当作缩排符号般使用。
+
+&lt;comments /&gt;</text>
+      <sha1>3fjljkn48hsh7r9rxgdbbs9vikkglyi</sha1>
+    </revision>
+  </page>
+</mediawiki>

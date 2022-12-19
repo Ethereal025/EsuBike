@@ -1,0 +1,2197 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN">
+  <siteinfo>
+    <sitename>恶俗百科</sitename>
+    <dbname>my_wiki</dbname>
+    <base>http://localhost:8080/index.php?title=%E9%A6%96%E9%A1%B5</base>
+    <generator>MediaWiki 1.39.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">媒体文件</namespace>
+      <namespace key="-1" case="first-letter">特殊</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">讨论</namespace>
+      <namespace key="2" case="first-letter">用户</namespace>
+      <namespace key="3" case="first-letter">用户讨论</namespace>
+      <namespace key="4" case="first-letter">恶俗百科</namespace>
+      <namespace key="5" case="first-letter">恶俗百科讨论</namespace>
+      <namespace key="6" case="first-letter">文件</namespace>
+      <namespace key="7" case="first-letter">文件讨论</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki讨论</namespace>
+      <namespace key="10" case="first-letter">模板</namespace>
+      <namespace key="11" case="first-letter">模板讨论</namespace>
+      <namespace key="12" case="first-letter">帮助</namespace>
+      <namespace key="13" case="first-letter">帮助讨论</namespace>
+      <namespace key="14" case="first-letter">分类</namespace>
+      <namespace key="15" case="first-letter">分类讨论</namespace>
+      <namespace key="828" case="first-letter">模块</namespace>
+      <namespace key="829" case="first-letter">模块讨论</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>模板:AmBox</title>
+    <ns>10</ns>
+    <id>537</id>
+    <redirect title="模板:Ew信息框" />
+    <revision>
+      <id>1943</id>
+      <parentid>1942</parentid>
+      <timestamp>2020-08-21T09:28:53Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>已将重定向目标从[[模板:信息框]]更改为[[模板:Ew信息框]]</comment>
+      <origin>1943</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="615yvmsdwdswfzlsj1dhxdsxqdbmtyk" xml:space="preserve">#重定向 
+[[模板:ew信息框]]</text>
+      <sha1>615yvmsdwdswfzlsj1dhxdsxqdbmtyk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:BadFormatting</title>
+    <ns>10</ns>
+    <id>538</id>
+    <redirect title="模板:缺乏格式" />
+    <revision>
+      <id>1944</id>
+      <timestamp>2020-08-21T08:21:54Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:缺乏格式]]</comment>
+      <origin>1944</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="le07vveo60h9g6n1jta8tpb74kvmv02" xml:space="preserve">#重定向 
+[[模板:缺乏格式]]</text>
+      <sha1>le07vveo60h9g6n1jta8tpb74kvmv02</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Careful</title>
+    <ns>10</ns>
+    <id>539</id>
+    <revision>
+      <id>1947</id>
+      <parentid>1946</parentid>
+      <timestamp>2020-08-22T06:52:08Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1947</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="789" sha1="r1bdu42f4mzkpuw6bx26yy9lev0ixgg" xml:space="preserve">{{#if:{{{1|}}} | {{AmBox
+|image= {{{image|[[File:极度危险.png|50px]]}}}
+|border= red
+|type= {{color|#E00|极度危险}}
+|info= {{{full|相较于其他死妈废物，{{{target|本条目涉及人物}}}具有{{color|#E00|'''{{{ability|较强的反侦察、挡刀、出道}}}'''}}等能力，已经造成一定程度的危害。&lt;br&gt;故与其互动时，请'''{{{protection|对于自身的信息做好额外的保护措施}}}'''并'''谨慎行动'''，以免承担不必要的损失。}}}
+}} | {{AmBox
+|image={{{image|[[File:谨慎行动.jpg|50px]]}}}
+|border=red
+|type=谨慎行动
+|info={{{full|由于{{{target|该页面涉及人士}}}具有{{{ability|反咬}}}能力，请注意在互动过程中{{{protection|保护个人信息}}}，以免承担不必要的笋丝。}}}
+}} }}&lt;noinclude&gt;</text>
+      <sha1>r1bdu42f4mzkpuw6bx26yy9lev0ixgg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Color</title>
+    <ns>10</ns>
+    <id>540</id>
+    <revision>
+      <id>1950</id>
+      <parentid>1949</parentid>
+      <timestamp>2020-08-21T09:37:06Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1950</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="133" sha1="axyhq4xvoh2g5j9tl8dcxkv32vt7f09" xml:space="preserve">{{#if:{{{2|}}}|&lt;span style="color:{{{1}}} !important;"&gt;{{{2}}}&lt;/span&gt;|&lt;span style="color:red !important;"&gt;{{{1}}}&lt;/span&gt;}}&lt;noinclude&gt;</text>
+      <sha1>axyhq4xvoh2g5j9tl8dcxkv32vt7f09</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Cquote</title>
+    <ns>10</ns>
+    <id>541</id>
+    <redirect title="模板:引言" />
+    <revision>
+      <id>1951</id>
+      <timestamp>2020-08-21T09:43:22Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:引言]]</comment>
+      <origin>1951</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="42ea9r39k9aa70c2sfcx8orddnsl2tk" xml:space="preserve">#重定向 
+[[模板:引言]]</text>
+      <sha1>42ea9r39k9aa70c2sfcx8orddnsl2tk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:CurrentAffairs</title>
+    <ns>10</ns>
+    <id>542</id>
+    <redirect title="模板:当前事件" />
+    <revision>
+      <id>1952</id>
+      <timestamp>2020-08-21T08:16:54Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:当前事件]]</comment>
+      <origin>1952</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="06za1nn62jotoo739ruyscmaom1me7h" xml:space="preserve">#重定向 
+[[模板:当前事件]]</text>
+      <sha1>06za1nn62jotoo739ruyscmaom1me7h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:C位出道</title>
+    <ns>10</ns>
+    <id>543</id>
+    <revision>
+      <id>1967</id>
+      <parentid>1966</parentid>
+      <timestamp>2020-08-23T00:02:23Z</timestamp>
+      <contributor>
+        <username>imported&gt;巴卫大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1967</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="476" sha1="khcd8xrvlamfm598k16iu74u0700dfe" xml:space="preserve">[[文件:Hz.png|115px|左]]
+'''付申虎'''，b站id：虎子的后半生，是让b站成为癌症论坛的领头羊之一，其为自己塑造的形象是一位得了癌症的可怜人，需每时每刻插着那两根管子，'''在其以为可以靠卖惨来度过自己的后半生时被人扒出了吃火锅的照片，其人物形象一瞬崩塌，成为了b站现争议最大的up。'''
+                   
+&lt;center&gt;[[付申虎|(完整文章)]]&lt;/center&gt;</text>
+      <sha1>khcd8xrvlamfm598k16iu74u0700dfe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Dead</title>
+    <ns>10</ns>
+    <id>544</id>
+    <revision>
+      <id>1970</id>
+      <parentid>1969</parentid>
+      <timestamp>2020-08-22T08:11:35Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1970</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="512" sha1="83ovymqlym5yznptg36dbc6tq8y47br" xml:space="preserve">&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:deathflower.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''{{{1|{{PAGENAME}}}}}'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+[[分类:已死亡的人物]]</text>
+      <sha1>83ovymqlym5yznptg36dbc6tq8y47br</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Deletion</title>
+    <ns>10</ns>
+    <id>545</id>
+    <revision>
+      <id>1971</id>
+      <timestamp>2020-07-04T06:46:59Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{信息框 |border=red |image=删除.png |type=本页面可能会回归虚无{{{reason}}} |info=如果您不同意删除本页面，请在讨论版提出意见，…”</comment>
+      <origin>1971</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="329" sha1="49eaht7ueapiit1q07ynhd55hk1hqzw" xml:space="preserve">{{信息框
+|border=red
+|image=删除.png
+|type=本页面可能会回归虚无{{{reason}}}
+|info=如果您不同意删除本页面，请在讨论版提出意见，或改进本页面并删除&lt;nowiki&gt;{{Deletion}}&lt;/nowiki&gt;模板。&lt;br&gt;请管理员注意：删除本页面前先行检查'''链入页面'''和'''编辑历史'''。 
+}}</text>
+      <sha1>49eaht7ueapiit1q07ynhd55hk1hqzw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Discomfort</title>
+    <ns>10</ns>
+    <id>546</id>
+    <revision>
+      <id>1972</id>
+      <timestamp>2020-07-04T06:48:15Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{信息框 |border=red |image=呕吐.png |type=不适内容 |info=本页面可能包含使您感到严重不适的内容，请酌情查阅&lt;br&gt;'''原因''':&lt;br&gt;{{{re…”</comment>
+      <origin>1972</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="182" sha1="4sfs5qfwj7d6p85922kcn5ltq02wuc5" xml:space="preserve">{{信息框
+|border=red
+|image=呕吐.png
+|type=不适内容
+|info=本页面可能包含使您感到严重不适的内容，请酌情查阅&lt;br&gt;'''原因''':&lt;br&gt;{{{reason|未知}}}
+}}</text>
+      <sha1>4sfs5qfwj7d6p85922kcn5ltq02wuc5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Ew信息框</title>
+    <ns>10</ns>
+    <id>547</id>
+    <revision>
+      <id>1974</id>
+      <parentid>1973</parentid>
+      <timestamp>2020-08-21T09:33:26Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1974</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="727" sha1="5alpzsqoh8ycyn22g87ry9pbc9bpijg" xml:space="preserve">&lt;table style="font-size: 95%; width: 75%; margin: 0 auto -2px auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 2px 1px -2px rgba(0,0,0,.2); border: 1px #AAA solid; border-left: 10px solid #228b22; border-collapse: collapse; background-color: rgba(250,250,250,0.3); color: #000; border-left: 5px solid {{{border|rgb(30,144,255)}}};" class="plainlinks"&gt;
+&lt;tr&gt;
+&lt;td style="width: 55px; padding: 2px; text-align: center;border-right:1px solid #AAA;"&gt;{{{image|[[Image:Wiki-wordmark.png|50px]]}}}&lt;/td&gt;
+&lt;td style="padding: 5px 20px;"&gt;&lt;b&gt;{{{type|信息}}}&lt;/b&gt;
+&lt;div style="font-size: smaller; margin:2px 0px 2px 25px;"&gt;
+&lt;span style="font-size:13px;"&gt;{{{info|信息框模板！}}}
+&lt;/span&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</text>
+      <sha1>5alpzsqoh8ycyn22g87ry9pbc9bpijg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Featured</title>
+    <ns>10</ns>
+    <id>548</id>
+    <redirect title="模板:精品" />
+    <revision>
+      <id>1975</id>
+      <timestamp>2020-08-21T08:02:24Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:精品]]</comment>
+      <origin>1975</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="ltyofkt8k2jeh4flmzn4nuhe1nl9fol" xml:space="preserve">#重定向 
+[[模板:精品]]</text>
+      <sha1>ltyofkt8k2jeh4flmzn4nuhe1nl9fol</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:HumanSearch</title>
+    <ns>10</ns>
+    <id>549</id>
+    <redirect title="模板:请求出道" />
+    <revision>
+      <id>1976</id>
+      <timestamp>2020-08-21T08:20:36Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:请求出道]]</comment>
+      <origin>1976</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="m7zjxyd159jttbcfxanj4iqo9xe2he6" xml:space="preserve">#重定向 
+[[模板:请求出道]]</text>
+      <sha1>m7zjxyd159jttbcfxanj4iqo9xe2he6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Infobox</title>
+    <ns>10</ns>
+    <id>550</id>
+    <revision>
+      <id>1979</id>
+      <parentid>1978</parentid>
+      <timestamp>2020-08-25T07:08:02Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1979</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1603" sha1="m5ugwks75kx4pd8fvn6zm1rgvmt4cym" xml:space="preserve">{| class="infobox" style="font-size:89%;float:{{{float|right}}};background-color:#FEEDE8; width:300px; color:#000000;"
+|-
+! colspan="2" style="background-color:#3366CC; color:#FFFFFF; font-size:120%; padding:1em;" | {{{Box title|No Title}}}
+{{#if: {{{image|}}}|
+{{!}}-
+{{!}} colspan="2" style="text-align:center;" {{!}} [[{{{image}}}|{{{imagewidth|250}}}px]]&lt;br/&gt;{{{caption| }}}
+|
+}}
+|-
+| style="width:30%;" |
+'''{{{Row 1 title|No Title}}}'''
+| style="width:70%;" |
+{{{Row 1 info|No information}}}
+{{#if: {{{Row 2 title|}}}|
+{{!}}-
+{{!}}
+'''{{{Row 2 title}}}'''
+{{!}}
+{{{Row 2 info|No information}}}
+{{#if: {{{Row 3 title|}}}|
+{{!}}-
+{{!}}
+'''{{{Row 3 title}}}'''
+{{!}}
+{{{Row 3 info|No information}}}
+{{#if: {{{Row 4 title|}}}|
+{{!}}-
+{{!}}
+'''{{{Row 4 title}}}'''
+{{!}}
+{{{Row 4 info|No information}}}
+{{#if: {{{Row 5 title|}}}|
+{{!}}-
+{{!}}
+'''{{{Row 5 title}}}'''
+{{!}}
+{{{Row 5 info|No information}}}
+{{#if: {{{Row 6 title|}}}|
+{{!}}-
+{{!}}
+'''{{{Row 6 title}}}'''
+{{!}}
+{{{Row 6 info|No information}}}
+{{#if: {{{Row 7 title|}}}|
+{{!}}-
+{{!}}
+'''{{{Row 7 title}}}'''
+{{!}}
+{{{Row 7 info|No information}}}
+{{#if: {{{Row 8 title|}}}|
+{{!}}-
+{{!}}
+'''{{{Row 8 title}}}'''
+{{!}}
+{{{Row 8 info|No information}}}
+{{#if: {{{Row 9 title|}}}|
+{{!}}-
+{{!}}
+'''{{{Row 9 title}}}'''
+{{!}}
+{{{Row 9 info|No information}}}
+{{#if: {{{Row 10 title|}}}|
+{{!}}-
+{{!}}
+'''{{{Row 10 title}}}'''
+{{!}}
+{{{Row 10 info|No information}}}
+{{#if: {{{Row 11 title|}}}|
+{{!}}-
+{{!}} colspan="2" style="text-align:center; background:#AAAAAA;" {{!}}
+'''Too many parameters'''
+|
+}}
+|
+}}
+|
+}}
+|
+}}
+|
+}}
+|
+}}
+|
+}}
+|
+}}
+|
+}}
+|
+}}
+|}</text>
+      <sha1>m5ugwks75kx4pd8fvn6zm1rgvmt4cym</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Jail</title>
+    <ns>10</ns>
+    <id>551</id>
+    <redirect title="模板:曾经入狱" />
+    <revision>
+      <id>1982</id>
+      <parentid>1981</parentid>
+      <timestamp>2020-08-22T06:55:30Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:曾经入狱]]</comment>
+      <origin>1982</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="lm1ljea7tewey5c8pbad9wjjczcwh31" xml:space="preserve">#重定向 
+[[模板:曾经入狱]]</text>
+      <sha1>lm1ljea7tewey5c8pbad9wjjczcwh31</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Language</title>
+    <ns>10</ns>
+    <id>552</id>
+    <revision>
+      <id>1983</id>
+      <timestamp>2020-08-22T18:51:14Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;span lang="{{lc:{{{1}}}}}" xml:lang="{{lc:{{{1}}}}}"&gt;{{#switch:{{lc:{{{1|}}}}}  |zh|gan|zh-yue = {{{2}}}  |jp|jap = -{{{{2}}}}-&lt;span class="error" style="font-size:…”</comment>
+      <origin>1983</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2527" sha1="a6tv2w32x3fe1uqybfsy47apnufscjx" xml:space="preserve">&lt;span lang="{{lc:{{{1}}}}}" xml:lang="{{lc:{{{1}}}}}"&gt;{{#switch:{{lc:{{{1|}}}}}
+ |zh|gan|zh-yue = {{{2}}}
+ |jp|jap = -{{{{2}}}}-&lt;span class="error" style="font-size:smaller;"&gt;模板參數錯誤：[[日語]]請使用'''ja'''&lt;/span&gt;
+ |gr = -{{{{2}}}}-&lt;span class="error" style="font-size:smaller;"&gt;模板參數錯誤：[[希臘語]]請使用'''el'''或'''gre'''&lt;/span&gt;
+ |kr = -{{{{2}}}}-&lt;span class="error" style="font-size:smaller;"&gt;模板參數錯誤：[[朝鮮語]]請使用'''ko'''或'''kor'''。kr為[[卡努里語]]，如該語言條目已建立，請至[[Template talk:Lang]]回報取消此警告。&lt;/span&gt;
+ |kp = -{{{{2}}}}-&lt;span class="error" style="font-size:smaller;"&gt;模板參數錯誤：[[朝鮮語]]請使用'''ko'''或'''kor'''&lt;/span&gt;
+ |po = -{{{{2}}}}-&lt;span class="error" style="font-size:smaller;"&gt;模板參數錯誤：[[波蘭語]]請使用'''pl'''或'''pol'''&lt;/span&gt;
+ |sp = -{{{{2}}}}-&lt;span class="error" style="font-size:smaller;"&gt;模板參數錯誤：[[西班牙語]]請使用'''es'''或'''spa'''&lt;/span&gt;
+ |cz = -{{{{2}}}}-&lt;span class="error" style="font-size:smaller;"&gt;模板參數錯誤：[[捷克語]]請使用'''cs'''或'''cze'''&lt;/span&gt;
+ |kz = -{{{{2}}}}-&lt;span class="error" style="font-size:smaller;"&gt;模板參數錯誤：[[哈薩克語]]請使用'''kk'''或'''kaz'''&lt;/span&gt;
+ |dk = -{{{{2}}}}-&lt;span class="error" style="font-size:smaller;"&gt;模板參數錯誤：[[丹麥語]]請使用'''da'''&lt;/span&gt;
+ |unicode|ipa = -{{{{2}}}}-&lt;span class="error" style="font-size:smaller;"&gt;模板參數錯誤：請檢查更正引用語言代碼&lt;/span&gt;
+ |#default = -{{{{2}}}}-}}&lt;/span&gt;{{#switch:{{{1|}}}
+ |ar|fa|he|ps|ur = &amp;#8206;
+ |#default = }}{{#if:{{NAMESPACE}}|
+ &lt;!-- |[[Category:含有{{#switch:{{lc:{{{1|}}}}}
+  |ar       = 阿拉伯語
+  |en|eng   = 英語 
+  |es       = 西班牙語
+  |de       = 德語
+  |fr       = 法語
+  |ja|jp|jap= 日語
+  |bg       = 保加利亞語
+  |cs       = 捷克語
+  |da       = 丹麥語
+  |nl       = 荷蘭語
+  |et       = 愛沙尼亞語
+  |fi       = 芬蘭語
+  |el|gre   = 希臘語
+  |hu       = 匈牙利語
+  |ga       = 愛爾蘭語
+  |grc      = 古希臘語
+  |la|lat   = 拉丁語
+  |cy       = 威爾斯語
+  |sl|slv   = 斯洛維尼亞語
+  |zh-yue|yue|zh-hk = 粵語
+  |zh|zh-hans|zh-hant|zh-cn|zh-tw|zh-sg = 明確引用中文
+  |#default = {{#ifexist:Category:含有{{ISO 639 name {{lc:{{{1|}}}}}}}的條目
+   |{{ISO 639 name {{lc:{{{1|}}}}}}}
+   |非中文內容
+  }}
+ }}的條目]] --&gt;
+}}&lt;noinclude&gt;{{documentation}}[[Category:格式模板]]&lt;/noinclude&gt;</text>
+      <sha1>a6tv2w32x3fe1uqybfsy47apnufscjx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Neutral</title>
+    <ns>10</ns>
+    <id>553</id>
+    <redirect title="模板:保持中立" />
+    <revision>
+      <id>1984</id>
+      <timestamp>2020-08-21T08:18:14Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:保持中立]]</comment>
+      <origin>1984</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="kbndsts4ocgyvl9amvixkdflcdtcdwq" xml:space="preserve">#重定向 
+[[模板:保持中立]]</text>
+      <sha1>kbndsts4ocgyvl9amvixkdflcdtcdwq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:NoHype</title>
+    <ns>10</ns>
+    <id>554</id>
+    <redirect title="模板:禁止炒作" />
+    <revision>
+      <id>1985</id>
+      <timestamp>2020-08-21T08:24:15Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:禁止炒作]]</comment>
+      <origin>1985</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="5652ubmp83dunboz4lo9sk2ema6x503" xml:space="preserve">#重定向 
+[[模板:禁止炒作]]</text>
+      <sha1>5652ubmp83dunboz4lo9sk2ema6x503</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Nomercy</title>
+    <ns>10</ns>
+    <id>555</id>
+    <revision>
+      <id>1986</id>
+      <timestamp>2020-06-28T17:20:30Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{信息框 |border=red |image=无仁慈模式.jpg |type=抱歉，没有mercy。 |info=已经无法用人类语言描述该条目涉及人物的行为。&lt;br&gt; 你在…”</comment>
+      <origin>1986</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="252" sha1="oxr486efs4qc0pitexj64gqdkkkpepe" xml:space="preserve">{{信息框
+|border=red
+|image=无仁慈模式.jpg
+|type=抱歉，没有mercy。
+|info=已经无法用人类语言描述该条目涉及人物的行为。&lt;br&gt;
+你在虚拟的世界中，似乎活出了价值。=）
+}}
+[[分类:不配被仁慈的人物]]</text>
+      <sha1>oxr486efs4qc0pitexj64gqdkkkpepe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:PersonInfo</title>
+    <ns>10</ns>
+    <id>556</id>
+    <revision>
+      <id>1987</id>
+      <timestamp>2020-08-21T09:38:40Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{Infobox | Box title    = {{{title|{{PAGENAME}}}}} | image        = {{{photo|File:NOBODY~1.JPG}}} | imagewidth   = {{{photowidth|120}}} | caption      = {{{photocap…”</comment>
+      <origin>1987</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1136" sha1="gqbbvxqyyrbmkz5fseqrqg7el957kka" xml:space="preserve">{{Infobox
+| Box title    = {{{title|{{PAGENAME}}}}}
+| image        = {{{photo|File:NOBODY~1.JPG}}}
+| imagewidth   = {{{photowidth|120}}}
+| caption      = {{{photocap|}}}
+| Row 1 title  = 姓名
+| Row 1 info   = {{{name|神必人}}}
+| Row 2 title  = 常用ID
+| Row 2 info   = {{{id|}}}
+| Row 3 title  = 职业
+| Row 3 info   = {{{class|}}}
+| Row 4 title  = 能力
+| Row 4 info   = {{{ability|}}}
+| Row 5 title  = 特长
+| Row 5 info   = {{{speciality|}}}
+| Row 6 title  = 必杀技
+| Row 6 info   = {{{superpower|}}}
+| Row 7 title  = 硬度
+| Row 7 info   = {{#switch: {{{rating}}}
+  | 0 = ƒ(x)→0
+  | 1 = ★
+  | 2 = ★★
+  | 3 = ★★★
+  | 4 = ★★★★
+  | 5 = ★★★★★
+  | 6 = ★★★★★★
+  | 7 = ∞
+  | -1 =[[File:基岩.jpeg|20px|link=|基岩]]
+ }}
+| Row 8 title  = 所属
+| Row 8 info   = {{ #if: {{{affinity|}}} | {{{affinity}}} | 无所属 }}
+| Row 9 title  = 
+| Row 9 info   = 
+| Row 10 title = 
+| Row 10 info  = 
+}}&lt;noinclude&gt;[[Category:信息卡模板]]&lt;/noinclude&gt;&lt;includeonly&gt;[[Category:人物]]&lt;/includeonly&gt;&lt;includeonly&gt;{{#if:{{{rating}}}|[[Category:{{{rating}}}级硬度人物]]|}}&lt;/includeonly&gt;</text>
+      <sha1>gqbbvxqyyrbmkz5fseqrqg7el957kka</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Portal</title>
+    <ns>10</ns>
+    <id>557</id>
+    <revision>
+      <id>1990</id>
+      <parentid>1989</parentid>
+      <timestamp>2020-08-22T08:06:25Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1990</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="250" sha1="4rf4efp7dcq7ua60bdwdvo89doyypqi" xml:space="preserve">{{AmBox
+|border=gray
+|image=[[文件:Portal2.png|50px]]
+|type=传送门
+|info=这是一个传送门页面，包含去向相关主题的链接。
+}}&lt;noinclude&gt;[[Category:文档管理模板]]&lt;/noinclude&gt;&lt;includeonly&gt;[[Category:传送门]]&lt;/includeonly&gt;</text>
+      <sha1>4rf4efp7dcq7ua60bdwdvo89doyypqi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Protected</title>
+    <ns>10</ns>
+    <id>558</id>
+    <revision>
+      <id>1991</id>
+      <timestamp>2020-08-22T06:29:28Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{AmBox |image=[[Image:Schu.jpg|50px]] |border=green |type=保护条目 |info=为{{{info|防止{{#ifeq:{{{1}}}|semi|神秘|死妈}}废物的破坏}}}，本页面已…”</comment>
+      <origin>1991</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="329" sha1="50d0k7sf6xsrhwsqnnrlrwrol2my0l9" xml:space="preserve">{{AmBox
+|image=[[Image:Schu.jpg|50px]]
+|border=green
+|type=保护条目
+|info=为{{{info|防止{{#ifeq:{{{1}}}|semi|神秘|死妈}}废物的破坏}}}，本页面已经被{{#ifeq:{{{1}}}|semi|半|}}恶俗保护。如确有需要编辑，请联系管理员。{{{moreinfo|}}}
+}}&lt;noinclude&gt;[[Category:文档管理模板]]&lt;/noinclude&gt;</text>
+      <sha1>50d0k7sf6xsrhwsqnnrlrwrol2my0l9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Ruby</title>
+    <ns>10</ns>
+    <id>559</id>
+    <revision>
+      <id>1992</id>
+      <timestamp>2020-08-21T09:44:59Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;ruby&gt;&lt;span style="text-align:center"&gt;&lt;span style="color:{{{3}}}"&gt;{{{1}}}&lt;/span&gt;&lt;/span&gt;&lt;rt&gt;&lt;span style="text-align:center"&gt;&lt;span style="color:{{{4}}}"&gt;{{{2}}}&lt;/span&gt;…”</comment>
+      <origin>1992</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="n0g27l7m96pycshxakfyu6kolnh5ay9" xml:space="preserve">&lt;ruby&gt;&lt;span style="text-align:center"&gt;&lt;span style="color:{{{3}}}"&gt;{{{1}}}&lt;/span&gt;&lt;/span&gt;&lt;rt&gt;&lt;span style="text-align:center"&gt;&lt;span style="color:{{{4}}}"&gt;{{{2}}}&lt;/span&gt;&lt;/span&gt;&lt;/rt&gt;&lt;/ruby&gt;&lt;noinclude&gt;[[Category:格式模板]]&lt;/noinclude&gt;</text>
+      <sha1>n0g27l7m96pycshxakfyu6kolnh5ay9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Save</title>
+    <ns>10</ns>
+    <id>560</id>
+    <redirect title="模板:注意备份" />
+    <revision>
+      <id>1993</id>
+      <timestamp>2020-08-21T08:22:45Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:注意备份]]</comment>
+      <origin>1993</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="7omlyl5yc6yjgg28psg06q6lhw1fjgp" xml:space="preserve">#重定向 
+[[模板:注意备份]]</text>
+      <sha1>7omlyl5yc6yjgg28psg06q6lhw1fjgp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Speedup</title>
+    <ns>10</ns>
+    <id>561</id>
+    <redirect title="模板:迫害加速" />
+    <revision>
+      <id>1994</id>
+      <timestamp>2020-08-21T08:14:17Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:迫害加速]]</comment>
+      <origin>1994</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="35" sha1="gry5ws3k56x7i17zaopq1lj2t7dey7v" xml:space="preserve">#重定向 
+[[模板:迫害加速]]</text>
+      <sha1>gry5ws3k56x7i17zaopq1lj2t7dey7v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Stub</title>
+    <ns>10</ns>
+    <id>562</id>
+    <redirect title="模板:小作品" />
+    <revision>
+      <id>1995</id>
+      <timestamp>2020-08-21T08:19:00Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:小作品]]</comment>
+      <origin>1995</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="4ld7emsaxopb8449ruclz2m7lih1g24" xml:space="preserve">#重定向 
+[[模板:小作品]]</text>
+      <sha1>4ld7emsaxopb8449ruclz2m7lih1g24</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:UserPage</title>
+    <ns>10</ns>
+    <id>563</id>
+    <revision>
+      <id>1996</id>
+      <timestamp>2020-08-01T05:30:59Z</timestamp>
+      <contributor>
+        <username>imported&gt;额好</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{信息框 |border=green |image=用户页.png |type=用户页 |info=这是一个用户页。 }} [[分类:用户页]]”</comment>
+      <origin>1996</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="117" sha1="jfrc87un038fptfzvlsmyz136nyt2ns" xml:space="preserve">{{信息框
+|border=green
+|image=用户页.png
+|type=用户页
+|info=这是一个用户页。
+}}
+[[分类:用户页]]</text>
+      <sha1>jfrc87un038fptfzvlsmyz136nyt2ns</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:View</title>
+    <ns>10</ns>
+    <id>564</id>
+    <redirect title="模板:意见" />
+    <revision>
+      <id>1997</id>
+      <timestamp>2020-08-22T06:58:59Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:意见]]</comment>
+      <origin>1997</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="nr0pl84krhuchusb5qteoz7glmdtdta" xml:space="preserve">#重定向 
+[[模板:意见]]</text>
+      <sha1>nr0pl84krhuchusb5qteoz7glmdtdta</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:W</title>
+    <ns>10</ns>
+    <id>565</id>
+    <revision>
+      <id>1998</id>
+      <timestamp>2020-08-02T15:54:52Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;nowiki&gt;•&lt;/nowiki&gt;”</comment>
+      <origin>1998</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" sha1="tvd7qznl7u4t980mh20sqd845gqleqo" xml:space="preserve">&lt;nowiki&gt;•&lt;/nowiki&gt;</text>
+      <sha1>tvd7qznl7u4t980mh20sqd845gqleqo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Wb</title>
+    <ns>10</ns>
+    <id>566</id>
+    <revision>
+      <id>1999</id>
+      <timestamp>2020-08-16T19:37:30Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“[https://www.weibo.com/u/{{{1}}} {{{2}}}]”</comment>
+      <origin>1999</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="41" sha1="s678ed1hl0quuwd59o951hs674i5egl" xml:space="preserve">[https://www.weibo.com/u/{{{1}}} {{{2}}}]</text>
+      <sha1>s678ed1hl0quuwd59o951hs674i5egl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:Xz</title>
+    <ns>10</ns>
+    <id>567</id>
+    <revision>
+      <id>2000</id>
+      <timestamp>2020-08-16T19:36:31Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“[http://space.bilibili.com/{{{1}}} {{{2}}}]”</comment>
+      <origin>2000</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" sha1="cj1uzitkoitb7txqmad5q5d1lisdeio" xml:space="preserve">[http://space.bilibili.com/{{{1}}} {{{2}}}]</text>
+      <sha1>cj1uzitkoitb7txqmad5q5d1lisdeio</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:传送门</title>
+    <ns>10</ns>
+    <id>568</id>
+    <redirect title="模板:Portal" />
+    <revision>
+      <id>2001</id>
+      <timestamp>2020-08-22T06:27:10Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:Portal]]</comment>
+      <origin>2001</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="ejrywh26idj9tyyy4nnjyind1ocrfs9" xml:space="preserve">#重定向 
+[[模板:Portal]]</text>
+      <sha1>ejrywh26idj9tyyy4nnjyind1ocrfs9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:保护条目</title>
+    <ns>10</ns>
+    <id>569</id>
+    <redirect title="模板:Protected" />
+    <revision>
+      <id>2002</id>
+      <timestamp>2020-08-22T06:29:54Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>重定向页面至[[模板:Protected]]</comment>
+      <origin>2002</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="3b6rfihe9rdj1ygavsabx0ui1xo5hvn" xml:space="preserve">#重定向 
+[[模板:Protected]]</text>
+      <sha1>3b6rfihe9rdj1ygavsabx0ui1xo5hvn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:保持中立</title>
+    <ns>10</ns>
+    <id>570</id>
+    <revision>
+      <id>2005</id>
+      <parentid>2004</parentid>
+      <timestamp>2020-08-15T12:57:11Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2005</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" sha1="evbgxnmd6uspuf0s7uxncgsgy9xquil" xml:space="preserve">{{信息框
+|border=orange
+|image=中立2.jpg
+|type=保持中立
+|info=难以评定本页面涉及人士的立场，请在编辑时保持客观态度。
+}}
+
+[[分类:建议保持中立的条目]]</text>
+      <sha1>evbgxnmd6uspuf0s7uxncgsgy9xquil</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:信息板</title>
+    <ns>10</ns>
+    <id>571</id>
+    <revision>
+      <id>2008</id>
+      <parentid>2007</parentid>
+      <timestamp>2020-06-28T17:13:55Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2008</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2355" sha1="pcp7viix2mswm8xjoaqq4km9prupxjo" xml:space="preserve">&lt;table class="infobox" style="font-size:89%;float:right;background-color:rgba(42,42,42,0.3); width:300px; color:#666666;margin:5px;padding:5px; box-shadow:0 1px 5px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 2px 1px -2px rgba(0,0,0,.2); "&gt;
+&lt;tr&gt;
+&lt;br&gt;
+&lt;th colspan="2" style="background:linear-gradient(to right,#fc00ff,#00dbde); color:#FFFFFF; font-size:120%; padding:0.5em"&gt;{{{titlename|{{{name}}}}}}
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2" style="text-align:center;"&gt;
+[[文件:{{{photo|NOBODY.jpg}}}|120px]]
+&lt;br&gt;
+&lt;i style="color:#FFFFFF;"&gt;{{{photocap|}}}&lt;/i&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width:30%;"&gt;
+&lt;p&gt;&lt;b colspan="2" style="color:#FFFFFF; font-size:120%; padding:0.3em"&gt;姓名&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="width:70%;"&gt;
+&lt;p style="color:#FFFFFF;"&gt;{{{name|暂无姓名}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b colspan="2" style="color:#FFFFFF; font-size:120%; padding:0.3em"&gt;常用ID&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="color:#FFFFFF;"&gt;{{{id|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b colspan="2" style="color:#FFFFFF; font-size:120%; padding:0.3em"&gt;职业&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="color:#FFFFFF;"&gt;{{{class|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b colspan="2" style="color:#FFFFFF; font-size:120%; padding:0.3em"&gt;能力&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="color:#FFFFFF;"&gt;{{{ability|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b colspan="2" style="color:#FFFFFF; font-size:120%; padding:0.3em"&gt;必杀技&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="color:#FFFFFF;"&gt;{{{best|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b colspan="2" style="color:#FFFFFF; font-size:120%; padding:0.3em"&gt;硬度&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="color:#FFFFFF;"&gt;{{{hardness|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b colspan="2" style="color:#FFFFFF; font-size:120%; padding:0.3em"&gt;暴力指数（LV）&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="color:#FFFFFF;"&gt;{{{dangerous|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b colspan="2" style="color:#FFFFFF; font-size:120%; padding:0.3em"&gt;智商&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="color:#FFFFFF;"&gt;{{{IQ|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b colspan="2" style="color:#FFFFFF; font-size:120%; padding:0.3em"&gt;活跃度（HP）&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="color:#FFFFFF;"&gt;{{{online|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b colspan="2" style="color:#FFFFFF; font-size:120%; padding:0.3em"&gt;所属&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="color:#FFFFFF;"&gt;{{{affinity|[[分类:未知]]}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</text>
+      <sha1>pcp7viix2mswm8xjoaqq4km9prupxjo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:信息框</title>
+    <ns>10</ns>
+    <id>572</id>
+    <revision>
+      <id>2009</id>
+      <timestamp>2020-06-26T10:47:47Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;table style="font-size: 95%; width: 75%; margin: 0 auto -2px auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 2px 1px -2px rgba(0,0,0,.2);…”</comment>
+      <origin>2009</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="719" sha1="chfdl7z67mciwukgh9ewr3d77ihczch" xml:space="preserve">&lt;table style="font-size: 95%; width: 75%; margin: 0 auto -2px auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 2px 1px -2px rgba(0,0,0,.2); border: 1px #AAA solid; border-left: 10px solid #228b22; border-collapse: collapse; background-color: rgba(250,250,250,0.3); color: #000; border-left: 5px solid {{{border|rgb(30,144,255)}}};" class="plainlinks"&gt;
+&lt;tr&gt;
+&lt;td style="width: 55px; padding: 2px; text-align: center;border-right:1px solid #AAA;"&gt;[[文件:{{{image|SLNM.jpg}}}|50px]]&lt;/td&gt;
+&lt;td style="padding: 5px 20px;"&gt;&lt;b&gt;{{{type|信息}}}&lt;/b&gt;
+&lt;div style="font-size: smaller; margin:2px 0px 2px 25px;"&gt;
+&lt;span style="font-size:13px;"&gt;{{{info|信息框模板！}}}
+&lt;/span&gt;
+&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</text>
+      <sha1>chfdl7z67mciwukgh9ewr3d77ihczch</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:分类板</title>
+    <ns>10</ns>
+    <id>573</id>
+    <revision>
+      <id>2012</id>
+      <parentid>2011</parentid>
+      <timestamp>2020-08-17T16:04:27Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2012</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="520" sha1="g5chc91oia7rksco9t4ydb8l0ekhecb" xml:space="preserve">&lt;table style="background-color:#f5faff; box-shadow:grey 0px 0px 5px; width:80%; margin-top:0em; margin-left:auto; margin-right:auto; border:1px solid #999; border-radius:7px; text-align:center; list-style-type:square;"&gt;&lt;tr&gt;
+&lt;th style="background-color:#3366CC; color:#000000; padding:6px 3px; border-radius:5px; font-size:110%;" nowrap="nowrap"&gt;{{{title}}}&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;
+&lt;td style="padding:6px 3px; border-radius:5px; padding:5px 40px; text-indent:-10px;"&gt;&lt;i&gt;{{{body}}}&lt;/i&gt;
+&lt;center&gt;
+{{{1}}}
+&lt;/center&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</text>
+      <sha1>g5chc91oia7rksco9t4ydb8l0ekhecb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:分类框</title>
+    <ns>10</ns>
+    <id>574</id>
+    <revision>
+      <id>2013</id>
+      <timestamp>2020-08-17T15:57:01Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;div style="background-color:#F0F8FF; padding:2px; border:1px solid #999; font-size:1.105em; border-radius:7px; margin:2.5px; width:60%;"&gt; &lt;b&gt;{{{1}}}&lt;/b&gt;&lt;br /&gt;{{{2…”</comment>
+      <origin>2013</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="qryqiyr34rs8wrtobctvxtmxe02na4u" xml:space="preserve">&lt;div style="background-color:#F0F8FF; padding:2px; border:1px solid #999; font-size:1.105em; border-radius:7px; margin:2.5px; width:60%;"&gt;
+&lt;b&gt;{{{1}}}&lt;/b&gt;&lt;br /&gt;[[{{{2}}}]]
+&lt;/div&gt;</text>
+      <sha1>qryqiyr34rs8wrtobctvxtmxe02na4u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:刘勤</title>
+    <ns>10</ns>
+    <id>575</id>
+    <revision>
+      <id>2028</id>
+      <parentid>2027</parentid>
+      <timestamp>2020-08-25T10:21:46Z</timestamp>
+      <contributor>
+        <username>imported&gt;巴卫大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2028</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1076" sha1="o8dz60c63ek727cw3adfeknhgre49lx" xml:space="preserve">[[文件:疼中医.png|130px|左]]
+'''滕忠义'''，世上最牛逼的'''站长'''，其拥有的挂人、黑屁能力可谓是前无古人，后无来者，对高雅人士进行了所谓的'''屠杀行动'''，妄图通过出道、黑屁、挂人干烂恶俗，但其泰国第几的出道技术根本无法橄榄恶俗，让恶俗百科站长很是佩服。&lt;br&gt;
+滕忠义搭建过类似于恶俗维基的弱智站点[[恶俗狗维基]]，妄图当上网络皇帝，成为人见人怕的反恶俗头子，但凭借滕忠义那-250的智商根本不懂得如何出道，甚至连q绑都不会出，其站点开了数个月之久也就只挂上了十几个人的手机号，几个人的身份证号，且大部分信息都是恶俗内斗的产物，成为了各路高雅人士口中的笑话。&lt;br&gt;
+另外，这里对滕卫兵进行远程喊话：四代目恶俗维基关闭只是暂时的，且并非你站导致，请你们不要拿着恶俗维基404错误的图到处发，让别人以为你们是群不折不扣的脑瘫儿。
+
+&lt;center&gt;[[滕忠义|(完整文章)]]&lt;/center&gt;</text>
+      <sha1>o8dz60c63ek727cw3adfeknhgre49lx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:加速补充</title>
+    <ns>10</ns>
+    <id>576</id>
+    <revision>
+      <id>2030</id>
+      <parentid>2029</parentid>
+      <timestamp>2020-08-27T16:48:43Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2030</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="392" sha1="7vpr1958bow9us2gy9rbhu7lg35fp0f" xml:space="preserve">{{信息框
+|border=blue
+|image=加速补充.jpg
+|type=加速补充
+|info=鉴于 {{color|{{{1|{{PAGENAME}}}}}}} 的事迹极其恶劣，{{color|green|我们迫切需要您的帮助来完善本条目中的历史事迹。}}&lt;br&gt;
+您可以咨询相关人士来发掘 {{color|{{{1|{{PAGENAME}}}}}}} 的历史事迹，争取早日登上首页成为精品。}}
+[[分类:需要加速补充的页面]]</text>
+      <sha1>7vpr1958bow9us2gy9rbhu7lg35fp0f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:名言警句</title>
+    <ns>10</ns>
+    <id>577</id>
+    <revision>
+      <id>2033</id>
+      <parentid>2032</parentid>
+      <timestamp>2020-07-13T15:16:20Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <minor/>
+      <comment>恢复[[Special:Contributions/Yeshao|Yeshao]]（[[User talk:Yeshao|讨论]]）的编辑至[[User:莉夏大师|莉夏大师]]的最后版本</comment>
+      <origin>2033</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="322" sha1="m3krwd7d5sn25ubn4k67wulic5oid03" xml:space="preserve">&lt;div style="padding:1.5em;"&gt;
+&lt;p&gt;
+&lt;center&gt;
+&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;
+&lt;span style="color:red"&gt;
+网络世界我操你妈！！！你他妈把多少人的生活！！！都他妈毁了！！！
+&lt;/span&gt;
+&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;
+&lt;/center&gt;
+&lt;div style="text-align:right"&gt;
+&lt;big&gt;&lt;big&gt;&lt;big&gt;--[[于玥]]&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;
+&lt;/div&gt;</text>
+      <sha1>m3krwd7d5sn25ubn4k67wulic5oid03</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:圣地巡礼</title>
+    <ns>10</ns>
+    <id>578</id>
+    <revision>
+      <id>2034</id>
+      <timestamp>2020-08-27T07:16:38Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{信息框 |border=Yellow |image=御驾亲征.jpg |type=圣地巡礼 |info=该页面涉及人物已亲自光临页面。 }} [[分类:已圣地巡礼人物]]”</comment>
+      <origin>2034</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="157" sha1="c722yogft2hc9wlnu0gn34noine2t6r" xml:space="preserve">{{信息框
+|border=Yellow
+|image=御驾亲征.jpg
+|type=圣地巡礼
+|info=该页面涉及人物已亲自光临页面。
+}}
+[[分类:已圣地巡礼人物]]</text>
+      <sha1>c722yogft2hc9wlnu0gn34noine2t6r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:大脑升级</title>
+    <ns>10</ns>
+    <id>579</id>
+    <revision>
+      <id>2036</id>
+      <parentid>2035</parentid>
+      <timestamp>2020-07-28T13:04:07Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="oi481d03lzbuhxn7nzwd53d9uazi7x2" xml:space="preserve">{{信息框
+|border=blue
+|image=大脑升级.png
+|type=大脑升级
+|info=本条目词汇可能会有点晦涩难懂，请在观看前进行大脑升级.
+}}
+[[分类:晦涩难懂的页面]]</text>
+      <sha1>oi481d03lzbuhxn7nzwd53d9uazi7x2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:大脑降级</title>
+    <ns>10</ns>
+    <id>580</id>
+    <revision>
+      <id>2040</id>
+      <parentid>2039</parentid>
+      <timestamp>2020-08-17T08:18:15Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <origin>2040</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="204" sha1="skgy7p0pnpyxcvo6z9o266ro4gyencs" xml:space="preserve">{{信息框
+|border=blue
+|image=大脑升级.png
+|type=大脑降级警告
+|info=以下内容过于奇妙深刻，可能会导致大脑降级，请谨慎选择观看。
+}}
+
+[[分类:奇妙深刻的页面]]</text>
+      <sha1>skgy7p0pnpyxcvo6z9o266ro4gyencs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:小作品</title>
+    <ns>10</ns>
+    <id>581</id>
+    <revision>
+      <id>2044</id>
+      <parentid>2043</parentid>
+      <timestamp>2020-08-28T07:54:03Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2044</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="196" sha1="e8hn07dfohxlz1iy04qturgd1jwfymk" xml:space="preserve">{{信息框
+|border=blue
+|image=小作品.png
+|type=小作品
+|info=该页面短的只剩{{{1|蛆！}}}你可以帮助{{SITENAME}}添加文字和图片，或是整点活。
+}}
+[[分类:小作品]]</text>
+      <sha1>e8hn07dfohxlz1iy04qturgd1jwfymk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:引言</title>
+    <ns>10</ns>
+    <id>582</id>
+    <revision>
+      <id>2046</id>
+      <parentid>2045</parentid>
+      <timestamp>2020-08-22T06:19:18Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2046</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1167" sha1="pv9hu1lkk6ytzbhc8bkhae1uv6eud05" xml:space="preserve">&lt;div style="display:table;margin: auto; background-color:{{{bgcolor|transparent}}};width:{{{width|auto}}};{{#if: {{{bgcolor|}}}|border: 1px solid #AAAAAA;}}"&gt;
+&lt;div&gt;
+&lt;div style="display: table-cell;vertical-align: top; color:#B2B7F2;font-size:{{#switch:{{{size|{{{4|{{{quotewidth|{{{width|20px}}}}}}}}}}}}
+|10px=20px
+|30px=60px
+|40px=80px
+|50px=100px
+|60px=120px
+|#default=36px}};font-family:'Times New Roman',serif;font-weight:bold;text-align:left;padding:10px 10px;line-height:100%"&gt;{{{open|“}}}&lt;/div&gt;
+&lt;div style="display: table-cell;text-align: left; padding: 0.2em 1em; vertical-align: middle; font-size:1.2em"&gt;&lt;big&gt;{{{1}}}&lt;/big&gt;&lt;/div&gt;
+&lt;div style="display: table-cell; vertical-align: bottom; color:#B2B7F2;font-size:{{#switch:{{{size|{{{4|{{{quotewidth|{{{width|20px}}}}}}}}}}}}
+|10px=20px
+|30px=60px
+|40px=80px
+|50px=100px
+|60px=120px
+|#default=36px}};font-family:'Times New Roman',serif;font-weight:bold;text-align:left;padding:10px 10px;line-height:100%"&gt;{{{close|”}}}&lt;/div&gt;
+&lt;/div&gt;{{#if:{{{2|}}}|
+&lt;div style="text-align: right; padding-right: 4%;"&gt;&lt;cite style="font-style:normal;"&gt;——{{{2}}}{{#if:{{{3|}}}|，{{{3}}}|}}&lt;/cite&gt;
+&lt;/div&gt;}}
+&lt;/div&gt;&lt;noinclude&gt;</text>
+      <sha1>pv9hu1lkk6ytzbhc8bkhae1uv6eud05</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:当前事件</title>
+    <ns>10</ns>
+    <id>583</id>
+    <revision>
+      <id>2049</id>
+      <parentid>2048</parentid>
+      <timestamp>2020-07-16T14:51:38Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2049</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="275" sha1="rxf4da2g3erxt70glzvyxibn00ii1g8" xml:space="preserve">{{信息框
+|border=blue
+|image=当前事件.jpg
+|type=当前事件
+|info=截止{{{year|{{CURRENTYEAR}}}}}年{{{month|{{CURRENTMONTH}}}}}月，每天都会成为昨天，任何页面都有可能在三分钟以内死亡。
+}}
+&lt;includeonly&gt;[[分类:当前事件]]&lt;/includeonly&gt;</text>
+      <sha1>rxf4da2g3erxt70glzvyxibn00ii1g8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:御驾亲征</title>
+    <ns>10</ns>
+    <id>584</id>
+    <revision>
+      <id>2056</id>
+      <parentid>2055</parentid>
+      <timestamp>2020-08-27T07:14:00Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2056</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="170" sha1="svnp2xjz91gffqy5ibgev6bltz5b1fv" xml:space="preserve">{{信息框
+|border=Yellow
+|image=御驾亲征.jpg
+|type=御驾亲征
+|info=该页面涉及人物已亲自光临页面，并{{{1}}}。
+}}
+[[分类:已圣地巡礼人物]]</text>
+      <sha1>svnp2xjz91gffqy5ibgev6bltz5b1fv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:恶俗之最</title>
+    <ns>10</ns>
+    <id>585</id>
+    <revision>
+      <id>2058</id>
+      <parentid>2057</parentid>
+      <timestamp>2020-08-26T15:22:09Z</timestamp>
+      <contributor>
+        <username>imported&gt;巴卫大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2058</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="94" sha1="272k9cu3buake8r0i7s65229s76ehls" xml:space="preserve">{{信息框
+|border=orange
+|image=恶俗之最.png
+|type=恶俗之最-{{{1}}}
+|info={{{2}}}
+}}</text>
+      <sha1>272k9cu3buake8r0i7s65229s76ehls</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:意见</title>
+    <ns>10</ns>
+    <id>586</id>
+    <revision>
+      <id>2059</id>
+      <timestamp>2020-08-22T06:59:31Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 用法 */</comment>
+      <origin>2059</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1905" sha1="dok5h20eo6sdaeqmjac5p8ve58tjh3x" xml:space="preserve">&lt;includeonly&gt;{{#switch:{{{1|abstention}}}
+|agree = &lt;span style="font-weight:bold;background:lightgreen;color:green;"&gt;(＋)&lt;/span&gt;'''{{{2|确信}}}'''
+|disagree = &lt;span style="font-weight:bold;background:pink;color:red;"&gt;(－)&lt;/span&gt;'''{{{2|异议}}}'''
+|neutral = &lt;span style="font-weight:bold;background-color:#DDDDDD;color:gray"&gt;(＝)&lt;/span&gt;'''{{{2|正论}}}'''
+|abstention = &lt;span style="font-weight:bold;background:#E9C2BE;color:#6C5353;"&gt;({{0|　}})&lt;/span&gt;'''{{{2|池沼}}}'''
+|question = &lt;span style="font-weight:bold;background:#007fff;color:white;"&gt;(？)&lt;/span&gt;'''{{{2|困惑}}}'''
+|answer = &lt;span style="font-weight:bold;color:#FFCD71;background-color:#DB6D00;"&gt;(：)&lt;/span&gt;'''{{{2|即答}}}'''
+|suggestion = &lt;span style="font-weight:bold;background-color:#8D608C;color:#FFFFFF"&gt;(＆)&lt;/span&gt;'''{{{2|提案}}}'''
+|opinion = &lt;span style="font-weight:bold;background-color:#EDE275;color:#DB6D00"&gt;(！)&lt;/span&gt;'''{{{2|恳愿}}}'''
+|soudayo = &lt;span style="font-weight:bold;background-color:lightcyan; color:darkcyan;"&gt;(▲)&lt;/span&gt;'''{{{2|便乘}}}'''
+}} &lt;/includeonly&gt;&lt;noinclude&gt;
+==用法==
+用于讨论页使用。
+===投票表决用===
+====同意====
+&lt;code&gt;&lt;nowiki&gt;{{View|agree}}&lt;/nowiki&gt;&lt;/code&gt;
+
+{{View|agree}}
+====反对====
+&lt;code&gt;&lt;nowiki&gt;{{View|disagree}}&lt;/nowiki&gt;&lt;/code&gt;
+
+{{View|disagree}}
+====中立====
+&lt;code&gt;&lt;nowiki&gt;{{View|neutral}}&lt;/nowiki&gt;&lt;/code&gt;
+
+{{View|neutral}}
+====弃权====
+&lt;code&gt;&lt;nowiki&gt;{{View|abstention}}&lt;/nowiki&gt;&lt;/code&gt;
+
+{{View|abstention}}
+===一般讨论用===
+====疑问====
+&lt;code&gt;&lt;nowiki&gt;{{View|question}}&lt;/nowiki&gt;&lt;/code&gt;
+
+{{View|question}}
+====回应====
+&lt;code&gt;&lt;nowiki&gt;{{View|answer}}&lt;/nowiki&gt;&lt;/code&gt;
+
+{{View|answer}}
+====建议====
+&lt;code&gt;&lt;nowiki&gt;{{View|suggestion}}&lt;/nowiki&gt;&lt;/code&gt;
+
+{{View|suggestion}}
+====意见====
+&lt;code&gt;&lt;nowiki&gt;{{View|opinion}}&lt;/nowiki&gt;&lt;/code&gt;
+
+{{View|opinion}}
+====同上====
+&lt;code&gt;&lt;nowiki&gt;{{View|soudayo}}&lt;/nowiki&gt;&lt;/code&gt;
+
+{{View|soudayo}}
+&lt;/noinclude&gt;</text>
+      <sha1>dok5h20eo6sdaeqmjac5p8ve58tjh3x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:手机版导航</title>
+    <ns>10</ns>
+    <id>587</id>
+    <revision>
+      <id>2066</id>
+      <parentid>2065</parentid>
+      <timestamp>2020-08-25T07:38:35Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2066</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="523" sha1="7zqnop0w4hnwjd6ntp7rb29dnw2kfzh" xml:space="preserve">*ESUBIKE MOBILE Demo
+**[[EsuBike:百科守则|百科守则]]
+**[[创作文章]]
+**[[帮助:格式标准|格式标准]]
+*人物
+**[[国际巨星]]
+**[[二线明星]]
+**[[其他人]]
+**[[神必人]]
+**[[纸片人]]
+**[[思想品德]]
+*分类
+**[[事件]]
+**[[概念]]
+**[[群体]]
+**[[万国古迹]]
+*文章
+**[[珍贵文献]]
+**[[心灵毒药]]
+**[[文集]]
+*友情链接
+**[http://esu.monster 恶俗百科(主站)]
+**&lt;s&gt;[http://esu.life 恶俗维基（暂时关闭）]&lt;/s&gt;
+**[http://touhoujuan.miraheze.org 车万圈维基]</text>
+      <sha1>7zqnop0w4hnwjd6ntp7rb29dnw2kfzh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:搬运工</title>
+    <ns>10</ns>
+    <id>588</id>
+    <revision>
+      <id>2075</id>
+      <parentid>2074</parentid>
+      <timestamp>2020-08-11T13:02:56Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2075</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="149" sha1="3fd0khnqy2qcoz441fmq413roq1dmoc" xml:space="preserve">{{信息框
+|border=red
+|image=搬运工.png
+|type=搬运工
+|info=该词条部分信息来源于{{{1}}}，侵删。
+}}
+[[分类:部分内容转载]]</text>
+      <sha1>3fd0khnqy2qcoz441fmq413roq1dmoc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:暂无词条</title>
+    <ns>10</ns>
+    <id>589</id>
+    <revision>
+      <id>2078</id>
+      <parentid>2077</parentid>
+      <timestamp>2020-07-28T10:32:09Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2078</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="h7avjyigzju6pn8y3wconsay1sz5pqa" xml:space="preserve">{{信息框
+|border=yellow
+|image=神力柠檬.jpg
+|type=暂无词条
+|info=该段落还没有内容，欢迎高雅人士前来编辑。
+}}
+[[分类:无内容页面]]</text>
+      <sha1>h7avjyigzju6pn8y3wconsay1sz5pqa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:曾经入狱</title>
+    <ns>10</ns>
+    <id>590</id>
+    <revision>
+      <id>2079</id>
+      <timestamp>2020-08-22T06:54:43Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{AmBox |image=[[Image:Lzjy.png|50px]] |border=red |type=曾经入狱 |info={{{target|{{ROOTPAGENAME}}}}}曾经因为'''{{{1}}}'''被拘留、判刑或采取其他…”</comment>
+      <origin>2079</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="274" sha1="fre3jozp251sni1zd1ziqejzj5q4yv3" xml:space="preserve">{{AmBox
+|image=[[Image:Lzjy.png|50px]]
+|border=red
+|type=曾经入狱
+|info={{{target|{{ROOTPAGENAME}}}}}曾经因为'''{{{1}}}'''被拘留、判刑或采取其他强制措施，与它互动时请注意人身安全。
+}}&lt;noinclude&gt;[[Category:文档管理模板]]&lt;/noinclude&gt;</text>
+      <sha1>fre3jozp251sni1zd1ziqejzj5q4yv3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:未完待续</title>
+    <ns>10</ns>
+    <id>591</id>
+    <revision>
+      <id>2082</id>
+      <parentid>2081</parentid>
+      <timestamp>2020-07-31T07:29:18Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2082</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="mbs68f2b5qdentst1ccqvzwn09bd5qr" xml:space="preserve">{{信息框
+|border=green
+|image=未完待续.jpg
+|type=未完待续
+|info=此页面尚未施工完成，请等待词条主人完善此条目。
+}}
+[[分类:未完成的页面]]</text>
+      <sha1>mbs68f2b5qdentst1ccqvzwn09bd5qr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:极度危险</title>
+    <ns>10</ns>
+    <id>592</id>
+    <revision>
+      <id>2086</id>
+      <parentid>2085</parentid>
+      <timestamp>2020-07-28T10:32:34Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2086</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="199" sha1="ieamjeswfjr6cwxzt76u2ffms67q38m" xml:space="preserve">{{信息框
+|border=red
+|image=极度危险.png
+|type=极度危险
+|info=该死妈废物具有极强的{{color|red|{{{1}}}}}能力，请在互动时做好防护。
+}}
+[[分类:极度危险类人物]]</text>
+      <sha1>ieamjeswfjr6cwxzt76u2ffms67q38m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:死亡</title>
+    <ns>10</ns>
+    <id>593</id>
+    <revision>
+      <id>2087</id>
+      <timestamp>2020-06-26T11:33:47Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt; &lt;t…”</comment>
+      <origin>2087</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="515" sha1="rg5uueio8a8cb7yz3qalewb22jvfv48" xml:space="preserve">&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:death.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？不幸地，&lt;span style="border:solid thin;"&gt;'''{{{1}}}'''&lt;/span&gt;已经逝世，因此无法继续与您互动，让我们永远缅怀它。
+&lt;/p&gt;	
+&lt;td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;includeonly&gt;[[分类:已死亡的人物]]&lt;/includeonly&gt;</text>
+      <sha1>rg5uueio8a8cb7yz3qalewb22jvfv48</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:注意备份</title>
+    <ns>10</ns>
+    <id>594</id>
+    <revision>
+      <id>2089</id>
+      <parentid>2088</parentid>
+      <timestamp>2020-07-04T06:49:51Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2089</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="309" sha1="axewhbveppxnjqkwvdv1l8xznduvntg" xml:space="preserve">{{信息框
+|border=yellow
+|image=备份2.png
+|type=注意备份
+|info=请及时保存{{PAGENAME}}的相关资料，包括但不限于文章、音视频素材、语录、美图等等，以免被{{PAGENAME}}自我削除或被不可抗力与其他未知因素削除。
+}}
+
+[[分类:建议进行备份的条目]]</text>
+      <sha1>axewhbveppxnjqkwvdv1l8xznduvntg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:消歧义</title>
+    <ns>10</ns>
+    <id>595</id>
+    <revision>
+      <id>2090</id>
+      <timestamp>2020-08-01T05:27:13Z</timestamp>
+      <contributor>
+        <username>imported&gt;额好</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{信息框 |border=white |image=消歧义.png |type=这是一个消歧义页，罗列了有相同或相近的标题，但内容不同的条目 |info=如果您是通…”</comment>
+      <origin>2090</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="318" sha1="a4umw2w64j37zaoh16mebhar5g7t8eg" xml:space="preserve">{{信息框
+|border=white
+|image=消歧义.png
+|type=这是一个消歧义页，罗列了有相同或相近的标题，但内容不同的条目
+|info=如果您是通过某条目的内部链接而转到本页，希望您能协助修正该处的内部链接，将它指向正确的条目。
+}}
+[[分类:消歧义页面]]</text>
+      <sha1>a4umw2w64j37zaoh16mebhar5g7t8eg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:灵堂</title>
+    <ns>10</ns>
+    <id>596</id>
+    <revision>
+      <id>2091</id>
+      <timestamp>2020-08-15T09:36:26Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt; &lt;t…”</comment>
+      <origin>2091</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="496" sha1="8g25vj0y8lb31f3k9rgbqdbyk4pxdls" xml:space="preserve">&lt;table style="background:black;width: 75%;margin: 0 auto; box-shadow:0 1px 2px 0 rgba(0,0,0,.24),0 1px 5px 0 rgba(0,0,0,.22),0 2px 1px -2px rgba(0,0,0,.12);"&gt;&lt;tr&gt;
+&lt;td style="min-width:80px;"&gt;
+[[文件:deathflower.jpg|80px]]
+&lt;/td&gt;
+&lt;td style="text-align:left; color:white;"&gt;
+&lt;p&gt;人生自古谁无死？如愿以偿地，&lt;span style="border:solid thin;"&gt;'''{{PAGENAME}}'''&lt;/span&gt;已经入住[{{{1}}} 灵堂]，但是依旧可以与您互动，让我们永远缅怀它。
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</text>
+      <sha1>8g25vj0y8lb31f3k9rgbqdbyk4pxdls</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:禁止炒作</title>
+    <ns>10</ns>
+    <id>597</id>
+    <revision>
+      <id>2095</id>
+      <parentid>2094</parentid>
+      <timestamp>2020-08-28T07:48:38Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2095</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="qxebr6vmcgjlmoahfzpt3bacghrbfen" xml:space="preserve">{{信息框
+|border=Yellow
+|image=禁止炒作.jpg
+|type=禁止炒作
+|info={{SITENAME}}没有义务帮助任何死妈废物进行免费宣传，请在编辑本页面时注意。
+}}
+[[分类:禁止炒作页面]]</text>
+      <sha1>qxebr6vmcgjlmoahfzpt3bacghrbfen</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:精品</title>
+    <ns>10</ns>
+    <id>598</id>
+    <revision>
+      <id>2100</id>
+      <parentid>2099</parentid>
+      <timestamp>2020-08-10T07:29:25Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="141" sha1="6j85nhq4qbsqv47int0o9rump80m07j" xml:space="preserve">{{信息框
+|border=blue
+|image=精品.jpg
+|type=精品
+|info=本条目受本站创始人[[恶百娘]]先辈的认可。
+}}
+[[分类:精品]]</text>
+      <sha1>6j85nhq4qbsqv47int0o9rump80m07j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:纪念</title>
+    <ns>10</ns>
+    <id>599</id>
+    <revision>
+      <id>2111</id>
+      <parentid>2110</parentid>
+      <timestamp>2020-07-26T12:20:36Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2111</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1169" sha1="3a228k5jzclq0vj03qumv6bmw08bbij" xml:space="preserve">[[文件:黄伟吉.png|125px|右]]
+黄伟吉（2000.12.02）B站id:风云迈阿密，拥有一群低素质粉丝，国内闻名的我的世界中国版资源开发者。黄伟吉本人一直将自己放在正义的道德制高点上，有着打击外挂的决心。&lt;br&gt;
+早期黄伟吉游走于贴吧送妈，黑历史无数，跟许许多多的MC小鬼一样。在密人13加入b站以后，一直无人问津，但是在迫真曝光外挂卖惨引流后人气暴涨，甚至以前被他黑屁的朱明华也被带了节奏。随后密人转型制作大量卖惨视频，黑屁反恋。&lt;br&gt;
+{{color|red|黄伟吉在贴吧时期留下很多值得研究的东西，在这次与反恋协会的高雅互动中，也被翻出一些内容 在黄伟吉推广自己mc资源地图的帖子中，一张图片格外醒目。其背景为一张日本太阳旗，还包含著名Minecraft实况主籽岷，Minecraft官方开发人员（NOTCH,JEB），奇怪君的头像，只不过稍有不同的是，他们的头被P到了日本军官的脸上，而右侧黄字为“大日本帝国万岁”。一部分人从这点认为黄伟吉精日辱华。}}
+
+[[黄伟吉|（完整文章）]]</text>
+      <sha1>3a228k5jzclq0vj03qumv6bmw08bbij</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:终止迫害</title>
+    <ns>10</ns>
+    <id>600</id>
+    <revision>
+      <id>2114</id>
+      <parentid>2113</parentid>
+      <timestamp>2020-07-28T10:34:27Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2114</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107" sha1="4sker1b7eayay1xxz16t8brfbhdqg91" xml:space="preserve">{{信息框
+|border=Red
+|image=终止迫害.jpg
+|type=终止迫害
+|info={{{1}}}
+}}
+[[分类:终止迫害]]</text>
+      <sha1>4sker1b7eayay1xxz16t8brfbhdqg91</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:缺乏格式</title>
+    <ns>10</ns>
+    <id>601</id>
+    <revision>
+      <id>2118</id>
+      <parentid>2117</parentid>
+      <timestamp>2020-08-28T07:53:35Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="326" sha1="mx18rji4v74oh45yuj2ia6diw3416i7" xml:space="preserve">{{信息框
+|border=orange
+|image=龙图.jpg
+|type=缺乏格式
+|info=本页面的格式有问题，质量不是十分理想。你可以帮助{{SITENAME}}整理本页面的结构，检查语法和误字，以及说点垃圾话改进本页面。请参照[[Help:格式标准|格式标准]]。
+}}
+[[分类:缺乏格式的页面]]</text>
+      <sha1>mx18rji4v74oh45yuj2ia6diw3416i7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:美文鉴赏</title>
+    <ns>10</ns>
+    <id>602</id>
+    <revision>
+      <id>2119</id>
+      <timestamp>2020-07-06T11:39:58Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“这段时间还是有一些仍然愿意相信我的人们来告诉我，说谁谁谁被锤了，遗梦你快趁现在去翻身 &lt;br&gt;&lt;br&gt; 真的非常感谢仍然愿…”</comment>
+      <origin>2119</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="894" sha1="6j1vsi3l9miq3rsph258yn87bhsxi9h" xml:space="preserve">这段时间还是有一些仍然愿意相信我的人们来告诉我，说谁谁谁被锤了，遗梦你快趁现在去翻身
+&lt;br&gt;&lt;br&gt;
+真的非常感谢仍然愿意相信我的人们。
+&lt;br&gt;&lt;br&gt;
+如果你们真的愿意相信我和喜欢[[BiLiBiLi|BiliBili]]这个家的话，不要锤来锤去了，也不别去谁那喷人带节奏了
+&lt;br&gt;&lt;br&gt;
+这不是我曾经喜欢的B站，我相信这也不是真的热爱B站的你们喜欢的
+&lt;br&gt;&lt;br&gt;
+我不是白莲花，做过那些蠢事的我不配莲花这个词，莲花出淤泥而不染，其他词随便你们骂我
+&lt;br&gt;&lt;br&gt;
+我不会拿这个借口来开脱自己，我会站出来讲明白和承担这一切
+&lt;br&gt;&lt;br&gt;
+我还需要一点点时间调整心态，我没有抑郁症也没有想自杀……
+&lt;center&gt;[[如果天空总是黑暗，那就摸黑生存。如果发出声音是危险的，那就保持沉默|(完整文章)]]&lt;/center&gt;</text>
+      <sha1>6j1vsi3l9miq3rsph258yn87bhsxi9h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:群体信息板</title>
+    <ns>10</ns>
+    <id>603</id>
+    <revision>
+      <id>2121</id>
+      <parentid>2120</parentid>
+      <timestamp>2020-08-04T08:08:43Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1076" sha1="92panjvsumh58oyuuoh04rbsfpudtjo" xml:space="preserve">&lt;table class="infobox" style="font-size:89%;float:right;background-color:snow; width:300px; color:#000000;margin:5px;padding:5px; box-shadow:0 1px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 2px 1px -2px rgba(0,0,0,.2); "&gt;
+&lt;tr&gt;
+&lt;th colspan="2" style="background-color:#66ccff; color:#FFFFFF; font-size:120%; padding:1em;"&gt;{{{name|未知}}}
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2" style="text-align:center;"&gt;
+{{{photo|}}}
+&lt;br&gt;
+&lt;i&gt;{{{photocap|}}}&lt;/i&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width:30%;"&gt;
+&lt;p&gt;&lt;b&gt;名称&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;{{{name|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;创始人&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;{{{origin|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;主要成员&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;{{{members|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;底层人员&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;{{{DC|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;影响&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;{{{influences|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;友好&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;{{{affinity|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;b&gt;敌对&lt;/b&gt;
+&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;{{{enemy|未知}}}
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</text>
+      <sha1>92panjvsumh58oyuuoh04rbsfpudtjo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:评论</title>
+    <ns>10</ns>
+    <id>604</id>
+    <revision>
+      <id>2122</id>
+      <timestamp>2020-08-03T05:16:11Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 评论 */</comment>
+      <origin>2122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="164" sha1="evc6l3fa01hjaeusefc7fxff63kt116" xml:space="preserve">==评论==
+{{color|red|此处仅供注册用户评论，如果您不是注册用户，那么请[{{{1}}} 点击此处]跳转至匿名用户评论区。}}
+&lt;comments/&gt;</text>
+      <sha1>evc6l3fa01hjaeusefc7fxff63kt116</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:请求出道</title>
+    <ns>10</ns>
+    <id>605</id>
+    <revision>
+      <id>2124</id>
+      <parentid>2123</parentid>
+      <timestamp>2020-08-28T07:52:37Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2124</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="29bg8xkh55l9l244o691loo2891wtgb" xml:space="preserve">{{信息框
+|border=yellow
+|image=请求出道.jpg
+|type=请求出道
+|info=该页面记述对象是神必人，我们对他一无所知。为了使其实名制上网，{{SITENAME}}需要您的帮助。
+}}
+[[分类:神必人]]</text>
+      <sha1>29bg8xkh55l9l244o691loo2891wtgb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:谨慎行动</title>
+    <ns>10</ns>
+    <id>606</id>
+    <revision>
+      <id>2132</id>
+      <parentid>2131</parentid>
+      <timestamp>2020-08-22T06:46:16Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="223" sha1="lcrcka0gh7mtnqnyjo0pc5zbae6azax" xml:space="preserve">{{信息框
+|border=Blue
+|image=谨慎行动.jpg
+|type=谨慎行动
+|info=该死妈废物具有一定的{{{1|反咬}}}能力，请在互动时务必注意安全，以避免不必要的损失。
+}}
+[[分类:危险类人物]]</text>
+      <sha1>lcrcka0gh7mtnqnyjo0pc5zbae6azax</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:迫害加速</title>
+    <ns>10</ns>
+    <id>607</id>
+    <revision>
+      <id>2134</id>
+      <parentid>2133</parentid>
+      <timestamp>2020-07-28T10:36:17Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="281" sha1="mf6vnod5y4x89w07p88sy3vz55qmrnw" xml:space="preserve">{{信息框
+|border=red
+|image=迫害加速.png
+|type=迫害加速 ~ Field of Hopes and Dreams ~
+|info=鉴于该条目涉及人士硬度无穷大，娱乐性极强，建议任何人对其实施包括但不限于以下娱乐活动：{{{1}}}
+}}
+[[分类:需要加速迫害的人物]]</text>
+      <sha1>mf6vnod5y4x89w07p88sy3vz55qmrnw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:镜像页面</title>
+    <ns>10</ns>
+    <id>608</id>
+    <revision>
+      <id>2135</id>
+      <timestamp>2020-08-11T13:04:34Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{信息框 |border=green |image=镜像页面.png |type=镜像页面 |info=该词条搬运自{{{1}}}，并遵守[[CCBY-NC-SA3.0授权协议]]&lt;br&gt; 内容经过双方…”</comment>
+      <origin>2135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="op1xt131op1ymlxc1ojxb2nyhiss8n9" xml:space="preserve">{{信息框
+|border=green
+|image=镜像页面.png
+|type=镜像页面
+|info=该词条搬运自{{{1}}}，并遵守[[CCBY-NC-SA3.0授权协议]]&lt;br&gt;
+内容经过双方不同用户的修改后，可能会有较大差异。
+}}
+[[分类:镜像页面]]</text>
+      <sha1>op1xt131op1ymlxc1ojxb2nyhiss8n9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:需要补充</title>
+    <ns>10</ns>
+    <id>609</id>
+    <revision>
+      <id>2137</id>
+      <parentid>2136</parentid>
+      <timestamp>2020-08-28T07:52:55Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>2137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="125" sha1="3qvcco3o5nyqxg8c9rk06me6r7qp8lt" xml:space="preserve">{{信息框
+|border=Blue
+|image=需要补充.png
+|type=需要补充
+|info={{SITENAME}}需要您来提供更多的证据。
+}}</text>
+      <sha1>3qvcco3o5nyqxg8c9rk06me6r7qp8lt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>模板:魏家夫</title>
+    <ns>10</ns>
+    <id>610</id>
+    <revision>
+      <id>2138</id>
+      <timestamp>2020-06-26T05:39:37Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“[[文件:wjf.png|125px|右]] '''魏家夫''', B站id:温柔junz,知乎大V蛤蟆,2019百大up主,营销号,拥有一群祖安粉丝，炒作之皇。&lt;br&gt; 年幼时…”</comment>
+      <origin>2138</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1180" sha1="smxt7i127y80xdxdpriymzorbstgy4m" xml:space="preserve">[[文件:wjf.png|125px|右]]
+'''魏家夫''', B站id:温柔junz,知乎大V蛤蟆,2019百大up主,营销号,拥有一群祖安粉丝，炒作之皇。&lt;br&gt;
+年幼时的魏家夫家庭情况并不好,而且当时,魏家夫本人学习成绩非常的糟糕,几平科科成绩挂红灯,其本人逐渐对于中国某些地方滋生了厌恶感。在魏家夫磕磕绊绊勉强读完高中后,他选择了在19岁时辍学。然而他并没有选择打工赚钱这个道路,而是选择了成为知乎的一个蹭热度专栏写手,开启他罪恶的开始。&lt;br&gt;
+魏家夫跟当年许许多多的知乎大V蛤蟆一样,都选择了撕逼的方式急于变现,导致知乎时期的魏家夫非常遭人厌恶。&lt;br&gt;
+&lt;span style="font-size:17px;color:RED"&gt;几个月前,魏家夫在逸站平台发布动态哭喊娘的声称自己被出道,并且遭遇了大量的迫害信息,引起了十万甚至九万逸民的高度关注。在该文中魏家夫依然想要为自己树立“揭露豫章书院的主力英雄”形象,一点也不清楚他是啃人血馒头、揭豫章书院受害者伤疤、掐烂钱、跟风炒作四合一的人间之屑。&lt;/span&gt;&lt;br&gt;
+[[魏家夫|(完整文章)]]</text>
+      <sha1>smxt7i127y80xdxdpriymzorbstgy4m</sha1>
+    </revision>
+  </page>
+</mediawiki>

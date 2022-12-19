@@ -1,0 +1,2422 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN">
+  <siteinfo>
+    <sitename>恶俗百科</sitename>
+    <dbname>my_wiki</dbname>
+    <base>http://localhost:8080/index.php?title=%E9%A6%96%E9%A1%B5</base>
+    <generator>MediaWiki 1.39.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">媒体文件</namespace>
+      <namespace key="-1" case="first-letter">特殊</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">讨论</namespace>
+      <namespace key="2" case="first-letter">用户</namespace>
+      <namespace key="3" case="first-letter">用户讨论</namespace>
+      <namespace key="4" case="first-letter">恶俗百科</namespace>
+      <namespace key="5" case="first-letter">恶俗百科讨论</namespace>
+      <namespace key="6" case="first-letter">文件</namespace>
+      <namespace key="7" case="first-letter">文件讨论</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki讨论</namespace>
+      <namespace key="10" case="first-letter">模板</namespace>
+      <namespace key="11" case="first-letter">模板讨论</namespace>
+      <namespace key="12" case="first-letter">帮助</namespace>
+      <namespace key="13" case="first-letter">帮助讨论</namespace>
+      <namespace key="14" case="first-letter">分类</namespace>
+      <namespace key="15" case="first-letter">分类讨论</namespace>
+      <namespace key="828" case="first-letter">模块</namespace>
+      <namespace key="829" case="first-letter">模块讨论</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>事件</title>
+    <ns>0</ns>
+    <id>10</id>
+    <revision>
+      <id>19</id>
+      <timestamp>2020-08-18T01:28:01Z</timestamp>
+      <contributor>
+        <username>imported&gt;巴卫大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“*[[长安THO秘封AV事件]]”</comment>
+      <origin>19</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" sha1="nvkpsj9wr7com5hotki83jozb9kuxhv" xml:space="preserve">*[[长安THO秘封AV事件]]</text>
+      <sha1>nvkpsj9wr7com5hotki83jozb9kuxhv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>二线明星</title>
+    <ns>0</ns>
+    <id>11</id>
+    <revision>
+      <id>20</id>
+      <timestamp>2020-08-10T09:42:43Z</timestamp>
+      <contributor>
+        <username>imported&gt;藤狸喵喵子</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{分类板 |title=二线明星 |body= {{W}}'''吹牛土狗'''  [[王嘉豪]] | }}”</comment>
+      <origin>20</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="9nru9isjpq54wr1vq926gr55g52e6tr" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]
+|
+}}</text>
+      <sha1>9nru9isjpq54wr1vq926gr55g52e6tr</sha1>
+    </revision>
+    <revision>
+      <id>21</id>
+      <parentid>20</parentid>
+      <timestamp>2020-08-10T23:14:31Z</timestamp>
+      <contributor>
+        <username>imported&gt;巴卫大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>21</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="126" sha1="8pfoxjc5wl8zh3fgchkyso7sxrxwr3m" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]] 
+|
+}}</text>
+      <sha1>8pfoxjc5wl8zh3fgchkyso7sxrxwr3m</sha1>
+    </revision>
+    <revision>
+      <id>22</id>
+      <parentid>21</parentid>
+      <timestamp>2020-08-11T14:51:42Z</timestamp>
+      <contributor>
+        <username>imported&gt;藤狸喵喵子</username>
+        <id>0</id>
+      </contributor>
+      <origin>22</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="i1rjc29lh18i7f8oib7o0qti5agtgfy" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]]&lt;br&gt;
+{{W}}'''瞎骂疯狗'''  [[毕嘉诚]]
+|
+}}</text>
+      <sha1>i1rjc29lh18i7f8oib7o0qti5agtgfy</sha1>
+    </revision>
+    <revision>
+      <id>23</id>
+      <parentid>22</parentid>
+      <timestamp>2020-08-11T14:52:18Z</timestamp>
+      <contributor>
+        <username>imported&gt;藤狸喵喵子</username>
+        <id>0</id>
+      </contributor>
+      <origin>23</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="gfokzl5wtty6cq8deb7nv5yoh2zbxjt" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]]&lt;br&gt;
+{{W}}'''瞎骂低能'''  [[毕嘉诚]]
+|
+}}</text>
+      <sha1>gfokzl5wtty6cq8deb7nv5yoh2zbxjt</sha1>
+    </revision>
+    <revision>
+      <id>24</id>
+      <parentid>23</parentid>
+      <timestamp>2020-08-11T14:53:03Z</timestamp>
+      <contributor>
+        <username>imported&gt;藤狸喵喵子</username>
+        <id>0</id>
+      </contributor>
+      <origin>24</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="1g3fr9etjyn7taqjore88cc1ooyjcpz" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]]&lt;br&gt;&lt;br&gt;
+{{W}}'''瞎骂低能'''  [[毕嘉诚]]
+|
+}}</text>
+      <sha1>1g3fr9etjyn7taqjore88cc1ooyjcpz</sha1>
+    </revision>
+    <revision>
+      <id>25</id>
+      <parentid>24</parentid>
+      <timestamp>2020-08-11T14:53:57Z</timestamp>
+      <contributor>
+        <username>imported&gt;藤狸喵喵子</username>
+        <id>0</id>
+      </contributor>
+      <origin>25</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="125" sha1="jwvdxq0yw5t2pg83xkxs26hrpd0ulyh" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]]
+|
+}}</text>
+      <sha1>jwvdxq0yw5t2pg83xkxs26hrpd0ulyh</sha1>
+    </revision>
+    <revision>
+      <id>26</id>
+      <parentid>25</parentid>
+      <timestamp>2020-08-14T07:21:27Z</timestamp>
+      <contributor>
+        <username>imported&gt;犬吠九天</username>
+        <id>0</id>
+      </contributor>
+      <origin>26</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="fwfa9f5lksf9gr0aq5bin917im284gz" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]]&lt;br&gt;
+{{W}}'''精分大师'''  [[陈昊]]
+|
+}}</text>
+      <sha1>fwfa9f5lksf9gr0aq5bin917im284gz</sha1>
+    </revision>
+    <revision>
+      <id>27</id>
+      <parentid>26</parentid>
+      <timestamp>2020-08-14T07:21:41Z</timestamp>
+      <contributor>
+        <username>imported&gt;犬吠九天</username>
+        <id>0</id>
+      </contributor>
+      <origin>27</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="tkw7w5r2mu8la4cce6mf0t3dqwds0cf" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]]&lt;br&gt;
+{{W}}'''精分大师'''    [[陈昊]]
+|
+}}</text>
+      <sha1>tkw7w5r2mu8la4cce6mf0t3dqwds0cf</sha1>
+    </revision>
+    <revision>
+      <id>28</id>
+      <parentid>27</parentid>
+      <timestamp>2020-08-14T07:57:21Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <origin>28</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="208" sha1="cxb1d145b6fks0329rnjsc3bp8whe2a" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]]&lt;br&gt;
+{{W}}'''精分大师'''  [[陈昊]]&lt;br&gt;
+{{W}}'''石更科幻'''  [[刘慈欣]]
+|
+}}</text>
+      <sha1>cxb1d145b6fks0329rnjsc3bp8whe2a</sha1>
+    </revision>
+    <revision>
+      <id>29</id>
+      <parentid>28</parentid>
+      <timestamp>2020-08-14T08:02:17Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <origin>29</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="5602eobli0w0acp0dn8xjjzbqwpqr9s" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]]&lt;br&gt;
+{{W}}'''精分大师'''   [[陈昊]]&lt;br&gt;
+{{W}}'''石更科幻'''  [[刘慈欣]]&lt;br&gt;
+{{W}}'''甲亢病人'''  [[伏拉夫]]&lt;br&gt;|
+}}</text>
+      <sha1>5602eobli0w0acp0dn8xjjzbqwpqr9s</sha1>
+    </revision>
+    <revision>
+      <id>30</id>
+      <parentid>29</parentid>
+      <timestamp>2020-08-14T08:16:07Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <origin>30</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="295" sha1="33acwcj9xvk6l6izw1nh3aukqxug7ae" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]]&lt;br&gt;
+{{W}}'''精分大师'''   [[陈昊]]&lt;br&gt;
+{{W}}'''石更科幻'''  [[刘慈欣]]&lt;br&gt;
+{{W}}'''甲亢病人'''  [[伏拉夫]]&lt;br&gt;
+{{W}}'''德川家康'''  [[陈乾]]&lt;br&gt;|
+}}</text>
+      <sha1>33acwcj9xvk6l6izw1nh3aukqxug7ae</sha1>
+    </revision>
+    <revision>
+      <id>31</id>
+      <parentid>30</parentid>
+      <timestamp>2020-08-14T12:46:44Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <origin>31</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="336" sha1="o8cazuxm54f07ls1h5vq6kxyg4edfy3" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+{{W}}'''吹牛土狗'''  [[王嘉豪]]&lt;br&gt;
+{{W}}'''炼铜术士'''  [[潘昱航]]&lt;br&gt;
+{{W}}'''精分大师'''   [[陈昊]]&lt;br&gt;
+{{W}}'''石更科幻'''  [[刘慈欣]]&lt;br&gt;
+{{W}}'''甲亢病人'''  [[伏拉夫]]&lt;br&gt;
+{{W}}'''德川家康'''  [[陈乾]]&lt;br&gt;
+{{W}}'''上海特首'''  [[徐逸]]&lt;br&gt;
+|
+}}</text>
+      <sha1>o8cazuxm54f07ls1h5vq6kxyg4edfy3</sha1>
+    </revision>
+    <revision>
+      <id>32</id>
+      <parentid>31</parentid>
+      <timestamp>2020-08-17T16:11:05Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>32</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="tp32v8z8iejiea8m5f06rv5ui2m9spj" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+|{{分类框|吹牛土狗|王嘉豪}}
+{{分类框|炼铜术士|潘昱航}}
+{{分类框|精分大师|陈昊}}
+{{分类框|甲亢病人|}伏拉夫}
+{{分类框|石更科幻|刘慈欣}}
+{{分类框|德川家康|陈乾}}
+{{分类框|上海特首|徐逸}}
+}}</text>
+      <sha1>tp32v8z8iejiea8m5f06rv5ui2m9spj</sha1>
+    </revision>
+    <revision>
+      <id>33</id>
+      <parentid>32</parentid>
+      <timestamp>2020-08-17T16:11:33Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="291" sha1="bu5b2n3j1e51072rtryn4elogmn4zra" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+|{{分类框|吹牛土狗|王嘉豪}}
+{{分类框|炼铜术士|潘昱航}}
+{{分类框|精分大师|陈昊}}
+{{分类框|甲亢病人|伏拉夫}
+{{分类框|石更科幻|刘慈欣}}
+{{分类框|德川家康|陈乾}}
+{{分类框|上海特首|徐逸}}
+}}</text>
+      <sha1>bu5b2n3j1e51072rtryn4elogmn4zra</sha1>
+    </revision>
+    <revision>
+      <id>34</id>
+      <parentid>33</parentid>
+      <timestamp>2020-08-17T16:12:06Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>34</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="d88bztmtum6kbqtz1zxhbtm4d2odkhz" xml:space="preserve">{{分类板
+|title=二线明星
+|body=
+|{{分类框|吹牛土狗|王嘉豪}}
+{{分类框|炼铜术士|潘昱航}}
+{{分类框|精分大师|陈昊}}
+{{分类框|甲亢病人|伏拉夫}}
+{{分类框|石更科幻|刘慈欣}}
+{{分类框|德川家康|陈乾}}
+{{分类框|上海特首|徐逸}}
+}}</text>
+      <sha1>d88bztmtum6kbqtz1zxhbtm4d2odkhz</sha1>
+    </revision>
+    <revision>
+      <id>35</id>
+      <parentid>34</parentid>
+      <timestamp>2020-08-22T09:21:03Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>35</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="003opf7cht9d102c0g0om8pn1bongxv" xml:space="preserve">{{Portal}}
+{{分类板
+|title=二线明星
+|body=
+|{{分类框|吹牛土狗|王嘉豪}}
+{{分类框|炼铜术士|潘昱航}}
+{{分类框|精分大师|陈昊}}
+{{分类框|甲亢病人|伏拉夫}}
+{{分类框|石更科幻|刘慈欣}}
+{{分类框|德川家康|陈乾}}
+{{分类框|上海特首|徐逸}}
+}}</text>
+      <sha1>003opf7cht9d102c0g0om8pn1bongxv</sha1>
+    </revision>
+    <revision>
+      <id>36</id>
+      <parentid>35</parentid>
+      <timestamp>2020-08-22T18:05:09Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <origin>36</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="337" sha1="kp1k262mgz5iby4q7okn53pac6pc3nj" xml:space="preserve">{{Portal}}
+{{分类板
+|title=二线明星
+|body=
+|{{分类框|吹牛土狗|王嘉豪}}
+{{分类框|炼铜术士|潘昱航}}
+{{分类框|精分大师|陈昊}}
+{{分类框|甲亢病人|伏拉夫}}
+{{分类框|石更科幻|刘慈欣}}
+{{分类框|德川家康|陈乾}}
+{{分类框|上海特首|徐逸}}
+{{分类框|睿站君主|陈睿}}
+}}</text>
+      <sha1>kp1k262mgz5iby4q7okn53pac6pc3nj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>于文涛</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>37</id>
+      <timestamp>2020-08-10T14:57:24Z</timestamp>
+      <contributor>
+        <username>imported&gt;恶俗天才</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{当前事件}} {{需要补充}} {{禁止炒作}} {{注意备份}} {{未完待续}}  {{信息板 |titlename=于文涛 |photo=123.png |name=茄子 |class=初中生 |…”</comment>
+      <origin>37</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="331" sha1="n33w8aqkz6577imy46laiwib0nbkize" xml:space="preserve">{{当前事件}}
+{{需要补充}}
+{{禁止炒作}}
+{{注意备份}}
+{{未完待续}}
+
+{{信息板
+|titlename=于文涛
+|photo=123.png
+|name=茄子
+|class=初中生
+|ability=意淫&lt;br&gt;文爱&lt;br&gt;瞎骂
+|best=语音喷
+|hardness=★★★★★
+|dangerous=用社工库来出道你
+|IQ=-1
+|online=❤❤❤❤❤❤
+|affinity=恶俗
+}}</text>
+      <sha1>n33w8aqkz6577imy46laiwib0nbkize</sha1>
+    </revision>
+    <revision>
+      <id>38</id>
+      <parentid>37</parentid>
+      <timestamp>2020-08-10T15:06:20Z</timestamp>
+      <contributor>
+        <username>imported&gt;恶俗天才</username>
+        <id>0</id>
+      </contributor>
+      <origin>38</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="783" sha1="f0zezwakz29sljuccj2gba6ah0f1sw7" xml:space="preserve">{{当前事件}}
+{{需要补充}}
+{{禁止炒作}}
+{{注意备份}}
+{{未完待续}}
+
+{{信息板
+|titlename=于文涛
+|photo=123.png
+|name=茄子恶俗王
+|class=初中生
+|ability=二次元&lt;br&gt;文爱&lt;br&gt;瞎骂
+|best=语音喷
+|hardness=★★★★★
+|dangerous=用社工库来出道你
+|IQ=-1
+|online=❤❤❤❤❤❤
+|affinity=恶俗
+}}
+
+===事迹===
+==茄子诞生==
+2018年，彼时尚是一个萌萌二次元的于文涛在一次与陈占宇的语音视频中露脸，其长相酷似茄子。
+
+==建立社工库==
+2020年，已经成长为恶俗界泰斗的于文涛联合多方势力在tg上建立了123社工库，靠着每天免费2次的社工库搜索机制，引流了无数穷酸抽象小鬼。自此，'''恶俗 + 抽象'''时代的帷幕被于文涛正式拉开。</text>
+      <sha1>f0zezwakz29sljuccj2gba6ah0f1sw7</sha1>
+    </revision>
+    <revision>
+      <id>39</id>
+      <parentid>38</parentid>
+      <timestamp>2020-08-11T15:16:19Z</timestamp>
+      <contributor>
+        <username>imported&gt;恶俗天才</username>
+        <id>0</id>
+      </contributor>
+      <origin>39</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1424" sha1="2y8f0v0hkv95ije7y9guyoqadunmaa6" xml:space="preserve">{{当前事件}}
+{{需要补充}}
+{{禁止炒作}}
+{{注意备份}}
+{{未完待续}}
+
+{{信息板
+|titlename=于文涛
+|photo=123.png
+|name=茄子恶俗王
+|class=初中生
+|ability=二次元&lt;br&gt;文爱&lt;br&gt;瞎骂
+|best=语音喷
+|hardness=★★★★★
+|dangerous=用社工库来出道你
+|IQ=-1
+|online=❤❤❤❤❤❤
+|affinity=恶俗
+}}
+
+==于文涛2016==
+据神秘人士透露 于文涛自称的所谓2016年玩网老资历，其实是他2016年了注册了当时臭名昭著的小学生聚集地软件，炸妈盒子，也就是多玩我的世界盒子，开始接触互联网，网络聊天，也就是从那时候于文涛开始了mc痴子之路
+2016年到2018年期间 于文涛频繁在炸妈盒子送妈，于文涛才刚接触互联网就已经拥有了极强的送妈能力，笔者这里不得不赞其为送妈小天才
+在盒子送妈期间，于文涛以四处抬杠为乐，赢得骂声一片，而他本人却丝豪没有愧疚，称自己的抬杠行为是在和别人辩论
+
+==茄子诞生==
+2018年，彼时尚是一个萌萌二次元的于文涛在一次与陈占宇的语音视频中露脸，其长相酷似茄子。
+
+==建立社工库==
+2020年，已经成长为恶俗界泰斗的于文涛联合多方势力在tg上建立了123社工库，靠着每天免费2次的社工库搜索机制，引流了无数穷酸抽象小鬼。自此，'''恶俗 + 抽象'''时代的帷幕被于文涛正式拉开。</text>
+      <sha1>2y8f0v0hkv95ije7y9guyoqadunmaa6</sha1>
+    </revision>
+    <revision>
+      <id>40</id>
+      <parentid>39</parentid>
+      <timestamp>2020-08-12T19:41:17Z</timestamp>
+      <contributor>
+        <username>imported&gt;吴志海</username>
+        <id>0</id>
+      </contributor>
+      <origin>40</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1467" sha1="b13b4rfwf5fpymg9d547six1mnka9kw" xml:space="preserve">{{当前事件}}
+{{需要补充}}
+{{禁止炒作}}
+{{注意备份}}
+{{未完待续}}
+
+{{信息板
+|titlename=于文涛
+|photo=123.png
+|name=茄子恶俗王
+|class=初中生
+|ability=二次元&lt;br&gt;文爱&lt;br&gt;瞎骂
+|best=语音喷
+|hardness=★★★★★
+|dangerous=用社工库来出道你
+|IQ=-1
+|online=❤❤❤❤❤❤
+|affinity=恶俗
+}}
+==个人信息==
+[[文件:ywthj.jpg|120px]]
+==于文涛2016==
+据神秘人士透露 于文涛自称的所谓2016年玩网老资历，其实是他2016年了注册了当时臭名昭著的小学生聚集地软件，炸妈盒子，也就是多玩我的世界盒子，开始接触互联网，网络聊天，也就是从那时候于文涛开始了mc痴子之路
+2016年到2018年期间 于文涛频繁在炸妈盒子送妈，于文涛才刚接触互联网就已经拥有了极强的送妈能力，笔者这里不得不赞其为送妈小天才
+在盒子送妈期间，于文涛以四处抬杠为乐，赢得骂声一片，而他本人却丝豪没有愧疚，称自己的抬杠行为是在和别人辩论
+
+==茄子诞生==
+2018年，彼时尚是一个萌萌二次元的于文涛在一次与陈占宇的语音视频中露脸，其长相酷似茄子。
+
+==建立社工库==
+2020年，已经成长为恶俗界泰斗的于文涛联合多方势力在tg上建立了123社工库，靠着每天免费2次的社工库搜索机制，引流了无数穷酸抽象小鬼。自此，'''恶俗 + 抽象'''时代的帷幕被于文涛正式拉开。</text>
+      <sha1>b13b4rfwf5fpymg9d547six1mnka9kw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>于玥</title>
+    <ns>0</ns>
+    <id>13</id>
+    <revision>
+      <id>41</id>
+      <timestamp>2020-07-31T05:43:41Z</timestamp>
+      <contributor>
+        <username>imported&gt;额好</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“于玥( 1990.12.21 - )，黑龙江大庆人，先后毕业于大庆69中学（3班）、大庆实验中学（13班）、东北石油大学（原名大庆石油学院…”</comment>
+      <origin>41</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="493" sha1="2tz9dnkw13qg36v8ny94zjizpfonzym" xml:space="preserve">于玥( 1990.12.21 - )，黑龙江大庆人，先后毕业于大庆69中学（3班）、大庆实验中学（13班）、东北石油大学（原名大庆石油学院）。
+于玥是一名高产三俗歌手，歌词中充斥着各种性暗示和种种无节操元素，深受小学生喜爱。火烧农民配音工作室领袖，东三省漫展幕后大哥，漂白迈粉丝。作为东三省最有势力的肥宅，被皇军选中光复满洲，由于其出色的表现被誉为满洲战神。</text>
+      <sha1>2tz9dnkw13qg36v8ny94zjizpfonzym</sha1>
+    </revision>
+    <revision>
+      <id>42</id>
+      <parentid>41</parentid>
+      <timestamp>2020-08-01T08:02:49Z</timestamp>
+      <contributor>
+        <username>imported&gt;额好</username>
+        <id>0</id>
+      </contributor>
+      <origin>42</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="510" sha1="456jbi8kuy0i76ic187jsx5ug62p917" xml:space="preserve">于玥( 1990.12.21 - )，黑龙江大庆人，先后毕业于大庆69中学（3班）、大庆实验中学（13班）、东北石油大学（原名大庆石油学院）。
+于玥是一名高产三俗歌手，歌词中充斥着各种性暗示和种种无节操元素，深受小学生喜爱。火烧农民配音工作室领袖，东三省漫展幕后大哥，漂白迈粉丝。作为东三省最有势力的肥宅，被皇军选中光复满洲，由于其出色的表现被誉为满洲战神。
+
+
+
+
+
+&lt;comments/&gt;</text>
+      <sha1>456jbi8kuy0i76ic187jsx5ug62p917</sha1>
+    </revision>
+    <revision>
+      <id>43</id>
+      <parentid>42</parentid>
+      <timestamp>2020-08-14T15:41:14Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>43</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="518" sha1="6f6sp4g2f0dc8modvemllxv9hjh5u6v" xml:space="preserve">于玥( 1990.12.21 - )，黑龙江大庆人，先后毕业于大庆69中学（3班）、大庆实验中学（13班）、东北石油大学（原名大庆石油学院）。
+
+于玥是一名高产三俗歌手，歌词中充斥着各种性暗示和种种无节操元素，深受小学生喜爱。火烧农民配音工作室领袖，东三省漫展幕后大哥，漂白迈粉丝。作为东三省最有势力的肥宅，被皇军选中光复满洲，由于其出色的表现被誉为满洲战神。
+
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>6f6sp4g2f0dc8modvemllxv9hjh5u6v</sha1>
+    </revision>
+    <revision>
+      <id>44</id>
+      <parentid>43</parentid>
+      <timestamp>2020-08-14T15:44:49Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>44</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2476" sha1="afi78739giy0u7cjzehcu8idvilznem" xml:space="preserve">于玥( 1990.12.21 - )，黑龙江大庆人，先后毕业于大庆69中学（3班）、大庆实验中学（13班）、东北石油大学（原名大庆石油学院）。
+
+于玥是一名高产三俗歌手，歌词中充斥着各种性暗示和种种无节操元素，深受小学生喜爱。火烧农民配音工作室领袖，东三省漫展幕后大哥，漂白迈粉丝。作为东三省最有势力的肥宅，被皇军选中光复满洲，由于其出色的表现被誉为满洲战神。
+{{引言|网络世界我操你妈！！！你他妈把多少人的生活！！！都他妈毁了！！！|于玥}}
+==初露锋芒==
+于玥诞生于东北工业重市——大庆，家庭殷实，据于玥所说家里人很有后台，自幼爱好动画，喜欢中韩合作漫画《瑶玲啊瑶玲》。06年开始活跃于百度贴吧，ID为michael鸣ghost，主要活跃在瑶玲啊瑶玲吧。作为漂白迈粉丝，于玥在2006年就着手向歌坛进军，在大庆实验中学贴吧发帖《合作Michael Jackson舞蹈来找我》，不过无人响应。后来于玥暂离108室，认识了一些职人，开拓眼界后打着振兴国漫的旗号疯狂回归，号召多创作《瑶玲啊瑶玲》相关作品，自此走上翻唱配音的道路。
+
+于玥年纪轻轻便十分恶俗，引起很多人的不满。据考据，2007年3月就有人发贴揭露于玥黑历史，可惜帖子中的链接现已失效。不过07年这一时间值得推敲：于玥曾表示过自己17岁的时候推倒过12岁幼女，90年出生的于玥在07年正好17岁，同年7月，有人发表日志《Michael鸣Ghost你丫傻逼》怒批于玥。从此日志来看，酷爱文学的于玥有着爱品评文章的习惯，而且在07年就有着好战的本性。
+
+家庭殷实、好战、艹过幼女，少年于玥已具备金、暴力、性三种属性，这为于玥未来一统满洲打下了坚实的基础，而且从贴吧收到的"108室"也成为于玥第一支生力军。
+
+种种证据表明少年于玥是个爱好文学的青年，现摘录其主要作品：
+
+*《尾魂》
+*《绯日幻想》
+*《杀死瑶兰》
+*《108岛游记》
+*《他奶奶的！让不让我活了！！！！》
+*《悲伤的彼岸，并不是因为重温些什么……》
+*《终于还有不到一个周的世界了……》
+*《Michael Jackson, you are not along, you give me a world, I love you forever.》
+*《龙玉虎的〈Lost my pieces〉，让我感动……》
+
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>afi78739giy0u7cjzehcu8idvilznem</sha1>
+    </revision>
+    <revision>
+      <id>45</id>
+      <parentid>44</parentid>
+      <timestamp>2020-08-14T15:49:26Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>45</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6101" sha1="mc5ieh56tu462nmtkf0wuomaxr0aq06" xml:space="preserve">于玥( 1990.12.21 - )，黑龙江大庆人，先后毕业于大庆69中学（3班）、大庆实验中学（13班）、东北石油大学（原名大庆石油学院）。
+
+于玥是一名高产三俗歌手，歌词中充斥着各种性暗示和种种无节操元素，深受小学生喜爱。火烧农民配音工作室领袖，东三省漫展幕后大哥，漂白迈粉丝。作为东三省最有势力的肥宅，被皇军选中光复满洲，由于其出色的表现被誉为满洲战神。
+{{引言|网络世界我操你妈！！！你他妈把多少人的生活！！！都他妈毁了！！！|于玥}}
+==初露锋芒==
+于玥诞生于东北工业重市——大庆，家庭殷实，据于玥所说家里人很有后台，自幼爱好动画，喜欢中韩合作漫画《瑶玲啊瑶玲》。06年开始活跃于百度贴吧，ID为michael鸣ghost，主要活跃在瑶玲啊瑶玲吧。作为漂白迈粉丝，于玥在2006年就着手向歌坛进军，在大庆实验中学贴吧发帖《合作Michael Jackson舞蹈来找我》，不过无人响应。后来于玥暂离108室，认识了一些职人，开拓眼界后打着振兴国漫的旗号疯狂回归，号召多创作《瑶玲啊瑶玲》相关作品，自此走上翻唱配音的道路。
+
+于玥年纪轻轻便十分恶俗，引起很多人的不满。据考据，2007年3月就有人发贴揭露于玥黑历史，可惜帖子中的链接现已失效。不过07年这一时间值得推敲：于玥曾表示过自己17岁的时候推倒过12岁幼女，90年出生的于玥在07年正好17岁，同年7月，有人发表日志《Michael鸣Ghost你丫傻逼》怒批于玥。从此日志来看，酷爱文学的于玥有着爱品评文章的习惯，而且在07年就有着好战的本性。
+
+家庭殷实、好战、艹过幼女，少年于玥已具备金、暴力、性三种属性，这为于玥未来一统满洲打下了坚实的基础，而且从贴吧收到的"108室"也成为于玥第一支生力军。
+
+种种证据表明少年于玥是个爱好文学的青年，现摘录其主要作品：
+
+*《尾魂》
+*《绯日幻想》
+*《杀死瑶兰》
+*《108岛游记》
+*《他奶奶的！让不让我活了！！！！》
+*《悲伤的彼岸，并不是因为重温些什么……》
+*《终于还有不到一个周的世界了……》
+*《Michael Jackson, you are not along, you give me a world, I love you forever.》
+*《龙玉虎的〈Lost my pieces〉，让我感动……》
+==满洲至尊==
+2010年，于玥从内部着手掏空新语联盟，逼退其核心成员，并密谋夺权。10年内部面基会期间，于玥当众与女成员约炮，言论极度肉麻，引起众人反感。
+2012年，于玥作为末日祭“监督”加入末日祭合作群，因起初末日祭人手不足，自称是“拉皮条的”于玥妄图利用自己在圈中的人气拉拢音MAD制作者和伪RE观众。在兄贵末日祭制作期间并未履行“监督”的职责。某一次，在群内成员猫饭讨论非凡祭作品的时候，质疑猫饭为何不先做末日祭，并称“末日祭虽然发布时间比非凡祭晚，但组织时间比非凡祭早应该先做”。当猫饭表示“12个小时便可以出一个作品”后，要求其周末之内交稿。后两人发生口角并导致猫饭退群。之后其道歉，并称“为了反省，将监督之位让给主教”，但此时离发布时间仅有不到半个月。后因主催大妈学业繁重和作为监督的于玥工作不力，末日祭数十名参加者中只有不到十人交稿，另外于玥提出的“要加入音MAD以外类型的作品”由于他本人也未交稿而没能实现。所幸末日祭的题材是兄贵并未坠毁。
+2012年12月10日，网上传出一名翻唱“炒饭娘”的黑历史，据称其有不检点行为。于玥对此事发表了自己的真知灼见，批判了时年15岁的炒饭娘，辱骂其行为龌龊。而力之丸认为不应该一群人围攻一个未成年少女，两人在微博上对骂，导致力之丸对于玥评价坠毁。
+2013年02月20日，高仿ID神咸鬼呜于哔哩哔哩吧发布于玥的YY录音，内容主要为于玥飙垃圾话黑人。据传是由于两女勾心斗角，其中A女由于圈子广泛，勾结了于玥等人来批斗B女。高潮在后半部分，于玥等人逼迫B女掏空一个名叫无音声社的社团，其低劣的人性显露无疑。有人微博上发此音频并at力之丸，心虚的于玥以为力之丸也在黑自己，马上辱骂。力之丸弄清真相后，先是要求于玥道歉，但是于玥谎称“要睡觉”。力之丸一怒之下贴出了全新的于玥黑历史图，于玥一瞬清醒，要求力之丸删贴私了，并迫真道歉。于玥怀恨在心，暗中进行人肉搜索，查出了力之丸部分截图的提供者某女性。于玥随即发表著名的满洲漫展独立宣言，宣布对东三省漫展行使主权，指使手下暴力关照此人，将她从东三省漫展拆迁。此女无奈向力之丸求助，彻底激怒力之丸，双方宣告开战。
+
+分裂祖国的行径是不得人心的，正义人士纷纷将于玥黑历史私信发给力之丸，包括但不限于：
+*于玥性骚扰女性时使用的各种激寒肉麻发言。（60%篇幅）
+*于玥指点江山，表示自己上过各种年龄段的女性，最小的是某次险些推倒12岁幼女。于玥在公众场合辩称当时是在吹牛，然而根据其私聊言论确有此事。
+*于玥吹嘘自己初次开房就坚持了5小时，之后每次至少能坚持3小时。此为满洲战神名号之由来。
+*于玥逐个评价他曾染指的女性，包括新月冰冰、saber、晚香玉和韩光雨之妻。韩光雨对此事未置评论。
+*于玥自称开过38人的后宫。
+青岛主席马玉东参与讨论，对于玥的评价高速坠毁，表示不会认这种人当朋友，因此后来于玥向青岛势力求助未果。
+
+2013年3月10日，于玥无奈各路压力，第一次宣布退圈。然而同年4月2日，于玥便发布新作品，带着满洲战神的名号重出江湖。
+
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>mc5ieh56tu462nmtkf0wuomaxr0aq06</sha1>
+    </revision>
+    <revision>
+      <id>46</id>
+      <parentid>45</parentid>
+      <timestamp>2020-08-14T15:53:10Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>46</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7707" sha1="tk87cv8rgr6isalbqbd5iu1cegbrh8r" xml:space="preserve">于玥( 1990.12.21 - )，黑龙江大庆人，先后毕业于大庆69中学（3班）、大庆实验中学（13班）、东北石油大学（原名大庆石油学院）。
+
+于玥是一名高产三俗歌手，歌词中充斥着各种性暗示和种种无节操元素，深受小学生喜爱。火烧农民配音工作室领袖，东三省漫展幕后大哥，漂白迈粉丝。作为东三省最有势力的肥宅，被皇军选中光复满洲，由于其出色的表现被誉为满洲战神。
+{{引言|网络世界我操你妈！！！你他妈把多少人的生活！！！都他妈毁了！！！|于玥}}
+==初露锋芒==
+于玥诞生于东北工业重市——大庆，家庭殷实，据于玥所说家里人很有后台，自幼爱好动画，喜欢中韩合作漫画《瑶玲啊瑶玲》。06年开始活跃于百度贴吧，ID为michael鸣ghost，主要活跃在瑶玲啊瑶玲吧。作为漂白迈粉丝，于玥在2006年就着手向歌坛进军，在大庆实验中学贴吧发帖《合作Michael Jackson舞蹈来找我》，不过无人响应。后来于玥暂离108室，认识了一些职人，开拓眼界后打着振兴国漫的旗号疯狂回归，号召多创作《瑶玲啊瑶玲》相关作品，自此走上翻唱配音的道路。
+
+于玥年纪轻轻便十分恶俗，引起很多人的不满。据考据，2007年3月就有人发贴揭露于玥黑历史，可惜帖子中的链接现已失效。不过07年这一时间值得推敲：于玥曾表示过自己17岁的时候推倒过12岁幼女，90年出生的于玥在07年正好17岁，同年7月，有人发表日志《Michael鸣Ghost你丫傻逼》怒批于玥。从此日志来看，酷爱文学的于玥有着爱品评文章的习惯，而且在07年就有着好战的本性。
+
+家庭殷实、好战、艹过幼女，少年于玥已具备金、暴力、性三种属性，这为于玥未来一统满洲打下了坚实的基础，而且从贴吧收到的"108室"也成为于玥第一支生力军。
+
+种种证据表明少年于玥是个爱好文学的青年，现摘录其主要作品：
+
+*《尾魂》
+*《绯日幻想》
+*《杀死瑶兰》
+*《108岛游记》
+*《他奶奶的！让不让我活了！！！！》
+*《悲伤的彼岸，并不是因为重温些什么……》
+*《终于还有不到一个周的世界了……》
+*《Michael Jackson, you are not along, you give me a world, I love you forever.》
+*《龙玉虎的〈Lost my pieces〉，让我感动……》
+==满洲至尊==
+2010年，于玥从内部着手掏空新语联盟，逼退其核心成员，并密谋夺权。10年内部面基会期间，于玥当众与女成员约炮，言论极度肉麻，引起众人反感。
+2012年，于玥作为末日祭“监督”加入末日祭合作群，因起初末日祭人手不足，自称是“拉皮条的”于玥妄图利用自己在圈中的人气拉拢音MAD制作者和伪RE观众。在兄贵末日祭制作期间并未履行“监督”的职责。某一次，在群内成员猫饭讨论非凡祭作品的时候，质疑猫饭为何不先做末日祭，并称“末日祭虽然发布时间比非凡祭晚，但组织时间比非凡祭早应该先做”。当猫饭表示“12个小时便可以出一个作品”后，要求其周末之内交稿。后两人发生口角并导致猫饭退群。之后其道歉，并称“为了反省，将监督之位让给主教”，但此时离发布时间仅有不到半个月。后因主催大妈学业繁重和作为监督的于玥工作不力，末日祭数十名参加者中只有不到十人交稿，另外于玥提出的“要加入音MAD以外类型的作品”由于他本人也未交稿而没能实现。所幸末日祭的题材是兄贵并未坠毁。
+2012年12月10日，网上传出一名翻唱“炒饭娘”的黑历史，据称其有不检点行为。于玥对此事发表了自己的真知灼见，批判了时年15岁的炒饭娘，辱骂其行为龌龊。而力之丸认为不应该一群人围攻一个未成年少女，两人在微博上对骂，导致力之丸对于玥评价坠毁。
+2013年02月20日，高仿ID神咸鬼呜于哔哩哔哩吧发布于玥的YY录音，内容主要为于玥飙垃圾话黑人。据传是由于两女勾心斗角，其中A女由于圈子广泛，勾结了于玥等人来批斗B女。高潮在后半部分，于玥等人逼迫B女掏空一个名叫无音声社的社团，其低劣的人性显露无疑。有人微博上发此音频并at力之丸，心虚的于玥以为力之丸也在黑自己，马上辱骂。力之丸弄清真相后，先是要求于玥道歉，但是于玥谎称“要睡觉”。力之丸一怒之下贴出了全新的于玥黑历史图，于玥一瞬清醒，要求力之丸删贴私了，并迫真道歉。于玥怀恨在心，暗中进行人肉搜索，查出了力之丸部分截图的提供者某女性。于玥随即发表著名的满洲漫展独立宣言，宣布对东三省漫展行使主权，指使手下暴力关照此人，将她从东三省漫展拆迁。此女无奈向力之丸求助，彻底激怒力之丸，双方宣告开战。
+
+分裂祖国的行径是不得人心的，正义人士纷纷将于玥黑历史私信发给力之丸，包括但不限于：
+*于玥性骚扰女性时使用的各种激寒肉麻发言。（60%篇幅）
+*于玥指点江山，表示自己上过各种年龄段的女性，最小的是某次险些推倒12岁幼女。于玥在公众场合辩称当时是在吹牛，然而根据其私聊言论确有此事。
+*于玥吹嘘自己初次开房就坚持了5小时，之后每次至少能坚持3小时。此为满洲战神名号之由来。
+*于玥逐个评价他曾染指的女性，包括新月冰冰、saber、晚香玉和韩光雨之妻。韩光雨对此事未置评论。
+*于玥自称开过38人的后宫。
+青岛主席马玉东参与讨论，对于玥的评价高速坠毁，表示不会认这种人当朋友，因此后来于玥向青岛势力求助未果。
+
+2013年3月10日，于玥无奈各路压力，第一次宣布退圈。然而同年4月2日，于玥便发布新作品，带着满洲战神的名号重出江湖。
+==哲♂学妖精==
+提到哲♂学，首先想到的马玉东导师，第二个想到的就是于玥先辈。作为哲♂学界双子星，马玉东通过搬运成为原创大神，而于玥通过三俗歌词成为哲♂学楷模，提出了“大哲♂学时代”的伟大构想。后来又用矛盾的对立统一规律来解释了哲♂学是不是搞基。2012年开办哲♂学咖啡厅盈利，其女装扮相大获好评。在B站打压哲♂学时，审时度势，跪舔徐逸，诋毁豆泡、acfun，在捍卫徐逸时悟出了广电总局的审核规律：广电三次元审的严，二次元不审，所以里番新番给过，哲♂学视频就不给过。
+
+于玥发推文飙垃圾话，表示要杀人，果不其然有很多人转发黑他。于玥钓鱼成功，把转发黑他的人逐个拉黑。
+==Jubeat音游王==
+于玥at一位好友，表示“10级歌没到S，请别来挑战我谢谢”。对方表示要退坑，于玥迅速回复“怂逼，孬种，逃兵，阳痿男”。于玥此番恶意骚扰行为被视为其染指音游圈的第一步。
+
+经查证于玥自称的“10级S”水平实为『Far east nightbird』904279分，刚好压过S评价判定线（900000分）。此曲虽标为10级，实际难度甚至低于一些9级曲目，故经常被新手用来炫耀自己达到10级水平。于玥此番显摆行为再度引发圈内关于此曲是否应当降至9级的争议。
+
+于玥狡辩说是跟好友开玩笑，但并没回答他的行为是否出于装逼目的。于玥见舆论对他不利，削除了自己一系列发言。
+==近况==
+已经结婚。
+
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>tk87cv8rgr6isalbqbd5iu1cegbrh8r</sha1>
+    </revision>
+    <revision>
+      <id>47</id>
+      <parentid>46</parentid>
+      <timestamp>2020-08-14T15:54:07Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>47</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7710" sha1="s0on7nbttpnbnl7vpqave0gllxmb9a3" xml:space="preserve">于玥( 1990.12.21 - )，黑龙江大庆人，先后毕业于大庆69中学（3班）、大庆实验中学（13班）、东北石油大学（原名大庆石油学院）。
+
+于玥是一名高产三俗歌手，歌词中充斥着各种性暗示和种种无节操元素，深受小学生喜爱。火烧农民配音工作室领袖，东三省漫展幕后大哥，漂白迈粉丝。作为东三省最有势力的肥宅，被皇军选中光复满洲，由于其出色的表现被誉为满洲战神。
+{{引言|网络世界我操你妈！！！你他妈把多少人的生活！！！都他妈毁了！！！|于玥}}
+==初露锋芒==
+于玥诞生于东北工业重市——大庆，家庭殷实，据于玥所说家里人很有后台，自幼爱好动画，喜欢中韩合作漫画《瑶玲啊瑶玲》。06年开始活跃于百度贴吧，ID为michael鸣ghost，主要活跃在瑶玲啊瑶玲吧。作为漂白迈粉丝，于玥在2006年就着手向歌坛进军，在大庆实验中学贴吧发帖《合作Michael Jackson舞蹈来找我》，不过无人响应。后来于玥暂离108室，认识了一些职人，开拓眼界后打着振兴国漫的旗号疯狂回归，号召多创作《瑶玲啊瑶玲》相关作品，自此走上翻唱配音的道路。
+
+于玥年纪轻轻便十分恶俗，引起很多人的不满。据考据，2007年3月就有人发贴揭露于玥黑历史，可惜帖子中的链接现已失效。不过07年这一时间值得推敲：于玥曾表示过自己17岁的时候推倒过12岁幼女，90年出生的于玥在07年正好17岁，同年7月，有人发表日志《Michael鸣Ghost你丫傻逼》怒批于玥。从此日志来看，酷爱文学的于玥有着爱品评文章的习惯，而且在07年就有着好战的本性。
+
+家庭殷实、好战、艹过幼女，少年于玥已具备金、暴力、性三种属性，这为于玥未来一统满洲打下了坚实的基础，而且从贴吧收到的"108室"也成为于玥第一支生力军。
+
+种种证据表明少年于玥是个爱好文学的青年，现摘录其主要作品：
+
+*《尾魂》
+*《绯日幻想》
+*《杀死瑶兰》
+*《108岛游记》
+*《他奶奶的！让不让我活了！！！！》
+*《悲伤的彼岸，并不是因为重温些什么……》
+*《终于还有不到一个周的世界了……》
+*《Michael Jackson, you are not along, you give me a world, I love you forever.》
+*《龙玉虎的〈Lost my pieces〉，让我感动……》
+==满洲至尊==
+2010年，于玥从内部着手掏空新语联盟，逼退其核心成员，并密谋夺权。10年内部面基会期间，于玥当众与女成员约炮，言论极度肉麻，引起众人反感。
+2012年，于玥作为末日祭“监督”加入末日祭合作群，因起初末日祭人手不足，自称是“拉皮条的”于玥妄图利用自己在圈中的人气拉拢音MAD制作者和伪RE观众。在兄贵末日祭制作期间并未履行“监督”的职责。某一次，在群内成员猫饭讨论非凡祭作品的时候，质疑猫饭为何不先做末日祭，并称“末日祭虽然发布时间比非凡祭晚，但组织时间比非凡祭早应该先做”。当猫饭表示“12个小时便可以出一个作品”后，要求其周末之内交稿。后两人发生口角并导致猫饭退群。之后其道歉，并称“为了反省，将监督之位让给主教”，但此时离发布时间仅有不到半个月。后因主催大妈学业繁重和作为监督的于玥工作不力，末日祭数十名参加者中只有不到十人交稿，另外于玥提出的“要加入音MAD以外类型的作品”由于他本人也未交稿而没能实现。所幸末日祭的题材是兄贵并未坠毁。
+
+2012年12月10日，网上传出一名翻唱“炒饭娘”的黑历史，据称其有不检点行为。于玥对此事发表了自己的真知灼见，批判了时年15岁的炒饭娘，辱骂其行为龌龊。而力之丸认为不应该一群人围攻一个未成年少女，两人在微博上对骂，导致力之丸对于玥评价坠毁。
+
+2013年02月20日，高仿ID神咸鬼呜于哔哩哔哩吧发布于玥的YY录音，内容主要为于玥飙垃圾话黑人。据传是由于两女勾心斗角，其中A女由于圈子广泛，勾结了于玥等人来批斗B女。高潮在后半部分，于玥等人逼迫B女掏空一个名叫无音声社的社团，其低劣的人性显露无疑。有人微博上发此音频并at力之丸，心虚的于玥以为力之丸也在黑自己，马上辱骂。力之丸弄清真相后，先是要求于玥道歉，但是于玥谎称“要睡觉”。力之丸一怒之下贴出了全新的于玥黑历史图，于玥一瞬清醒，要求力之丸删贴私了，并迫真道歉。于玥怀恨在心，暗中进行人肉搜索，查出了力之丸部分截图的提供者某女性。于玥随即发表著名的满洲漫展独立宣言，宣布对东三省漫展行使主权，指使手下暴力关照此人，将她从东三省漫展拆迁。此女无奈向力之丸求助，彻底激怒力之丸，双方宣告开战。
+
+分裂祖国的行径是不得人心的，正义人士纷纷将于玥黑历史私信发给力之丸，包括但不限于：
+*于玥性骚扰女性时使用的各种激寒肉麻发言。（60%篇幅）
+*于玥指点江山，表示自己上过各种年龄段的女性，最小的是某次险些推倒12岁幼女。于玥在公众场合辩称当时是在吹牛，然而根据其私聊言论确有此事。
+*于玥吹嘘自己初次开房就坚持了5小时，之后每次至少能坚持3小时。此为满洲战神名号之由来。
+*于玥逐个评价他曾染指的女性，包括新月冰冰、saber、晚香玉和韩光雨之妻。韩光雨对此事未置评论。
+*于玥自称开过38人的后宫。
+青岛主席马玉东参与讨论，对于玥的评价高速坠毁，表示不会认这种人当朋友，因此后来于玥向青岛势力求助未果。
+
+2013年3月10日，于玥无奈各路压力，第一次宣布退圈。然而同年4月2日，于玥便发布新作品，带着满洲战神的名号重出江湖。
+
+==哲♂学妖精==
+提到哲♂学，首先想到的马玉东导师，第二个想到的就是于玥先辈。作为哲♂学界双子星，马玉东通过搬运成为原创大神，而于玥通过三俗歌词成为哲♂学楷模，提出了“大哲♂学时代”的伟大构想。后来又用矛盾的对立统一规律来解释了哲♂学是不是搞基。2012年开办哲♂学咖啡厅盈利，其女装扮相大获好评。在B站打压哲♂学时，审时度势，跪舔徐逸，诋毁豆泡、acfun，在捍卫徐逸时悟出了广电总局的审核规律：广电三次元审的严，二次元不审，所以里番新番给过，哲♂学视频就不给过。
+
+于玥发推文飙垃圾话，表示要杀人，果不其然有很多人转发黑他。于玥钓鱼成功，把转发黑他的人逐个拉黑。
+==Jubeat音游王==
+于玥at一位好友，表示“10级歌没到S，请别来挑战我谢谢”。对方表示要退坑，于玥迅速回复“怂逼，孬种，逃兵，阳痿男”。于玥此番恶意骚扰行为被视为其染指音游圈的第一步。
+
+经查证于玥自称的“10级S”水平实为『Far east nightbird』904279分，刚好压过S评价判定线（900000分）。此曲虽标为10级，实际难度甚至低于一些9级曲目，故经常被新手用来炫耀自己达到10级水平。于玥此番显摆行为再度引发圈内关于此曲是否应当降至9级的争议。
+
+于玥狡辩说是跟好友开玩笑，但并没回答他的行为是否出于装逼目的。于玥见舆论对他不利，削除了自己一系列发言。
+==近况==
+已经结婚。
+
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>s0on7nbttpnbnl7vpqave0gllxmb9a3</sha1>
+    </revision>
+    <revision>
+      <id>48</id>
+      <parentid>47</parentid>
+      <timestamp>2020-08-26T16:58:13Z</timestamp>
+      <contributor>
+        <username>imported&gt;Litm</username>
+        <id>0</id>
+      </contributor>
+      <origin>48</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7718" sha1="k88jdoyrf6dy5dfcjersg5gjtzxjsix" xml:space="preserve">于玥( 1990.12.21 - )，黑龙江大庆人，先后毕业于大庆69中学（3班）、大庆实验中学（13班）、东北石油大学（原名大庆石油学院）。
+
+于玥是一名高产三俗歌手，歌词中充斥着各种性暗示和种种无节操元素，深受小学生喜爱。火烧农民配音工作室领袖，东三省漫展幕后大哥，漂白迈粉丝。作为东三省最有势力的肥宅，被皇军选中光复满洲，由于其出色的表现被誉为满洲战神。
+{{引言|网络世界我操你妈！！！你他妈把多少人的生活！！！都他妈毁了！！！|于玥}}
+==初露锋芒==
+于玥诞生于东北工业重市——大庆，家庭殷实，据于玥所说家里人很有后台，自幼爱好动画，喜欢中韩合作漫画《瑶玲啊瑶玲》。06年开始活跃于百度贴吧，ID为michael鸣ghost，主要活跃在瑶玲啊瑶玲吧。作为漂白迈粉丝，于玥在2006年就着手向歌坛进军，在大庆实验中学贴吧发帖《合作Michael Jackson舞蹈来找我》，不过无人响应。后来于玥暂离108室，认识了一些职人，开拓眼界后打着振兴国漫的旗号疯狂回归，号召多创作《瑶玲啊瑶玲》相关作品，自此走上翻唱配音的道路。
+
+于玥年纪轻轻便十分恶俗，引起很多人的不满。据考据，2007年3月就有人发贴揭露于玥黑历史，可惜帖子中的链接现已失效。不过07年这一时间值得推敲：于玥曾表示过自己17岁的时候推倒过12岁幼女，90年出生的于玥在07年正好17岁，同年7月，有人发表日志《Michael鸣Ghost你丫傻逼》怒批于玥。从此日志来看，酷爱文学的于玥有着爱品评文章的习惯，而且在07年就有着好战的本性。
+
+家庭殷实、好战、艹过幼女，少年于玥已具备金、暴力、性三种属性，这为于玥未来一统满洲打下了坚实的基础，而且从贴吧收到的"108室"也成为于玥第一支生力军。
+
+种种证据表明少年于玥是个爱好文学的青年，现摘录其主要作品：
+
+*《尾魂》
+*《绯日幻想》
+*《杀死瑶兰》
+*[[《108岛游记》]]
+*[[《他奶奶的！让不让我活了！！！！》]]
+*《悲伤的彼岸，并不是因为重温些什么……》
+*《终于还有不到一个周的世界了……》
+*《Michael Jackson, you are not along, you give me a world, I love you forever.》
+*《龙玉虎的〈Lost my pieces〉，让我感动……》
+==满洲至尊==
+2010年，于玥从内部着手掏空新语联盟，逼退其核心成员，并密谋夺权。10年内部面基会期间，于玥当众与女成员约炮，言论极度肉麻，引起众人反感。
+2012年，于玥作为末日祭“监督”加入末日祭合作群，因起初末日祭人手不足，自称是“拉皮条的”于玥妄图利用自己在圈中的人气拉拢音MAD制作者和伪RE观众。在兄贵末日祭制作期间并未履行“监督”的职责。某一次，在群内成员猫饭讨论非凡祭作品的时候，质疑猫饭为何不先做末日祭，并称“末日祭虽然发布时间比非凡祭晚，但组织时间比非凡祭早应该先做”。当猫饭表示“12个小时便可以出一个作品”后，要求其周末之内交稿。后两人发生口角并导致猫饭退群。之后其道歉，并称“为了反省，将监督之位让给主教”，但此时离发布时间仅有不到半个月。后因主催大妈学业繁重和作为监督的于玥工作不力，末日祭数十名参加者中只有不到十人交稿，另外于玥提出的“要加入音MAD以外类型的作品”由于他本人也未交稿而没能实现。所幸末日祭的题材是兄贵并未坠毁。
+
+2012年12月10日，网上传出一名翻唱“炒饭娘”的黑历史，据称其有不检点行为。于玥对此事发表了自己的真知灼见，批判了时年15岁的炒饭娘，辱骂其行为龌龊。而力之丸认为不应该一群人围攻一个未成年少女，两人在微博上对骂，导致力之丸对于玥评价坠毁。
+
+2013年02月20日，高仿ID神咸鬼呜于哔哩哔哩吧发布于玥的YY录音，内容主要为于玥飙垃圾话黑人。据传是由于两女勾心斗角，其中A女由于圈子广泛，勾结了于玥等人来批斗B女。高潮在后半部分，于玥等人逼迫B女掏空一个名叫无音声社的社团，其低劣的人性显露无疑。有人微博上发此音频并at力之丸，心虚的于玥以为力之丸也在黑自己，马上辱骂。力之丸弄清真相后，先是要求于玥道歉，但是于玥谎称“要睡觉”。力之丸一怒之下贴出了全新的于玥黑历史图，于玥一瞬清醒，要求力之丸删贴私了，并迫真道歉。于玥怀恨在心，暗中进行人肉搜索，查出了力之丸部分截图的提供者某女性。于玥随即发表著名的满洲漫展独立宣言，宣布对东三省漫展行使主权，指使手下暴力关照此人，将她从东三省漫展拆迁。此女无奈向力之丸求助，彻底激怒力之丸，双方宣告开战。
+
+分裂祖国的行径是不得人心的，正义人士纷纷将于玥黑历史私信发给力之丸，包括但不限于：
+*于玥性骚扰女性时使用的各种激寒肉麻发言。（60%篇幅）
+*于玥指点江山，表示自己上过各种年龄段的女性，最小的是某次险些推倒12岁幼女。于玥在公众场合辩称当时是在吹牛，然而根据其私聊言论确有此事。
+*于玥吹嘘自己初次开房就坚持了5小时，之后每次至少能坚持3小时。此为满洲战神名号之由来。
+*于玥逐个评价他曾染指的女性，包括新月冰冰、saber、晚香玉和韩光雨之妻。韩光雨对此事未置评论。
+*于玥自称开过38人的后宫。
+青岛主席马玉东参与讨论，对于玥的评价高速坠毁，表示不会认这种人当朋友，因此后来于玥向青岛势力求助未果。
+
+2013年3月10日，于玥无奈各路压力，第一次宣布退圈。然而同年4月2日，于玥便发布新作品，带着满洲战神的名号重出江湖。
+
+==哲♂学妖精==
+提到哲♂学，首先想到的马玉东导师，第二个想到的就是于玥先辈。作为哲♂学界双子星，马玉东通过搬运成为原创大神，而于玥通过三俗歌词成为哲♂学楷模，提出了“大哲♂学时代”的伟大构想。后来又用矛盾的对立统一规律来解释了哲♂学是不是搞基。2012年开办哲♂学咖啡厅盈利，其女装扮相大获好评。在B站打压哲♂学时，审时度势，跪舔徐逸，诋毁豆泡、acfun，在捍卫徐逸时悟出了广电总局的审核规律：广电三次元审的严，二次元不审，所以里番新番给过，哲♂学视频就不给过。
+
+于玥发推文飙垃圾话，表示要杀人，果不其然有很多人转发黑他。于玥钓鱼成功，把转发黑他的人逐个拉黑。
+==Jubeat音游王==
+于玥at一位好友，表示“10级歌没到S，请别来挑战我谢谢”。对方表示要退坑，于玥迅速回复“怂逼，孬种，逃兵，阳痿男”。于玥此番恶意骚扰行为被视为其染指音游圈的第一步。
+
+经查证于玥自称的“10级S”水平实为『Far east nightbird』904279分，刚好压过S评价判定线（900000分）。此曲虽标为10级，实际难度甚至低于一些9级曲目，故经常被新手用来炫耀自己达到10级水平。于玥此番显摆行为再度引发圈内关于此曲是否应当降至9级的争议。
+
+于玥狡辩说是跟好友开玩笑，但并没回答他的行为是否出于装逼目的。于玥见舆论对他不利，削除了自己一系列发言。
+==近况==
+已经结婚。
+
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>k88jdoyrf6dy5dfcjersg5gjtzxjsix</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>付申虎</title>
+    <ns>0</ns>
+    <id>14</id>
+    <revision>
+      <id>49</id>
+      <timestamp>2020-07-30T15:00:53Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{需要补充}} 付申虎，b站id：虎子的后半生，是让b站成为癌症论坛的领头羊之一，其为自己塑造的形象是一位得了癌症的可怜…”</comment>
+      <origin>49</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1990" sha1="0d1wrqa2z1sqpcrjqbrwtcfu6ont3xe" xml:space="preserve">{{需要补充}}
+付申虎，b站id：虎子的后半生，是让b站成为癌症论坛的领头羊之一，其为自己塑造的形象是一位得了癌症的可怜人,需每时每刻插着那两根管子，在其以为可以靠卖惨来度过自己的后半生时被人扒出了吃火锅的照片，其人物形象一瞬崩塌，成为了b站现争议最大的up。
+{{信息板
+|titlename=付申虎
+|photo=hz.png
+|photocap=癌 症 患 者
+|name=付申虎
+|id=虎子的后半生
+|class=无业
+|ability=卖惨&lt;br&gt;骗钱
+|best=
+|hardness=1
+|dangerous=1
+|IQ=50
+|online=5
+|affinity=p站癌症区up
+}}
+
+== 个人信息 ==
+* 姓名:付申虎
+* 生日:1979-07-26
+* 神风代码:370703********0314（为保护当事人隐私，故隐去8位）
+* 互动热线:*3700466663（为保护当事人隐私，故隐去1位）
+
+==骗钱之路==
+
+===奢侈生活===
+5月末，付申虎被人爆出了大众点评账号，其账号名为“我的小橘子幸福”。
+
+该账号所发布的动态显示，其在2017年至19年12月30之间，即其确诊肺癌晚期之后（他声称自己抗癌四年半），其仍然高频率地大吃各种麻辣火锅和各种海鲜，四处自驾游，住2000块一晚的酒店，做足疗按摩。
+
+这个达人号的动态还显示，虎子有一辆宝马车，有他去宝马4S店保养的记录，而且两年前还18次打卡烟酒店去买烟和槟榔。
+
+[[文件:hzchg|缩略图|虎子吃火锅]]
+
+===光速痊愈===
+2019年12月25日，其在b站发视频称病的吃不下饭，下不了床，可是大众点评显示，仅仅两天后，他就和家人高高兴兴去吃麻辣火锅了。
+
+===“霸王餐”===
+其声称自己之所以在大众点评高频率用餐，是因为其在大众点评积极抽奖换来了上百次的霸王餐，用餐时没有花费自己一分钱。但后续经过大众点评官方核实，其真实霸王餐中奖数仅为个位数，所谓的中奖上百次完全是无稽之谈。
+[[文件:dzdp.png|缩略图|官方评论]]</text>
+      <sha1>0d1wrqa2z1sqpcrjqbrwtcfu6ont3xe</sha1>
+    </revision>
+    <revision>
+      <id>50</id>
+      <parentid>49</parentid>
+      <timestamp>2020-07-30T15:04:50Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>50</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2013" sha1="oo64qtl3kecuwbxj938u4ooqwolnke8" xml:space="preserve">{{需要补充}}
+付申虎，b站id：虎子的后半生，是让b站成为癌症论坛的领头羊之一，其为自己塑造的形象是一位得了癌症的可怜人,需每时每刻插着那两根管子，在其以为可以靠卖惨来度过自己的后半生时被人扒出了吃火锅的照片，其人物形象一瞬崩塌，成为了b站现争议最大的up。
+{{信息板
+|titlename=付申虎
+|photo=hz.png
+|photocap=癌 症 患 者
+|name=付申虎
+|id=虎子的后半生
+|class=无业
+|ability=卖惨&lt;br&gt;骗钱
+|best=
+|hardness=1
+|dangerous=1
+|IQ=50
+|online=5
+|affinity=p站癌症区up
+}}
+
+== 个人信息 ==
+* 姓名:付申虎
+* 生日:1979-07-26
+* 神风代码:370703********0314（为保护当事人隐私，故隐去8位）
+* 互动热线:*3700466663（为保护当事人隐私，故隐去1位）
+
+==骗钱之路==
+
+===奢侈生活===
+5月末，付申虎被人爆出了大众点评账号，其账号名为“我的小橘子幸福”。
+
+该账号所发布的动态显示，其在2017年至19年12月30之间，即其确诊肺癌晚期之后（他声称自己抗癌四年半），其仍然高频率地大吃各种麻辣火锅和各种海鲜，四处自驾游，住2000块一晚的酒店，做足疗按摩。
+
+这个达人号的动态还显示，虎子有一辆宝马车，有他去宝马4S店保养的记录，而且两年前还18次打卡烟酒店去买烟和槟榔。
+
+[[文件:hzchg|缩略图|虎子吃火锅]]
+
+===光速痊愈===
+2019年12月25日，其在b站发视频称病的吃不下饭，下不了床，可是大众点评显示，仅仅两天后，他就和家人高高兴兴去吃麻辣火锅了。
+
+===“霸王餐”===
+其声称自己之所以在大众点评高频率用餐，是因为其在大众点评积极抽奖换来了上百次的霸王餐，用餐时没有花费自己一分钱。但后续经过大众点评官方核实，其真实霸王餐中奖数仅为个位数，所谓的中奖上百次完全是无稽之谈。
+[[文件:dzdp.png|缩略图|官方评论]]
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>oo64qtl3kecuwbxj938u4ooqwolnke8</sha1>
+    </revision>
+    <revision>
+      <id>51</id>
+      <parentid>50</parentid>
+      <timestamp>2020-07-31T06:58:40Z</timestamp>
+      <contributor>
+        <username>imported&gt;额好</username>
+        <id>0</id>
+      </contributor>
+      <origin>51</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2082" sha1="ft29q9v5e5i1bk44of03hgcioi542ez" xml:space="preserve">{{需要补充}}
+{{引言|阿龙海鲜，环境优雅|付申虎}}
+付申虎，b站id：虎子的后半生，是让b站成为癌症论坛的领头羊之一，其为自己塑造的形象是一位得了癌症的可怜人,需每时每刻插着那两根管子，在其以为可以靠卖惨来度过自己的后半生时被人扒出了吃火锅的照片，其人物形象一瞬崩塌，成为了b站现争议最大的up。
+{{信息板
+|titlename=付申虎
+|photo=hz.png
+|photocap=癌 症 患 者
+|name=付申虎
+|id=虎子的后半生
+|class=无业
+|ability=卖惨&lt;br&gt;骗钱
+|best=
+|hardness=1
+|dangerous=1
+|IQ=50
+|online=5
+|affinity=p站癌症区up主
+}}
+
+== 个人信息 ==
+* 姓名:付申虎
+* 生日:1979-07-26
+* QQ： 29161556
+* 神风代码:370703********0314（为保护当事人隐私，故隐去8位）
+* 互动热线:*3700466663（为保护当事人隐私，故隐去1位）
+
+==骗钱之路==
+
+===奢侈生活===
+5月末，付申虎被人爆出了大众点评账号，其账号名为“我的小橘子幸福”。
+
+该账号所发布的动态显示，其在2017年至19年12月30之间，即其确诊肺癌晚期之后（他声称自己抗癌四年半），其仍然高频率地大吃各种麻辣火锅和各种海鲜，四处自驾游，住2000块一晚的酒店，做足疗按摩。
+
+这个达人号的动态还显示，虎子有一辆宝马车，有他去宝马4S店保养的记录，而且两年前还18次打卡烟酒店去买烟和槟榔。
+
+[[文件:hzchg|缩略图|虎子吃火锅]]
+
+===光速痊愈===
+2019年12月25日，其在b站发视频称病的吃不下饭，下不了床，可是大众点评显示，仅仅两天后，他就和家人高高兴兴去吃麻辣火锅了。
+
+===“霸王餐”===
+其声称自己之所以在大众点评高频率用餐，是因为其在大众点评积极抽奖换来了上百次的霸王餐，用餐时没有花费自己一分钱。但后续经过大众点评官方核实，其真实霸王餐中奖数仅为个位数，所谓的中奖上百次完全是无稽之谈。
+[[文件:dzdp.png|缩略图|官方评论]]
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>ft29q9v5e5i1bk44of03hgcioi542ez</sha1>
+    </revision>
+    <revision>
+      <id>52</id>
+      <parentid>51</parentid>
+      <timestamp>2020-08-18T09:21:58Z</timestamp>
+      <contributor>
+        <ip>114.96.147.53</ip>
+      </contributor>
+      <origin>52</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2109" sha1="59npt2eh3tn9jpibgulyftz0hbnp408" xml:space="preserve">{{需要补充}}
+{{引言|阿龙海鲜，环境优雅|付申虎}}
+付申虎，b站id：虎子的后半生，是让b站成为癌症论坛的领头羊之一，其为自己塑造的形象是一位得了癌症的可怜人,需每时每刻插着那两根管子，在其以为可以靠卖惨来度过自己的后半生时被人扒出了吃火锅的照片，其人物形象一瞬崩塌，成为了b站现争议最大的up。
+{{信息板
+|titlename=付申虎
+|photo=hz.png
+|photocap=癌 症 患 者
+|name=付申虎
+|id=虎子的后半生
+|class=无业
+|ability=卖惨&lt;br&gt;骗钱
+|best=
+|hardness=1
+|dangerous=1
+|IQ=50
+|online=5
+|affinity=p站癌症区up主
+}}
+
+== 个人信息 ==
+* 姓名:付申虎
+* 生日:1979-07-26
+* QQ： 29161556
+* 神风代码:370703********0314（为保护当事人隐私，故隐去8位）
+* 互动热线:*3700466663（为保护当事人隐私，故隐去1位）
+* 亲儿姓名：付家豪
+
+==骗钱之路==
+
+===奢侈生活===
+5月末，付申虎被人爆出了大众点评账号，其账号名为“我的小橘子幸福”。
+
+该账号所发布的动态显示，其在2017年至19年12月30之间，即其确诊肺癌晚期之后（他声称自己抗癌四年半），其仍然高频率地大吃各种麻辣火锅和各种海鲜，四处自驾游，住2000块一晚的酒店，做足疗按摩。
+
+这个达人号的动态还显示，虎子有一辆宝马车，有他去宝马4S店保养的记录，而且两年前还18次打卡烟酒店去买烟和槟榔。
+
+[[文件:hzchg|缩略图|虎子吃火锅]]
+
+===光速痊愈===
+2019年12月25日，其在b站发视频称病的吃不下饭，下不了床，可是大众点评显示，仅仅两天后，他就和家人高高兴兴去吃麻辣火锅了。
+
+===“霸王餐”===
+其声称自己之所以在大众点评高频率用餐，是因为其在大众点评积极抽奖换来了上百次的霸王餐，用餐时没有花费自己一分钱。但后续经过大众点评官方核实，其真实霸王餐中奖数仅为个位数，所谓的中奖上百次完全是无稽之谈。
+[[文件:dzdp.png|缩略图|官方评论]]
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>59npt2eh3tn9jpibgulyftz0hbnp408</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>伏拉夫</title>
+    <ns>0</ns>
+    <id>15</id>
+    <revision>
+      <id>53</id>
+      <timestamp>2020-08-14T07:27:04Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“{{当前事件}} {{禁止炒作}} {{注意备份}} {{信息框 |border=red |image=搬运工.png |type=搬运工 |info=该词条部分信息来源于萌娘百科（…”</comment>
+      <origin>53</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2522" sha1="t31klhrory0zl5awbi1srieq6y2zccp" xml:space="preserve">{{当前事件}}
+{{禁止炒作}}
+{{注意备份}}
+{{信息框
+|border=red
+|image=搬运工.png
+|type=搬运工
+|info=该词条部分信息来源于萌娘百科（已删除）,侵删。
+}}
+{{引言|百香果火鍋！不好吃！加中國的料！！！好吃！！！！！|伏拉夫}}
+
+{{信息板
+|photo=伏拉夫大头照.jpg
+|photocap=24岁，是（）
+|name=伏拉迪斯拉夫·尤利耶維奇·科科列夫斯基&lt;br&gt;Vladislav Yur'evich Kokolevskii&lt;br&gt;Владислав Юрьевич Коколевский 
+|class=抖音up主
+|hardness=1
+|IQ=65
+|online=100
+|affinity=甲亢病人
+}}伏拉夫是一名活躍於抖音的UP主，因其在“愛國”系列短視頻中的誇張演出而流行於亞文化圈。
+
+==简介==
+伏拉夫，抖音UP主，主要在抖音平台上發布“愛中國”系列短視頻，在早期也發布過【正常向】的品酒視頻和各種自制情景劇。
+
+在“愛中國”系列中，伏拉夫通過宣讀“誇讚”中國事物的台詞，配以擠眉弄眼、提高嗓音等誇張的甲亢動作來“表達”其本人對於中國的“熱愛”。由於伏拉夫在作品裡的表演過於浮誇，他與“愛國”本篇開始被部分網民嘲諷、惡搞，並逐漸發展為模因。 
+
+==个人经历==
+
+伏拉夫今年24歲&lt;s&gt;（是學生）&lt;/s&gt;，目前與其50多歲的韓國籍妻子在中國大陸生活。伏拉夫自稱以創業為目的入華，後就讀並以留學生第一的成績畢業於北京語言大學。之後他在中國邂逅了他現在的韓國籍妻子，並一起就地創業。
+
+根據已有的資料，伏拉夫在開始創作“愛國”系列前，曾經多次創業，比如做中華小吃店，做洋酒代理商，但都以失敗收場。 
+
+==主要作品==
+* “愛中國”系列短視頻
+* 美食品鑑系列
+
+==语录==
+*百香果火鍋！不好吃！加中國的料！！！好吃！！！！！
+*我有個朋友 說了句話 外國人分兩種 第一 是來了中國旅遊 玩玩就走的 第二種 來了中國 愛上了中國！就離不開了！決定定居這裡！我就是屬於 第二種！我就要定居中國！
+*很快就到你家門口
+*我一直都用華為手機啊&lt;block&gt;然而在他的視頻里經常拿着蘋果手機&lt;/block&gt;
+*我↑們↓中→國↑真↑的→是↑太↑厲↑害↑了↑
+
+==影响==
+
+*在“愛國”本篇中，伏拉夫頻繁地採用音樂製作人Sand創作的電子音樂CHINA-2作為BGM，導致該曲連同伏拉夫一起風評被害，並獲得了“伏拉夫處刑曲”的外號。</text>
+      <sha1>t31klhrory0zl5awbi1srieq6y2zccp</sha1>
+    </revision>
+    <revision>
+      <id>54</id>
+      <parentid>53</parentid>
+      <timestamp>2020-08-14T07:46:21Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <origin>54</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2505" sha1="lojmln982z8mu95p8fq5c89oj5pb7er" xml:space="preserve">{{当前事件}}
+{{注意备份}}
+{{信息框
+|border=red
+|image=搬运工.png
+|type=搬运工
+|info=该词条部分信息来源于萌娘百科（已删除）,侵删。
+}}
+{{引言|百香果火鍋！不好吃！加中國的料！！！好吃！！！！！|伏拉夫}}
+
+{{信息板
+|photo=伏拉夫大头照.jpg
+|photocap=24岁，是（）
+|name=伏拉迪斯拉夫·尤利耶維奇·科科列夫斯基&lt;br&gt;Vladislav Yur'evich Kokolevskii&lt;br&gt;Владислав Юрьевич Коколевский 
+|class=抖音up主
+|hardness=1
+|IQ=65
+|online=100
+|affinity=甲亢病人
+}}伏拉夫是一名活躍於抖音的UP主，因其在“愛國”系列短視頻中的誇張演出而流行於亞文化圈。
+
+==简介==
+伏拉夫，抖音UP主，主要在抖音平台上發布“愛中國”系列短視頻，在早期也發布過【正常向】的品酒視頻和各種自制情景劇。
+
+在“愛中國”系列中，伏拉夫通過宣讀“誇讚”中國事物的台詞，配以擠眉弄眼、提高嗓音等誇張的甲亢動作來“表達”其本人對於中國的“熱愛”。由於伏拉夫在作品裡的表演過於浮誇，他與“愛國”本篇開始被部分網民嘲諷、惡搞，並逐漸發展為模因。 
+
+==个人经历==
+
+伏拉夫今年24歲&lt;s&gt;（是學生）&lt;/s&gt;，目前與其50多歲的韓國籍妻子在中國大陸生活。伏拉夫自稱以創業為目的入華，後就讀並以留學生第一的成績畢業於北京語言大學。之後他在中國邂逅了他現在的韓國籍妻子，並一起就地創業。
+
+根據已有的資料，伏拉夫在開始創作“愛國”系列前，曾經多次創業，比如做中華小吃店，做洋酒代理商，但都以失敗收場。 
+
+==主要作品==
+* “愛中國”系列短視頻
+* 美食品鑑系列
+
+==语录==
+*百香果火鍋！不好吃！加中國的料！！！好吃！！！！！
+*我有個朋友 說了句話 外國人分兩種 第一 是來了中國旅遊 玩玩就走的 第二種 來了中國 愛上了中國！就離不開了！決定定居這裡！我就是屬於 第二種！我就要定居中國！
+*很快就到你家門口
+*我一直都用華為手機啊&lt;block&gt;然而在他的視頻里經常拿着蘋果手機&lt;/block&gt;
+*我↑們↓中→國↑真↑的→是↑太↑厲↑害↑了↑
+
+==影响==
+
+*在“愛國”本篇中，伏拉夫頻繁地採用音樂製作人Sand創作的電子音樂CHINA-2作為BGM，導致該曲連同伏拉夫一起風評被害，並獲得了“伏拉夫處刑曲”的外號。</text>
+      <sha1>lojmln982z8mu95p8fq5c89oj5pb7er</sha1>
+    </revision>
+    <revision>
+      <id>55</id>
+      <parentid>54</parentid>
+      <timestamp>2020-08-14T12:13:33Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <origin>55</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2522" sha1="gwlk9v3moj0r5bx9l1bmssint5fuef1" xml:space="preserve">{{当前事件}}
+{{注意备份}}
+{{缺乏格式}}
+{{信息框
+|border=red
+|image=搬运工.png
+|type=搬运工
+|info=该词条部分信息来源于萌娘百科（已删除）,侵删。
+}}
+{{引言|百香果火鍋！不好吃！加中國的料！！！好吃！！！！！|伏拉夫}}
+
+{{信息板
+|photo=伏拉夫大头照.jpg
+|photocap=24岁，是（）
+|name=伏拉迪斯拉夫·尤利耶維奇·科科列夫斯基&lt;br&gt;Vladislav Yur'evich Kokolevskii&lt;br&gt;Владислав Юрьевич Коколевский 
+|class=抖音up主
+|hardness=1
+|IQ=65
+|online=100
+|affinity=甲亢病人
+}}伏拉夫是一名活躍於抖音的UP主，因其在“愛國”系列短視頻中的誇張演出而流行於亞文化圈。
+
+==简介==
+伏拉夫，抖音UP主，主要在抖音平台上發布“愛中國”系列短視頻，在早期也發布過【正常向】的品酒視頻和各種自制情景劇。
+
+在“愛中國”系列中，伏拉夫通過宣讀“誇讚”中國事物的台詞，配以擠眉弄眼、提高嗓音等誇張的甲亢動作來“表達”其本人對於中國的“熱愛”。由於伏拉夫在作品裡的表演過於浮誇，他與“愛國”本篇開始被部分網民嘲諷、惡搞，並逐漸發展為模因。 
+
+==个人经历==
+
+伏拉夫今年24歲&lt;s&gt;（是學生）&lt;/s&gt;，目前與其50多歲的韓國籍妻子在中國大陸生活。伏拉夫自稱以創業為目的入華，後就讀並以留學生第一的成績畢業於北京語言大學。之後他在中國邂逅了他現在的韓國籍妻子，並一起就地創業。
+
+根據已有的資料，伏拉夫在開始創作“愛國”系列前，曾經多次創業，比如做中華小吃店，做洋酒代理商，但都以失敗收場。 
+
+==主要作品==
+* “愛中國”系列短視頻
+* 美食品鑑系列
+
+==语录==
+*百香果火鍋！不好吃！加中國的料！！！好吃！！！！！
+*我有個朋友 說了句話 外國人分兩種 第一 是來了中國旅遊 玩玩就走的 第二種 來了中國 愛上了中國！就離不開了！決定定居這裡！我就是屬於 第二種！我就要定居中國！
+*很快就到你家門口
+*我一直都用華為手機啊&lt;block&gt;然而在他的視頻里經常拿着蘋果手機&lt;/block&gt;
+*我↑們↓中→國↑真↑的→是↑太↑厲↑害↑了↑
+
+==影响==
+
+*在“愛國”本篇中，伏拉夫頻繁地採用音樂製作人Sand創作的電子音樂CHINA-2作為BGM，導致該曲連同伏拉夫一起風評被害，並獲得了“伏拉夫處刑曲”的外號。</text>
+      <sha1>gwlk9v3moj0r5bx9l1bmssint5fuef1</sha1>
+    </revision>
+    <revision>
+      <id>56</id>
+      <parentid>55</parentid>
+      <timestamp>2020-08-15T01:08:59Z</timestamp>
+      <contributor>
+        <username>imported&gt;Akr123</username>
+        <id>0</id>
+      </contributor>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2525" sha1="p8kqbzpq4r84l0nu6btoaitfdorrssl" xml:space="preserve">{{当前事件}}
+{{注意备份}}
+{{缺乏格式}}
+{{信息框
+|border=red
+|image=搬运工.png
+|type=搬运工
+|info=该词条部分信息来源于萌娘百科（已删除）,侵删。
+}}
+{{引言|百香果火鍋！不好吃！加中國的料！！！好吃！！！！！|伏拉夫}}
+
+{{信息板
+|photo=伏拉夫大头照.jpg
+|photocap=24岁，是（   ）
+|name=伏拉迪斯拉夫·尤利耶維奇·科科列夫斯基&lt;br&gt;Vladislav Yur'evich Kokolevskii&lt;br&gt;Владислав Юрьевич Коколевский 
+|class=抖音up主
+|hardness=1
+|IQ=65
+|online=100
+|affinity=甲亢病人
+}}伏拉夫是一名活躍於抖音的UP主，因其在“愛國”系列短視頻中的誇張演出而流行於亞文化圈。
+
+==简介==
+伏拉夫，抖音UP主，主要在抖音平台上發布“愛中國”系列短視頻，在早期也發布過【正常向】的品酒視頻和各種自制情景劇。
+
+在“愛中國”系列中，伏拉夫通過宣讀“誇讚”中國事物的台詞，配以擠眉弄眼、提高嗓音等誇張的甲亢動作來“表達”其本人對於中國的“熱愛”。由於伏拉夫在作品裡的表演過於浮誇，他與“愛國”本篇開始被部分網民嘲諷、惡搞，並逐漸發展為模因。 
+
+==个人经历==
+
+伏拉夫今年24歲&lt;s&gt;（是學生）&lt;/s&gt;，目前與其50多歲的韓國籍妻子在中國大陸生活。伏拉夫自稱以創業為目的入華，後就讀並以留學生第一的成績畢業於北京語言大學。之後他在中國邂逅了他現在的韓國籍妻子，並一起就地創業。
+
+根據已有的資料，伏拉夫在開始創作“愛國”系列前，曾經多次創業，比如做中華小吃店，做洋酒代理商，但都以失敗收場。 
+
+==主要作品==
+* “愛中國”系列短視頻
+* 美食品鑑系列
+
+==语录==
+*百香果火鍋！不好吃！加中國的料！！！好吃！！！！！
+*我有個朋友 說了句話 外國人分兩種 第一 是來了中國旅遊 玩玩就走的 第二種 來了中國 愛上了中國！就離不開了！決定定居這裡！我就是屬於 第二種！我就要定居中國！
+*很快就到你家門口
+*我一直都用華為手機啊&lt;block&gt;然而在他的視頻里經常拿着蘋果手機&lt;/block&gt;
+*我↑們↓中→國↑真↑的→是↑太↑厲↑害↑了↑
+
+==影响==
+
+*在“愛國”本篇中，伏拉夫頻繁地採用音樂製作人Sand創作的電子音樂CHINA-2作為BGM，導致該曲連同伏拉夫一起風評被害，並獲得了“伏拉夫處刑曲”的外號。</text>
+      <sha1>p8kqbzpq4r84l0nu6btoaitfdorrssl</sha1>
+    </revision>
+    <revision>
+      <id>57</id>
+      <parentid>56</parentid>
+      <timestamp>2020-08-22T18:09:41Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <origin>57</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2517" sha1="qnfz6wz7obe53q8e1559zyq3p1djuc4" xml:space="preserve">{{当前事件}}
+{{注意备份}}
+{{缺乏格式}}
+{{信息框
+|border=red
+|image=搬运工.png
+|type=搬运工
+|info=该词条部分信息来源于萌娘百科（已删除）,侵删。
+}}
+{{引言|百香果火鍋！不好吃！加中國的料！！！好吃！！！！！|伏拉夫}}
+
+{{信息板
+|photo=伏拉夫大头照.jpg
+|photocap=24岁，是（   ）
+|name=伏拉迪斯拉夫·尤利耶維奇·科科列夫斯基&lt;br&gt;Vladislav Yur'evich Kokolevskii&lt;br&gt;Владислав Юрьевич Коколевский 
+|class=抖音up主
+|hardness=1
+|IQ=65
+|online=100
+|affinity=甲亢病人
+}}伏拉夫是一名活躍於抖音的UP主，因其在“愛國”系列短視頻中的誇張演出而流行於亞文化圈。
+
+==简介==
+伏拉夫，抖音UP主，主要在抖音平台上發布“愛中國”系列短視頻，在早期也發布過【正常向】的品酒視頻和各種自制情景劇。
+
+在“愛中國”系列中，伏拉夫通過宣讀“誇讚”中國事物的台詞，配以擠眉弄眼、提高嗓音等誇張的甲亢動作來“表達”其本人對於中國的“熱愛”。由於伏拉夫在作品裡的表演過於浮誇，他與“愛國”本篇開始被部分網民嘲諷、惡搞，並逐漸發展為模因。 
+
+==个人经历==
+
+伏拉夫今年24歲&lt;s&gt;（是學生）&lt;/s&gt;，目前與其50多歲的韓國籍妻子在中國大陸生活。伏拉夫自稱以創業為目的入華，後就讀並以留學生第一的成績畢業於北京語言大學。之後他在中國邂逅了他現在的韓國籍妻子，並一起就地創業。
+
+根據已有的資料，伏拉夫在開始創作“愛國”系列前，曾經多次創業，比如做中華小吃店，做洋酒代理商，但都以失敗收場。 
+
+==主要作品==
+* “愛中國”系列短視頻
+* 美食品鑑系列
+
+==语录==
+*百香果火鍋！不好吃！加中國的料！！！好吃！！！！！
+*我有個朋友 說了句話 外國人分兩種 第一 是來了中國旅遊 玩玩就走的 第二種 來了中國 愛上了中國！就離不開了！決定定居這裡！我就是屬於 第二種！我就要定居中國！
+*很快就到你家門口
+*我一直都用華為手機啊&lt;s&gt;然而在他的視頻里經常拿着蘋果手機&lt;/s&gt;
+*我↑們↓中→國↑真↑的→是↑太↑厲↑害↑了↑
+
+==影响==
+
+*在“愛國”本篇中，伏拉夫頻繁地採用音樂製作人Sand創作的電子音樂CHINA-2作為BGM，導致該曲連同伏拉夫一起風評被害，並獲得了“伏拉夫處刑曲”的外號。</text>
+      <sha1>qnfz6wz7obe53q8e1559zyq3p1djuc4</sha1>
+    </revision>
+    <revision>
+      <id>58</id>
+      <parentid>57</parentid>
+      <timestamp>2020-08-22T18:10:04Z</timestamp>
+      <contributor>
+        <username>imported&gt;Gundaz aghayev</username>
+        <id>0</id>
+      </contributor>
+      <origin>58</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2500" sha1="fr0yktzblhxtgouqkbhaogc8k7sys7y" xml:space="preserve">{{注意备份}}
+{{缺乏格式}}
+{{信息框
+|border=red
+|image=搬运工.png
+|type=搬运工
+|info=该词条部分信息来源于萌娘百科（已删除）,侵删。
+}}
+{{引言|百香果火鍋！不好吃！加中國的料！！！好吃！！！！！|伏拉夫}}
+
+{{信息板
+|photo=伏拉夫大头照.jpg
+|photocap=24岁，是（   ）
+|name=伏拉迪斯拉夫·尤利耶維奇·科科列夫斯基&lt;br&gt;Vladislav Yur'evich Kokolevskii&lt;br&gt;Владислав Юрьевич Коколевский 
+|class=抖音up主
+|hardness=1
+|IQ=65
+|online=100
+|affinity=甲亢病人
+}}伏拉夫是一名活躍於抖音的UP主，因其在“愛國”系列短視頻中的誇張演出而流行於亞文化圈。
+
+==简介==
+伏拉夫，抖音UP主，主要在抖音平台上發布“愛中國”系列短視頻，在早期也發布過【正常向】的品酒視頻和各種自制情景劇。
+
+在“愛中國”系列中，伏拉夫通過宣讀“誇讚”中國事物的台詞，配以擠眉弄眼、提高嗓音等誇張的甲亢動作來“表達”其本人對於中國的“熱愛”。由於伏拉夫在作品裡的表演過於浮誇，他與“愛國”本篇開始被部分網民嘲諷、惡搞，並逐漸發展為模因。 
+
+==个人经历==
+
+伏拉夫今年24歲&lt;s&gt;（是學生）&lt;/s&gt;，目前與其50多歲的韓國籍妻子在中國大陸生活。伏拉夫自稱以創業為目的入華，後就讀並以留學生第一的成績畢業於北京語言大學。之後他在中國邂逅了他現在的韓國籍妻子，並一起就地創業。
+
+根據已有的資料，伏拉夫在開始創作“愛國”系列前，曾經多次創業，比如做中華小吃店，做洋酒代理商，但都以失敗收場。 
+
+==主要作品==
+* “愛中國”系列短視頻
+* 美食品鑑系列
+
+==语录==
+*百香果火鍋！不好吃！加中國的料！！！好吃！！！！！
+*我有個朋友 說了句話 外國人分兩種 第一 是來了中國旅遊 玩玩就走的 第二種 來了中國 愛上了中國！就離不開了！決定定居這裡！我就是屬於 第二種！我就要定居中國！
+*很快就到你家門口
+*我一直都用華為手機啊&lt;s&gt;然而在他的視頻里經常拿着蘋果手機&lt;/s&gt;
+*我↑們↓中→國↑真↑的→是↑太↑厲↑害↑了↑
+
+==影响==
+
+*在“愛國”本篇中，伏拉夫頻繁地採用音樂製作人Sand創作的電子音樂CHINA-2作為BGM，導致該曲連同伏拉夫一起風評被害，並獲得了“伏拉夫處刑曲”的外號。</text>
+      <sha1>fr0yktzblhxtgouqkbhaogc8k7sys7y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>会闪退的呱唧</title>
+    <ns>0</ns>
+    <id>16</id>
+    <revision>
+      <id>59</id>
+      <timestamp>2020-07-14T13:12:38Z</timestamp>
+      <contributor>
+        <username>imported&gt;幻想乡</username>
+        <id>0</id>
+      </contributor>
+      <origin>59</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1557" sha1="82vh9jhplbiqg5z3u893dz7npvctbk4" xml:space="preserve">{{信息框
+|border=Blue
+|image=禁止炒作.jpg
+|type=禁止炒作
+|info=恶俗百科'''没有义务'''帮助任何死妈废物做'''免费宣传'''，请在编辑条目时注意。
+}}
+{{当前事件}}
+{{小作品|呱唧}}
+{{谨慎行动|造谣诽谤、真人快打}}
+{{需要补充}}
+{{请求出道}}
+{{注意备份}}
+{{御驾亲征|无视此条目}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=b站up主&lt;br&gt;不孝子&lt;br&gt;网络乞丐
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;辱骂他人&lt;br&gt;真人快打
+|best=锤爆你的太极狗头
+|hardness=★★★
+|dangerous=☯
+|IQ=0
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*QQ：2438052407
+*地址：广西柳州
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926?share_medium=android&amp;share_source=copy_link&amp;bbid=XY7AC2C751B70FAF5AA519A6911CF5318E319&amp;ts=1594710470605 会闪退的呱唧][https://space.bilibili.com/476469811?share_medium=android&amp;share_source=copy_link&amp;bbid=XY7AC2C751B70FAF5AA519A6911CF5318E319&amp;ts=1594722054231 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+*年龄：21岁
+*学历：永永远远的初中学历（呱唧本人上过高中，但是本人原因被学校开除）
+{{color|red|更多信息有待挖掘……}}</text>
+      <sha1>82vh9jhplbiqg5z3u893dz7npvctbk4</sha1>
+    </revision>
+    <revision>
+      <id>60</id>
+      <parentid>59</parentid>
+      <timestamp>2020-07-26T10:06:47Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>60</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1328" sha1="9aqimwyf7sw1md24lzvwaanheszdsd5" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*QQ：2438052407
+*地址：广西柳州
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926?share_medium=android&amp;share_source=copy_link&amp;bbid=XY7AC2C751B70FAF5AA519A6911CF5318E319&amp;ts=1594710470605 会闪退的呱唧][https://space.bilibili.com/476469811?share_medium=android&amp;share_source=copy_link&amp;bbid=XY7AC2C751B70FAF5AA519A6911CF5318E319&amp;ts=1594722054231 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+*年龄：21岁
+*学历：永永远远的初中学历（呱唧本人上过高中，但是本人原因被学校开除）
+{{color|red|更多信息有待挖掘……}}</text>
+      <sha1>9aqimwyf7sw1md24lzvwaanheszdsd5</sha1>
+    </revision>
+    <revision>
+      <id>61</id>
+      <parentid>60</parentid>
+      <timestamp>2020-07-26T10:08:55Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>61</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1036" sha1="j4ds45y877fxrwe78z40lij4tlbphv1" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧][https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771</text>
+      <sha1>j4ds45y877fxrwe78z40lij4tlbphv1</sha1>
+    </revision>
+    <revision>
+      <id>62</id>
+      <parentid>61</parentid>
+      <timestamp>2020-07-26T10:09:08Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>62</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1039" sha1="28c0pmp457cc4jz7qtcvdc1xabw8fbg" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771</text>
+      <sha1>28c0pmp457cc4jz7qtcvdc1xabw8fbg</sha1>
+    </revision>
+    <revision>
+      <id>63</id>
+      <parentid>62</parentid>
+      <timestamp>2020-07-26T17:51:40Z</timestamp>
+      <contributor>
+        <username>imported&gt;幻想乡</username>
+        <id>0</id>
+      </contributor>
+      <origin>63</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1661" sha1="plldia9a9z9zftphwqb4gea3lx3q3fg" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走。
+===小米8===
+在呱唧的一期蹭热点视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==语录==
+*我锤爆你的太极狗头</text>
+      <sha1>plldia9a9z9zftphwqb4gea3lx3q3fg</sha1>
+    </revision>
+    <revision>
+      <id>64</id>
+      <parentid>63</parentid>
+      <timestamp>2020-07-26T17:52:28Z</timestamp>
+      <contributor>
+        <username>imported&gt;幻想乡</username>
+        <id>0</id>
+      </contributor>
+      <origin>64</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1676" sha1="h3nhgmhnuuvg8ir5gtpau5w2j2hnaew" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热点视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==语录==
+*我锤爆你的太极狗头</text>
+      <sha1>h3nhgmhnuuvg8ir5gtpau5w2j2hnaew</sha1>
+    </revision>
+    <revision>
+      <id>65</id>
+      <parentid>64</parentid>
+      <timestamp>2020-07-26T17:57:28Z</timestamp>
+      <contributor>
+        <username>imported&gt;幻想乡</username>
+        <id>0</id>
+      </contributor>
+      <origin>65</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1726" sha1="st5v7rl85br0201tfef8li2sd9q89op" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热点视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==语录==
+*我锤爆你的太极狗头
+*我什么时候怕过，一根手指给打哭了</text>
+      <sha1>st5v7rl85br0201tfef8li2sd9q89op</sha1>
+    </revision>
+    <revision>
+      <id>66</id>
+      <parentid>65</parentid>
+      <timestamp>2020-07-26T17:58:05Z</timestamp>
+      <contributor>
+        <username>imported&gt;幻想乡</username>
+        <id>0</id>
+      </contributor>
+      <origin>66</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1726" sha1="18z3slribmj0i93q1189nuj9uet67kn" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热度视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==语录==
+*我锤爆你的太极狗头
+*我什么时候怕过，一根手指给打哭了</text>
+      <sha1>18z3slribmj0i93q1189nuj9uet67kn</sha1>
+    </revision>
+    <revision>
+      <id>67</id>
+      <parentid>66</parentid>
+      <timestamp>2020-07-27T04:11:57Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>67</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1749" sha1="cirysca4dm66ofaqfhwk4w5hg32vsug" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热度视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==语录==
+*我锤爆你的太极狗头
+*我什么时候怕过，一根手指给打哭了
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>cirysca4dm66ofaqfhwk4w5hg32vsug</sha1>
+    </revision>
+    <revision>
+      <id>68</id>
+      <parentid>67</parentid>
+      <timestamp>2020-07-28T08:49:09Z</timestamp>
+      <contributor>
+        <username>imported&gt;幻想乡</username>
+        <id>0</id>
+      </contributor>
+      <origin>68</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1929" sha1="carfi7etndvy9lgneft276naycq543l" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热度视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==狗腿子==
+恶俗圈名为：金奥加ジンオウガ，哔哩哔哩账号[https://space.bilibili.com/27603300 金奥加ジンオウガ]，条目为[[金奥加ジンオウガ]]
+==语录==
+*我锤爆你的太极狗头
+*我什么时候怕过，一根手指给打哭了
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>carfi7etndvy9lgneft276naycq543l</sha1>
+    </revision>
+    <revision>
+      <id>69</id>
+      <parentid>68</parentid>
+      <timestamp>2020-07-28T08:50:08Z</timestamp>
+      <contributor>
+        <username>imported&gt;幻想乡</username>
+        <id>0</id>
+      </contributor>
+      <origin>69</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1904" sha1="0qetarjv8ta87gl7aa9ij1f24735p6x" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热度视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==狗腿子==
+bilibili：[https://space.bilibili.com/27603300 金奥加ジンオウガ]
+
+电话号码：18177080200
+
+条目为[[金奥加ジンオウガ]]
+==语录==
+*我锤爆你的太极狗头
+*我什么时候怕过，一根手指给打哭了
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>0qetarjv8ta87gl7aa9ij1f24735p6x</sha1>
+    </revision>
+    <revision>
+      <id>70</id>
+      <parentid>69</parentid>
+      <timestamp>2020-08-03T16:43:12Z</timestamp>
+      <contributor>
+        <username>imported&gt;犬吠九天</username>
+        <id>0</id>
+      </contributor>
+      <comment>把语录移动到了上面方便阅读</comment>
+      <origin>70</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2038" sha1="npznvs0q8f7ohedopc1iaj3bmkgvzrc" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{引言|我锤爆你的太极狗头|会闪退的呱唧}}
+{{引言|什么时候怕过，一根手指给打哭了|会闪退的呱唧}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热度视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==狗腿子==
+bilibili：[https://space.bilibili.com/27603300 金奥加ジンオウガ]
+
+电话号码：18177080200
+
+条目为[[金奥加ジンオウガ]]
+==语录==
+*我锤爆你的太极狗头
+*我什么时候怕过，一根手指给打哭了
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>npznvs0q8f7ohedopc1iaj3bmkgvzrc</sha1>
+    </revision>
+    <revision>
+      <id>71</id>
+      <parentid>70</parentid>
+      <timestamp>2020-08-03T16:43:37Z</timestamp>
+      <contributor>
+        <username>imported&gt;犬吠九天</username>
+        <id>0</id>
+      </contributor>
+      <origin>71</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1948" sha1="26vti3v0c1fe6t6t0jmr58imewa8tbk" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{引言|我锤爆你的太极狗头|会闪退的呱唧}}
+{{引言|什么时候怕过，一根手指给打哭了|会闪退的呱唧}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热度视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==狗腿子==
+bilibili：[https://space.bilibili.com/27603300 金奥加ジンオウガ]
+
+电话号码：18177080200
+
+条目为[[金奥加ジンオウガ]]
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>26vti3v0c1fe6t6t0jmr58imewa8tbk</sha1>
+    </revision>
+    <revision>
+      <id>72</id>
+      <parentid>71</parentid>
+      <timestamp>2020-08-03T16:44:31Z</timestamp>
+      <contributor>
+        <username>imported&gt;犬吠九天</username>
+        <id>0</id>
+      </contributor>
+      <origin>72</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1793" sha1="4e18m4cw7pk7wz9o41m2h9n90xvsol3" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{引言|我锤爆你的太极狗头|会闪退的呱唧}}
+{{引言|什么时候怕过，一根手指给打哭了|会闪退的呱唧}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热度视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>4e18m4cw7pk7wz9o41m2h9n90xvsol3</sha1>
+    </revision>
+    <revision>
+      <id>73</id>
+      <parentid>72</parentid>
+      <timestamp>2020-08-03T16:48:24Z</timestamp>
+      <contributor>
+        <username>imported&gt;犬吠九天</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 个人信息 */</comment>
+      <origin>73</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1975" sha1="sml4fgtmqh1w3ijb08qob3lfxg2kll4" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{引言|我锤爆你的太极狗头|会闪退的呱唧}}
+{{引言|什么时候怕过，一根手指给打哭了|会闪退的呱唧}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+===本人===
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+===狗腿子===
+*bilibili:[https://space.bilibili.com/27603300 金奥加ジンオウガ]
+*神秘热线：18177080200
+*TA在本站的条目:[[金奥加ジンオウガ]]
+
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热度视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>sml4fgtmqh1w3ijb08qob3lfxg2kll4</sha1>
+    </revision>
+    <revision>
+      <id>74</id>
+      <parentid>73</parentid>
+      <timestamp>2020-08-17T17:56:26Z</timestamp>
+      <contributor>
+        <username>imported&gt;幻想乡</username>
+        <id>0</id>
+      </contributor>
+      <origin>74</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2017" sha1="8tpiabszx9fnwpsesb5sloog6jq5kc5" xml:space="preserve">{{当前事件}}
+{{小作品|呱蛆}}
+{{谨慎行动|挂人、瞎骂}}
+{{需要补充}}
+{{请求出道}}
+{{御驾亲征|大放黑屁}}
+{{引言|我锤爆你的太极狗头|会闪退的呱唧在辱骂客服的时候说的一句名言}}
+{{引言|什么时候怕过，一根手指给打哭了|会闪退的呱唧}}
+{{信息板
+|titlename=会闪退的呱唧
+|photo=呱唧.jpg
+|photocap=会闪退的呱唧
+|name=*呱唧
+|id=会闪退的呱唧&lt;br&gt;闪退的呱唧&lt;br&gt;闪耀尾巴摇起来&lt;br&gt;金属尾巴摇起来&lt;br&gt;up呱唧&lt;br&gt;u呱唧
+|class=网络乞丐&lt;br&gt;CF土狗
+|ability=自我炒作&lt;br&gt;抢热评&lt;br&gt;刷烂梗&lt;br&gt;造谣&lt;br&gt;卖惨&lt;br&gt;瞎骂&lt;br&gt;巴结&lt;br&gt;恋童
+|best=精神胜利
+|hardness=★★★★
+|dangerous=☯
+|IQ=40
+|online=❤❤❤❤❤
+|affinity=穿越火线&lt;br&gt;bilibili
+}}
+
+==个人信息==
+===本人===
+*年龄：21岁
+*学历：永永远远的初中学历
+*地址：广西壮族自治区柳州市柳南区
+*QQ：2438052407
+*微信：naigou9966
+*bilibili:[https://space.bilibili.com/36043926 会闪退的呱唧]、[https://space.bilibili.com/476469811 金属尾巴摇起来]
+*西瓜视频：[https://v.ixigua.com/JFUrKVh/ 会闪退的呱唧]
+*快手：[https://v.kuaishou.com/4OZlOA u呱唧]
+*粉丝群：1021211771
+===狗腿子===
+*bilibili:[https://space.bilibili.com/27603300 金奥加ジンオウガ]
+*神秘热线：18177080200
+*TA在本站的条目:[[金奥加ジンオウガ]]
+
+==死妈事迹==
+===离家出走===
+在19年末时，呱唧中专毕业，因为没有选择前往技校给呱唧选择的工厂工作，该死妈废物就和父母大吵一架，并离家出走（现已回家）
+===小米8===
+在呱唧的一期蹭热度视频中，因为某高雅人士使用的是vivo x21，呱唧就在该蹭热度视频中嘲讽该高雅人士使用的手机垃圾，并炫耀自己用的是小米8。但是该高雅人士发现呱唧的手机其实是小米8se（小米8se的性能和vivo x21的性能差不多）和呱唧所称的小米8属实天渊之别，乐死只狗。
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>8tpiabszx9fnwpsesb5sloog6jq5kc5</sha1>
+    </revision>
+  </page>
+</mediawiki>

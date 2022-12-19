@@ -1,0 +1,1913 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN">
+  <siteinfo>
+    <sitename>恶俗百科</sitename>
+    <dbname>my_wiki</dbname>
+    <base>http://localhost:8080/index.php?title=%E9%A6%96%E9%A1%B5</base>
+    <generator>MediaWiki 1.39.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">媒体文件</namespace>
+      <namespace key="-1" case="first-letter">特殊</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">讨论</namespace>
+      <namespace key="2" case="first-letter">用户</namespace>
+      <namespace key="3" case="first-letter">用户讨论</namespace>
+      <namespace key="4" case="first-letter">恶俗百科</namespace>
+      <namespace key="5" case="first-letter">恶俗百科讨论</namespace>
+      <namespace key="6" case="first-letter">文件</namespace>
+      <namespace key="7" case="first-letter">文件讨论</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki讨论</namespace>
+      <namespace key="10" case="first-letter">模板</namespace>
+      <namespace key="11" case="first-letter">模板讨论</namespace>
+      <namespace key="12" case="first-letter">帮助</namespace>
+      <namespace key="13" case="first-letter">帮助讨论</namespace>
+      <namespace key="14" case="first-letter">分类</namespace>
+      <namespace key="15" case="first-letter">分类讨论</namespace>
+      <namespace key="828" case="first-letter">模块</namespace>
+      <namespace key="829" case="first-letter">模块讨论</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>MediaWiki:Sidebar</title>
+    <ns>8</ns>
+    <id>534</id>
+    <revision>
+      <id>1933</id>
+      <timestamp>2020-07-07T03:07:10Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“* 导航 ** 首页|首页 ** 日志|网站/服务器日志 ** 特殊:最近更改|最近修改 ** 特殊:随机页面|随机页面 ** 彭梓明的劲爆灵堂|劲爆…”</comment>
+      <origin>1933</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="766" sha1="gslya9rgtyr7okditpae4y29o8zcue7" xml:space="preserve">* 导航
+** 首页|首页
+** 日志|网站/服务器日志
+** 特殊:最近更改|最近修改
+** 特殊:随机页面|随机页面
+** 彭梓明的劲爆灵堂|劲爆灵堂
+** 恶俗百科:留言板|留言板（游客）
+** 讨论:讨论版|讨论版（登录用户）
+* 帮助
+** 沙盒|沙盒
+** 硬度|硬度(HARDNESS)
+** 恶俗百科守则|百科守则
+** 帮助:格式标准|格式标准
+** 创作文章|创作文章
+** 帮助:内容政策|内容政策
+
+* 人物
+** 国际巨星|国际巨星
+** 二线明星|二线明星
+** 其他人|其他人
+** 神必人|神必人
+** 纸片人|纸片人
+** 思想品德|思想品德
+* 分类
+** 事件|事件
+** 概念|概念
+** 群体|群体
+* 文章
+** 珍贵文献|珍贵文献
+** 心灵毒药|心灵毒药
+** 文集|文集</text>
+      <sha1>gslya9rgtyr7okditpae4y29o8zcue7</sha1>
+    </revision>
+    <revision>
+      <id>1934</id>
+      <parentid>1933</parentid>
+      <timestamp>2020-08-18T14:23:37Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1934</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="905" sha1="73t26ohcmmbmepiap715u8c19wo7l6g" xml:space="preserve">* 导航
+** 首页|首页
+** 日志|网站/服务器日志
+** 特殊:最近更改|最近修改
+** 特殊:随机页面|随机页面
+** 彭梓明的劲爆灵堂|劲爆灵堂
+** 恶俗百科:留言板|留言板（游客）
+** 讨论:讨论版|讨论版（登录用户）
+* 帮助
+** 沙盒|沙盒
+** 硬度|硬度(HARDNESS)
+** 恶俗百科守则|百科守则
+** 帮助:格式标准|格式标准
+** 创作文章|创作文章
+** 帮助:内容政策|内容政策
+
+* 人物
+** 国际巨星|国际巨星
+** 二线明星|二线明星
+** 其他人|其他人
+** 神必人|神必人
+** 纸片人|纸片人
+** 思想品德|思想品德
+* 分类
+** 事件|事件
+** 概念|概念
+** 群体|群体
+* 文章
+** 珍贵文献|珍贵文献
+** 心灵毒药|心灵毒药
+** 文集|文集
+*友情链接
+**https://esu.monster/index.php?title=%E9%A6%96%E9%A1%B5/ |恶俗百科
+**https://touhoujuan.miraheze.org/  |车万圈维基</text>
+      <sha1>73t26ohcmmbmepiap715u8c19wo7l6g</sha1>
+    </revision>
+    <revision>
+      <id>1935</id>
+      <parentid>1934</parentid>
+      <timestamp>2020-08-18T14:28:38Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1935</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="942" sha1="m342v7bg0ontr4k5qvpdd4jcyp8seb1" xml:space="preserve">* 导航
+** 首页|首页
+** 日志|网站/服务器日志
+** 特殊:最近更改|最近修改
+** 特殊:随机页面|随机页面
+** 彭梓明的劲爆灵堂|劲爆灵堂
+** 恶俗百科:留言板|留言板（游客）
+** 讨论:讨论版|讨论版（登录用户）
+* 帮助
+** 沙盒|沙盒
+** 硬度|硬度(HARDNESS)
+** 恶俗百科守则|百科守则
+** 帮助:格式标准|格式标准
+** 创作文章|创作文章
+** 帮助:内容政策|内容政策
+
+* 人物
+** 国际巨星|国际巨星
+** 二线明星|二线明星
+** 其他人|其他人
+** 神必人|神必人
+** 纸片人|纸片人
+** 思想品德|思想品德
+* 分类
+** 事件|事件
+** 概念|概念
+** 群体|群体
+* 文章
+** 珍贵文献|珍贵文献
+** 心灵毒药|心灵毒药
+** 文集|文集
+*友情链接
+**https://esu.monster/index.php?title=%E9%A6%96%E9%A1%B5/ |恶俗百科（主站）
+**https:// |恶俗维基
+**https://touhoujuan.miraheze.org/  |车万圈维基</text>
+      <sha1>m342v7bg0ontr4k5qvpdd4jcyp8seb1</sha1>
+    </revision>
+    <revision>
+      <id>1936</id>
+      <parentid>1935</parentid>
+      <timestamp>2020-08-19T08:56:18Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1936</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="960" sha1="eqhyv65h4s4w3xudm671ku8rx3tilx6" xml:space="preserve">* 导航
+** 首页|首页
+** 日志|网站/服务器日志
+** 特殊:最近更改|最近修改
+** 特殊:随机页面|随机页面
+** 彭梓明的劲爆灵堂|劲爆灵堂
+** 恶俗百科:留言板|留言板（游客）
+** 讨论:讨论版|讨论版（登录用户）
+* 帮助
+** 沙盒|沙盒
+** 硬度|硬度(HARDNESS)
+** 恶俗百科守则|百科守则
+** 帮助:格式标准|格式标准
+** 创作文章|创作文章
+** 帮助:内容政策|内容政策
+
+* 人物
+** 国际巨星|国际巨星
+** 二线明星|二线明星
+** 其他人|其他人
+** 神必人|神必人
+** 纸片人|纸片人
+** 思想品德|思想品德
+* 分类
+** 事件|事件
+** 概念|概念
+** 群体|群体
+* 文章
+** 珍贵文献|珍贵文献
+** 心灵毒药|心灵毒药
+** 文集|文集
+*友情链接
+**https://esu.monster/index.php?title=%E9%A6%96%E9%A1%B5/ |恶俗百科（主站）
+**https:// |恶俗维基（敬请期待）
+**https://touhoujuan.miraheze.org/  |车万圈维基</text>
+      <sha1>eqhyv65h4s4w3xudm671ku8rx3tilx6</sha1>
+    </revision>
+    <revision>
+      <id>1937</id>
+      <parentid>1936</parentid>
+      <timestamp>2020-08-20T02:43:32Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1937</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="965" sha1="jz11n334j7csgc7exptx486jxg3eoic" xml:space="preserve">* 导航
+** 首页|首页
+** 日志|网站/服务器日志
+** 特殊:最近更改|最近修改
+** 特殊:随机页面|随机页面
+** 彭梓明的劲爆灵堂|劲爆灵堂
+** 恶俗百科:留言板|留言板（游客）
+** 讨论:讨论版|讨论版（登录用户）
+* 帮助
+** 沙盒|沙盒
+** 硬度|硬度(HARDNESS)
+** 恶俗百科守则|百科守则
+** 帮助:格式标准|格式标准
+** 创作文章|创作文章
+** 帮助:内容政策|内容政策
+
+* 人物
+** 国际巨星|国际巨星
+** 二线明星|二线明星
+** 其他人|其他人
+** 神必人|神必人
+** 纸片人|纸片人
+** 思想品德|思想品德
+* 分类
+** 事件|事件
+** 概念|概念
+** 群体|群体
+* 文章
+** 珍贵文献|珍贵文献
+** 心灵毒药|心灵毒药
+** 文集|文集
+*友情链接
+**https://esu.monster/index.php?title=%E9%A6%96%E9%A1%B5/ |恶俗百科（主站）
+**https://esu.life |恶俗维基（已复活）
+**https://touhoujuan.miraheze.org/  |车万圈维基</text>
+      <sha1>jz11n334j7csgc7exptx486jxg3eoic</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Titleblacklist</title>
+    <ns>8</ns>
+    <id>535</id>
+    <revision>
+      <id>1938</id>
+      <timestamp>2020-08-27T15:58:50Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“# 本页面为“标题黑名单”。任何匹配本名单正则表达式的标题会被阻止建立和编辑。  # 请使用"#"来添加注释。  # 本页默认…”</comment>
+      <origin>1938</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8459" sha1="tr82rjbaep6dxyu4vmmzt9a6274bhx1" xml:space="preserve"># 本页面为“标题黑名单”。任何匹配本名单正则表达式的标题会被阻止建立和编辑。
+ # 请使用"#"来添加注释。
+ # 本页默认忽略大小写
+ # 另有[[mediawiki:titlewhitelist|标题白名单]]
+
+ # 属性解释
+ # newaccountonly - 仅禁止新账户创建
+ # autoconfirmed - 只有自动确认用户可以创建/上载/移动该页
+ # casesensitive - 当检视黑名单中的标题时，不要忽略大小写
+ # noedit - 用户亦会被禁止编辑该条目
+ # moveonly - 禁止移动但允许平常创建
+ # reupload - 允许再上载现存于黑名单中的图片
+ # errmsg - 于此列出自定讯息名称，以取代标准讯息并展示自订讯息，已建立讯息请参阅[[特殊:前缀索引/mediawiki:titleblacklist]]
+
+ #禁止所有账户创建
+ #.*&lt;newaccountonly|errmsg=titleblacklist-block&gt;
+
+ #禁止所有条目创建
+ #[^:]*&lt;errmsg=titleblacklist-block&gt;
+
+ #禁止所有账户、页面创建
+ #.*&lt;errmsg=titleblacklist-block&gt;
+
+ #禁止所有账户、页面创建，同时禁止所有编辑操作
+ #.*&lt;noedit|errmsg=titleblacklist-block&gt;
+
+ #禁止含有以下关键词的账户创建
+ ([bcdfghjklmnpqrstvwxyz]){3,}&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt; #禁用姓名缩写与无意义字符串
+ .*china.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*zhina.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*中.*国.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*六四.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*64.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*６４.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*Liùsì.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*⑥④.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*89.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*1978.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*1953.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*615.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*110101.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*站长.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*国庆.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*管理.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*admin.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*sysop.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*恶.*俗.*狗.*维.*基.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*狗维.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*恶俗维基.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*esuwiki.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*支纳.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*esgwiki.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*恶维.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*zhinawiki.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*支维.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*balance.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*t91y.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*管理员.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*bbleae.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[麒麟].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ sm.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ av.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*议院.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[屎尿屁屄屌肏婊].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*太君.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*首相.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*大陆.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*内地.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*香港.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*台湾.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*澳门.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*兔杂.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*菟.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*1s.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*蛤蟆.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[草艹屮艸入飞干透日狙揎死你杀沙表烂穷驴骡鸡瞎瘸].*妈.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*禁评.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*小.*熊.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*包子.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*蛤蛤.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[支汁之织知芝吱汥枝滞脂][支汁之织知芝吱汥枝滞脂].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*脱[支脂].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*长者.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[乳汝辱如][包胞].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[馍模漠摸摩磨][蛤哈铪鉿].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[李王张刘陈杨赵黄周吴徐孙胡朱高林何郭马罗梁宋郑谢韩唐冯于董萧程曹袁邓许傅沈曾彭吕苏卢蒋蔡贾丁魏薛叶阎余潘杜戴夏钟汪田任姜范方石姚谭廖邹熊金陆郝孔白崔康毛邱秦江史顾侯邵孟龙万段漕钱汤尹黎易常武乔贺赖龚文].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*恶俗帝国.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*\=.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*\&lt;.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*\&gt;.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*script.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+
+ #禁止含有以下关键词的账户、页面创建
+ .*支.*那.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*滞纳.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*天安门.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*天安門.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*文.*革.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*中.*共.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*共.*党.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*国民党.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*共.*匪.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*共.*产.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*泽.*东.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*贼.*东.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*近.*平.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*近平.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*庆丰.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*维尼.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*泽.*民.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*续命.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*续.*秒.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李.*威.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*周.*阳.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*周若梅.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*陈.*越.*麒.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*陈.*越.*麟.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*孟驰.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*庄海洋.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*chenyueqi.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*liwei.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*特朗普.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*佩洛西.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*金正恩.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*陈全国.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*夏宝龙.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*蔡奇.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*韩国瑜.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*梁振英.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*侯聚森.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*林檬.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*王骁.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*林郑月娥.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*赵克志.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*韦国清.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*梁盛皓.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*黄克兴.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*王岐山.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*刘广宁.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李鹏.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*郭声琨.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*赵皓阳.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*方滨兴.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李杰瀚.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*王尧.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*叶展源.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*周强.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*\.php$&lt;errmsg=titleblacklist-forbidden&gt;
+ .*favicon\.ico$&lt;errmsg=titleblacklist-forbidden&gt;
+.*田佳良.*&lt;errmsg=titleblacklist-forbidden&gt;
+.*田嘉良.*&lt;errmsg=titleblacklist-forbidden&gt;
+.*李育恩.*&lt;errmsg=titleblacklist-forbidden&gt;
+.*李宇恩.*&lt;errmsg=titleblacklist-forbidden&gt;
+.*李暮梓.*&lt;errmsg=titleblacklist-forbidden&gt;</text>
+      <sha1>tr82rjbaep6dxyu4vmmzt9a6274bhx1</sha1>
+    </revision>
+    <revision>
+      <id>1939</id>
+      <parentid>1938</parentid>
+      <timestamp>2020-08-27T15:59:42Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1939</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8464" sha1="fvrexj5uadexovgv3120ot9itydv2f4" xml:space="preserve"># 本页面为“标题黑名单”。任何匹配本名单正则表达式的标题会被阻止建立和编辑。
+ # 请使用"#"来添加注释。
+ # 本页默认忽略大小写
+ # 另有[[mediawiki:titlewhitelist|标题白名单]]
+
+ # 属性解释
+ # newaccountonly - 仅禁止新账户创建
+ # autoconfirmed - 只有自动确认用户可以创建/上载/移动该页
+ # casesensitive - 当检视黑名单中的标题时，不要忽略大小写
+ # noedit - 用户亦会被禁止编辑该条目
+ # moveonly - 禁止移动但允许平常创建
+ # reupload - 允许再上载现存于黑名单中的图片
+ # errmsg - 于此列出自定讯息名称，以取代标准讯息并展示自订讯息，已建立讯息请参阅[[特殊:前缀索引/mediawiki:titleblacklist]]
+
+ #禁止所有账户创建
+ #.*&lt;newaccountonly|errmsg=titleblacklist-block&gt;
+
+ #禁止所有条目创建
+ #[^:]*&lt;errmsg=titleblacklist-block&gt;
+
+ #禁止所有账户、页面创建
+ #.*&lt;errmsg=titleblacklist-block&gt;
+
+ #禁止所有账户、页面创建，同时禁止所有编辑操作
+ #.*&lt;noedit|errmsg=titleblacklist-block&gt;
+
+ #禁止含有以下关键词的账户创建
+ ([bcdfghjklmnpqrstvwxyz]){3,}&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt; #禁用姓名缩写与无意义字符串
+ .*china.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*zhina.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*中.*国.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*六四.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*64.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*６４.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*Liùsì.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*⑥④.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*89.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*1978.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*1953.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*615.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*110101.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*站长.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*国庆.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*管理.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*admin.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*sysop.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*恶.*俗.*狗.*维.*基.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*狗维.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*恶俗维基.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*esuwiki.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*支纳.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*esgwiki.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*恶维.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*zhinawiki.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*支维.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*balance.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*t91y.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*管理员.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*bbleae.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[麒麟].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ sm.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ av.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*议院.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[屎尿屁屄屌肏婊].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*太君.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*首相.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*大陆.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*内地.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*香港.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*台湾.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*澳门.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*兔杂.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*菟.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*1s.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*蛤蟆.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[草艹屮艸入飞干透日狙揎死你杀沙表烂穷驴骡鸡瞎瘸].*妈.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*禁评.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*小.*熊.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*包子.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*蛤蛤.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[支汁之织知芝吱汥枝滞脂][支汁之织知芝吱汥枝滞脂].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*脱[支脂].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*长者.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[乳汝辱如][包胞].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[馍模漠摸摩磨][蛤哈铪鉿].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[李王张刘陈杨赵黄周吴徐孙胡朱高林何郭马罗梁宋郑谢韩唐冯于董萧程曹袁邓许傅沈曾彭吕苏卢蒋蔡贾丁魏薛叶阎余潘杜戴夏钟汪田任姜范方石姚谭廖邹熊金陆郝孔白崔康毛邱秦江史顾侯邵孟龙万段漕钱汤尹黎易常武乔贺赖龚文].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*恶俗帝国.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*\=.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*\&lt;.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*\&gt;.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*script.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+
+ #禁止含有以下关键词的账户、页面创建
+ .*支.*那.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*滞纳.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*天安门.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*天安門.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*文.*革.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*中.*共.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*共.*党.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*国民党.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*共.*匪.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*共.*产.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*泽.*东.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*贼.*东.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*近.*平.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*近平.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*庆丰.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*维尼.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*泽.*民.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*续命.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*续.*秒.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李.*威.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*周.*阳.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*周若梅.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*陈.*越.*麒.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*陈.*越.*麟.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*孟驰.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*庄海洋.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*chenyueqi.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*liwei.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*特朗普.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*佩洛西.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*金正恩.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*陈全国.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*夏宝龙.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*蔡奇.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*韩国瑜.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*梁振英.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*侯聚森.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*林檬.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*王骁.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*林郑月娥.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*赵克志.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*韦国清.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*梁盛皓.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*黄克兴.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*王岐山.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*刘广宁.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李鹏.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*郭声琨.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*赵皓阳.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*方滨兴.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李杰瀚.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*王尧.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*叶展源.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*周强.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*\.php$&lt;errmsg=titleblacklist-forbidden&gt;
+ .*favicon\.ico$&lt;errmsg=titleblacklist-forbidden&gt;
+ .*田佳良.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*田嘉良.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李育恩.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李宇恩.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李暮梓.*&lt;errmsg=titleblacklist-forbidden&gt;</text>
+      <sha1>fvrexj5uadexovgv3120ot9itydv2f4</sha1>
+    </revision>
+    <revision>
+      <id>1940</id>
+      <parentid>1939</parentid>
+      <timestamp>2020-08-27T16:04:52Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1940</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7883" sha1="tka57hidy2xx6tpn2c1ehuyg8gmawmo" xml:space="preserve"># 本页面为“标题黑名单”。任何匹配本名单正则表达式的标题会被阻止建立和编辑。
+ # 请使用"#"来添加注释。
+ # 本页默认忽略大小写
+ # 另有[[mediawiki:titlewhitelist|标题白名单]]
+
+ # 属性解释
+ # newaccountonly - 仅禁止新账户创建
+ # autoconfirmed - 只有自动确认用户可以创建/上载/移动该页
+ # casesensitive - 当检视黑名单中的标题时，不要忽略大小写
+ # noedit - 用户亦会被禁止编辑该条目
+ # moveonly - 禁止移动但允许平常创建
+ # reupload - 允许再上载现存于黑名单中的图片
+ # errmsg - 于此列出自定讯息名称，以取代标准讯息并展示自订讯息，已建立讯息请参阅[[特殊:前缀索引/mediawiki:titleblacklist]]
+
+ #禁止所有账户创建
+ #.*&lt;newaccountonly|errmsg=titleblacklist-block&gt;
+
+ #禁止所有条目创建
+ #[^:]*&lt;errmsg=titleblacklist-block&gt;
+
+ #禁止所有账户、页面创建
+ #.*&lt;errmsg=titleblacklist-block&gt;
+
+ #禁止所有账户、页面创建，同时禁止所有编辑操作
+ #.*&lt;noedit|errmsg=titleblacklist-block&gt;
+
+ #禁止含有以下关键词的账户创建
+ ([bcdfghjklmnpqrstvwxyz]){3,}&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt; #禁用姓名缩写与无意义字符串
+ .*china.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*zhina.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*中.*国.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*六四.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*64.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*６４.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*Liùsì.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*⑥④.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*89.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*1978.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*1953.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*615.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*110101.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*站长.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*国庆.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*管理.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*admin.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*sysop.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*esuwiki.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*支纳.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*zhinawiki.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*支维.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*balance.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*管理员.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*bbleae.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[麒麟].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ sm.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ av.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*议院.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[屎尿屁屄屌肏婊].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*太君.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*首相.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*大陆.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*内地.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*香港.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*台湾.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*澳门.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*兔杂.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*菟.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*1s.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*蛤蟆.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[草艹屮艸入飞干透日狙揎死你杀沙表烂穷驴骡鸡瞎瘸].*妈.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*禁评.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*小.*熊.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*包子.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*蛤蛤.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[支汁之织知芝吱汥枝滞脂][支汁之织知芝吱汥枝滞脂].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*脱[支脂].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*长者.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[乳汝辱如][包胞].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[馍模漠摸摩磨][蛤哈铪鉿].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*[李王张刘陈杨赵黄周吴徐孙胡朱高林何郭马罗梁宋郑谢韩唐冯于董萧程曹袁邓许傅沈曾彭吕苏卢蒋蔡贾丁魏薛叶阎余潘杜戴夏钟汪田任姜范方石姚谭廖邹熊金陆郝孔白崔康毛邱秦江史顾侯邵孟龙万段漕钱汤尹黎易常武乔贺赖龚文].*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*恶俗帝国.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*\=.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*\&lt;.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*\&gt;.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+ .*script.*&lt;newaccountonly|errmsg=titleblacklist-forbidden&gt;
+
+ #禁止含有以下关键词的账户、页面创建
+ .*支.*那.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*滞纳.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*天安门.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*天安門.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*文.*革.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*中.*共.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*共.*党.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*国民党.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*共.*匪.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*共.*产.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*泽.*东.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*贼.*东.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*近.*平.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*近平.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*庆丰.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*维尼.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*泽.*民.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*续命.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*续.*秒.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*周.*阳.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*周若梅.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*孟驰.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*chenyueqi.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*liwei.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*特朗普.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*佩洛西.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*金正恩.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*陈全国.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*夏宝龙.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*蔡奇.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*韩国瑜.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*梁振英.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*侯聚森.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*林檬.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*王骁.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*林郑月娥.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*赵克志.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*韦国清.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*梁盛皓.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*黄克兴.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*王岐山.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*刘广宁.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李鹏.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*郭声琨.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*赵皓阳.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*方滨兴.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李杰瀚.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*王尧.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*叶展源.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*周强.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*\.php$&lt;errmsg=titleblacklist-forbidden&gt;
+ .*favicon\.ico$&lt;errmsg=titleblacklist-forbidden&gt;
+ .*田佳良.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*田嘉良.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李育恩.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李宇恩.*&lt;errmsg=titleblacklist-forbidden&gt;
+ .*李暮梓.*&lt;errmsg=titleblacklist-forbidden&gt;</text>
+      <sha1>tka57hidy2xx6tpn2c1ehuyg8gmawmo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Vector.css</title>
+    <ns>8</ns>
+    <id>536</id>
+    <revision>
+      <id>1941</id>
+      <timestamp>2020-06-27T17:52:07Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“/* 这里放置的CSS将影响使用Vector皮肤的用户 */ /* 这里放置的CSS将影响使用Vector皮肤的用户 */ /* Override Vector colour scheme to make it…”</comment>
+      <origin>1941</origin>
+      <model>css</model>
+      <format>text/css</format>
+      <text bytes="21164" sha1="k8rtc0kajmkam8eb9sm7s3ko7furnff" xml:space="preserve">/* 这里放置的CSS将影响使用Vector皮肤的用户 */
+/* 这里放置的CSS将影响使用Vector皮肤的用户 */
+/* Override Vector colour scheme to make it dark (compiled from modified LESS code) */
+/* Override Vector colour scheme to make it dark (compiled from modified LESS code) */
+h1,h2,h3,h4,h5,h6
+{
+	color: #c1c1c1
+}
+
+hr
+{
+	color: #222
+}
+
+.editOptions
+{
+	background-color: #333;
+	border-color:rgba(76,76,76,0.5);
+}
+
+input,textarea
+{
+	background-color: rgba(255,255,255,0.5);
+	border-color: rgba(255,255,255,0.5);
+	color: #000
+}
+
+a,.mw-body a.external,.mw-body a.extiw
+{
+	color: #158FD9
+}
+
+a:visited,.mw-body a.external:visited,.mw-body a.extiw:visited
+{
+	color: #158FD9
+}
+
+a.new,#p-personal a.new
+{
+	color: #d44
+}
+
+ul
+{
+	list-style-image: none
+}
+
+div.thumbinner,.catlinks
+{
+	background-color: rgba(76,76,76,0.5);
+	border-color: #666
+}
+
+#toc,div.toc,ul#filetoc,li.gallerybox div.thumb
+{
+	background-color: rgba(76,76,76,0.5);
+	border-color: #666
+}
+
+code
+{
+	border: none;
+	background-color: inherit;
+	color: inherit
+}
+
+table.mw_metadata td,table.mw_metadata th,table.wikitable,table.wikitable&gt;*&gt;tr&gt;th,table.wikitable&gt;*&gt;tr&gt;td,pre
+{
+	color: #ccc;
+	background-color: rgba(76,76,76,0.5);
+	border-color: #666
+}
+
+table.mw_metadata th,table.wikitable&gt;*&gt;tr&gt;th
+{
+	background-color: #595959
+}
+
+table.diff
+{
+	background-color: rgba(76,76,76,0.5);
+}
+
+td .diffchange
+{
+	color:rgba(76,76,76,0.5);
+}
+
+#pagehistory li.selected,td.diff-context
+{
+	background-color: inherit;
+	color: inherit
+}
+
+#pagehistory li
+{
+	border: 0
+}
+
+ul.mw-gallery-packed-hover li.gallerybox:hover div.gallerytextwrapper,ul.mw-gallery-packed-overlay li.gallerybox div.gallerytextwrapper,ul.mw-gallery-packed-hover li.gallerybox.mw-gallery-focused div.gallerytextwrapper
+{
+	background-color: rgba(0,0,0,0.8)
+}
+
+#left-navigation div.vectorTabs ul li,#right-navigation div.vectorTabs ul li
+{
+	background-color: #222;
+	background-image: -moz-linear-gradient(top, #c6ffdd 0%,#162c35 10%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #c6ffdd), color-stop(10%, #162c35));
+	background-image: -webkit-linear-gradient(top, #c6ffdd 0%, #162c35 10%);
+	background-image: linear-gradient(#c6ffdd 0%,#162c35 10%);
+}
+
+#left-navigation div.vectorTabs li.new a,#right-navigation div.vectorTabs li.new a,#left-navigation div.vectorTabs li.new a:visited,#right-navigation div.vectorTabs li.new a:visited
+{
+	color: #d44
+}
+
+#left-navigation div.vectorTabs li.selected,#right-navigation div.vectorTabs li.selected
+{
+	background-color: #333;
+	background-image: -moz-linear-gradient(top, #c6ffdd 0, #162c36 10%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #c6ffdd), color-stop(10%, #162c36));
+	background-image: -webkit-linear-gradient(top, #c6ffdd 0, #162c36 10%);
+	background-image: linear-gradient(#c6ffdd 0, #162c36 10%)
+}
+
+#left-navigation div.vectorTabs li.selected a,#right-navigation div.vectorTabs li.selected a,#left-navigation div.vectorTabs li.selected a:visited,#right-navigation div.vectorTabs li.selected a:visited
+{
+	color: #158FD9
+}
+
+#left-navigation div.vectorTabs li a,#right-navigation div.vectorTabs li a
+{
+	color: #158FD9
+}
+
+#left-navigation div.vectorTabs span,#right-navigation div.vectorTabs span
+{
+	background: transparent
+}
+
+div#mw-head #right-navigation div.vectorMenu h3
+{
+	background: inherit
+}
+
+div#mw-head div.vectorMenu h3 span
+{
+	color: #158FD9
+}
+
+div.vectorMenu h3 a
+{
+	background: inherit
+}
+
+div.vectorMenu ul
+{
+	background-color: black;
+	border: solid 1px #0c0c0c
+}
+
+div.vectorMenu li a
+{
+	color: #158FD9
+}
+
+div.vectorMenu li.selected a,div.vectorMenu li.selected a:visited
+{
+	color: #158FD9;
+	text-decoration: none
+}
+
+div.vectorMenu#p-cactions div.menu
+{
+	border-color: #666
+}
+
+div.vectorMenu#p-cactions ul
+{
+	border: 0;
+	background-color: rgba(76,76,76,0.5);
+}
+
+#mw-navigation div#mw-panel div.portal
+{
+	background-image: none;
+	border-top: 1px solid rgba(76,76,76,0.5);
+}
+
+#mw-navigation div#mw-panel div.portal#p-logo,#mw-navigation div#mw-panel div.portal#p-navigation
+{
+	border-top: none
+}
+
+html
+{
+	font-size: 100%
+}
+
+html,body
+{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif
+}
+
+body
+{
+	background:linear-gradient(to right,#0f2027,#2c5364);
+}
+
+.mw-body
+{
+	border:1px solid #240b32;
+	margin-left: 10em;
+	padding: 1em;
+	border-right-width: 0;
+	margin-top: -1px;
+	background:linear-gradient(to right bottom,#355c7d,#6c5b7b);
+	color: #c1c1c1;
+	direction: ltr
+}
+
+.mw-body .mw-editsection,.mw-body .mw-editsection-like
+{
+	font-family: sans-serif
+}
+
+.mw-body p
+{
+	line-height: inherit;
+	margin: .5em 0
+}
+
+.mw-body h1,.mw-body h2,.mw-body #firstHeading
+{
+	font-family: "Linux Libertine",Georgia,Times,serif;
+	line-height: 1.3;
+	margin-bottom: .25em;
+	padding: 0
+}
+
+.mw-body h1,.mw-body #firstHeading
+{
+	font-size: 1.8em
+}
+
+.mw-body h2
+{
+	font-size: 1.5em;
+	margin-top: 1em
+}
+
+.mw-body h3,.mw-body h4,.mw-body h5,.mw-body h6
+{
+	line-height: 1.6;
+	margin-top: .3em;
+	margin-bottom: 0;
+	padding-bottom: 0
+}
+
+.mw-body h3
+{
+	font-size: 1.17em
+}
+
+.mw-body h3,.mw-body h4
+{
+	font-weight: bold
+}
+
+.mw-body h4,.mw-body h5,.mw-body h6
+{
+	font-size: 100%
+}
+
+.mw-body #toc h2,.mw-body .toc h2
+{
+	font-size: 100%;
+	font-family: sans-serif
+}
+
+div.emptyPortlet
+{
+	display: none
+}
+
+ul
+{
+	list-style-type: disc;
+	list-style-image: /* @embed */ url('skins/Vector/images/bullet-icon.png')
+}
+
+pre,.mw-code
+{
+	line-height: 1.3em
+}
+
+#siteNotice
+{
+	font-size: .8em
+}
+
+.redirectText
+{
+	font-size: 140%
+}
+
+.redirectMsg img
+{
+	vertical-align: text-bottom
+}
+
+.mw-body-content
+{
+	position: relative;
+	line-height: 1.6;
+	font-size: .875em
+}
+
+body.vector-animateLayout .mw-body,body.vector-animateLayout div#footer,body.vector-animateLayout #left-navigation
+{
+	-webkit-transition: margin-left 250ms,padding 250ms;
+	-moz-transition: margin-left 250ms,padding 250ms;
+	-o-transition: margin-left 250ms,padding 250ms;
+	transition: margin-left 250ms,padding 250ms
+}
+
+body.vector-animateLayout #p-logo
+{
+	-webkit-transition: left 250ms;
+	-moz-transition: left 250ms;
+	-o-transition: left 250ms;
+	transition: left 250ms
+}
+
+body.vector-animateLayout #mw-panel
+{
+	-webkit-transition: padding-right 250ms;
+	-moz-transition: padding-right 250ms;
+	-o-transition: padding-right 250ms;
+	transition: padding-right 250ms
+}
+
+body.vector-animateLayout #p-search
+{
+	-webkit-transition: margin-right 250ms;
+	-moz-transition: margin-right 250ms;
+	-o-transition: margin-right 250ms;
+	transition: margin-right 250ms
+}
+
+body.vector-animateLayout #p-personal
+{
+	-webkit-transition: right 250ms;
+	-moz-transition: right 250ms;
+	-o-transition: right 250ms;
+	transition: right 250ms
+}
+
+body.vector-animateLayout #mw-head-base
+{
+	-webkit-transition: margin-left 250ms;
+	-moz-transition: margin-left 250ms;
+	-o-transition: margin-left 250ms;
+	transition: margin-left 250ms
+}
+
+#p-personal
+{
+	position: absolute;
+	top: .33em;
+	right: .75em;
+	z-index: 100
+}
+
+#p-personal h3
+{
+	display: none
+}
+
+#p-personal ul
+{
+	list-style-type: none;
+	list-style-image: none;
+	margin: 0;
+	padding-left: 10em
+}
+
+#p-personal li
+{
+	line-height: 1.125em;
+	float: left;
+	margin-left: .75em;
+	margin-top: .5em;
+	font-size: .75em;
+	white-space: nowrap
+}
+
+#pt-userpage,#pt-anonuserpage
+{
+	background-position: left top;
+	background-repeat: no-repeat;
+	background-image: url('skins/Vector/images/user-icon.png');
+	background-image: -webkit-linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/user-icon.svg');
+	background-image: linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/user-icon.svg');
+	padding-left: 15px !important
+}
+
+#p-search
+{
+	float: left;
+	margin-right: .5em;
+	margin-left: .5em
+}
+
+#p-search h3
+{
+	display: none
+}
+
+#p-search form,#p-search input
+{
+	margin: 0;
+	margin-top: .4em
+}
+
+div#simpleSearch
+{
+	display: block;
+	width: 12.6em;
+	padding-right: 1.4em;
+	height: 1.4em;
+	margin-top: .65em;
+	position: relative;
+	min-height: 1px;
+	border: solid 1px #aaa;
+	color: black;
+	background-color: white;
+	background-image: /* @embed */ url('skins/Vector/images/search-fade.png');
+	background-position: top left;
+	background-repeat: repeat-x
+}
+
+div#simpleSearch input
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: transparent;
+	color: black
+}
+
+div#simpleSearch #searchInput
+{
+	width: 100%;
+	padding: .2em 0 .2em .2em;
+	font-size: 13px;
+	direction: ltr;
+	-webkit-appearance: textfield
+}
+
+div#simpleSearch #searchInput:focus
+{
+	outline: none
+}
+
+div#simpleSearch #searchInput.placeholder
+{
+	color: #158FD9
+}
+
+div#simpleSearch #searchInput:-ms-input-placeholder
+{
+	color: #158FD9
+}
+
+div#simpleSearch #searchInput:-moz-placeholder
+{
+	color: #158FD9
+}
+
+div#simpleSearch #searchInput::-webkit-search-decoration,div#simpleSearch #searchInput::-webkit-search-cancel-button,div#simpleSearch #searchInput::-webkit-search-results-button,div#simpleSearch #searchInput::-webkit-search-results-decoration
+{
+	-webkit-appearance: textfield
+}
+
+div#simpleSearch #searchButton,div#simpleSearch #mw-searchButton
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 1.65em;
+	height: 100%;
+	cursor: pointer;
+	text-indent: -99999px;
+	line-height: 1;
+	direction: ltr;
+	white-space: nowrap;
+	overflow: hidden;
+	background-image: url('skins/Vector/images/search-ltr.png');
+	background-image: -webkit-linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/search-ltr.svg');
+	background-image: linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/search-ltr.svg');
+	background-position: center center;
+	background-repeat: no-repeat
+}
+
+div#simpleSearch #mw-searchButton
+{
+	z-index: 1
+}
+
+div.vectorTabs h3
+{
+	display: none
+}
+
+div.vectorTabs
+{
+	float: left;
+	height: 2.5em;
+	background-image: /* @embed */ url('skins/Vector/images/tab-break.png');
+	background-position: bottom left;
+	background-repeat: no-repeat;
+	padding-left: 1px
+}
+
+div.vectorTabs ul
+{
+	float: left;
+	height: 100%;
+	list-style-type: none;
+	list-style-image: none;
+	margin: 0;
+	padding: 0;
+	background-image: /* @embed */ url('skins/Vector/images/tab-break.png');
+	background-position: right bottom;
+	background-repeat: no-repeat
+}
+
+div.vectorTabs ul li
+{
+	float: left;
+	line-height: 1.125em;
+	display: inline-block;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #f3f3f3;
+	background-image: /* @embed */ url('skins/Vector/images/tab-normal-fade.png');
+	background-position: bottom left;
+	background-repeat: repeat-x;
+	white-space: nowrap
+}
+
+div.vectorTabs ul&gt;li
+{
+	display: block
+}
+
+div.vectorTabs li.new a,div.vectorTabs li.new a:visited
+{
+	color: #a55858
+}
+
+div.vectorTabs li.selected
+{
+	background-image: /* @embed */ url('skins/Vector/images/tab-current-fade.png')
+}
+
+div.vectorTabs li.selected a,div.vectorTabs li.selected a:visited
+{
+	color: #333;
+	text-decoration: none
+}
+
+div.vectorTabs li.icon a
+{
+	background-position: bottom right;
+	background-repeat: no-repeat
+}
+
+div.vectorTabs li a
+{
+	display: inline-block;
+	height: 1.9em;
+	padding-left: .5em;
+	padding-right: .5em;
+	color: #ccc;
+	cursor: pointer;
+	font-size: .8em
+}
+
+div.vectorTabs li&gt;a
+{
+	display: block
+}
+
+div.vectorTabs span
+{
+	display: inline-block;
+	background-image: /* @embed */ url('skins/Vector/images/tab-break.png');
+	background-position: bottom right;
+	background-repeat: no-repeat
+}
+
+div.vectorTabs span a
+{
+	display: inline-block;
+	padding-top: 1.25em
+}
+
+div.vectorTabs span&gt;a
+{
+	float: left;
+	display: block
+}
+
+div.vectorMenu
+{
+	direction: ltr;
+	float: left;
+	cursor: pointer;
+	position: relative
+}
+
+body.rtl div.vectorMenu
+{
+	direction: rtl
+}
+
+div#mw-head div.vectorMenu h3
+{
+	float: left;
+	background-image: /* @embed */ url('skins/Vector/images/tab-break.png');
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	margin-left: -1px;
+	font-size: 1em;
+	height: 2.5em;
+	padding-right: 1px;
+	margin-right: -1px
+}
+
+div.vectorMenu h3 span
+{
+	display: block;
+	font-size: .8em;
+	padding-left: .7em;
+	padding-top: 1.375em;
+	margin-right: 20px;
+	font-weight: normal;
+	color: #4d4d4d
+}
+
+div.vectorMenu h3 a
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 20px;
+	height: 2.5em;
+	background-image: url('skins/Vector/images/arrow-down-icon.png');
+	background-image: -webkit-linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/arrow-down-icon.svg');
+	background-image: linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/arrow-down-icon.svg');
+	background-position: 100% 70%;
+	background-repeat: no-repeat;
+	-webkit-transition: background-position 250ms;
+	-moz-transition: background-position 250ms;
+	-o-transition: background-position 250ms;
+	transition: background-position 250ms
+}
+
+div.vectorMenu.menuForceShow h3 a
+{
+	background-position: 100% 100%
+}
+
+div.vectorMenuFocus h3 a
+{
+	background-image: url('skins/Vector/images/arrow-down-focus-icon.png');
+	background-image: -webkit-linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/arrow-down-focus-icon.svg');
+	background-image: linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/arrow-down-focus-icon.svg')
+}
+
+div.vectorMenu div.menu
+{
+	min-width: 100%;
+	position: absolute;
+	top: 2.5em;
+	left: -1px;
+	background-color: white;
+	border: solid 1px silver;
+	border-top-width: 0;
+	clear: both;
+	text-align: left;
+	display: none
+}
+
+div.vectorMenu:hover div.menu,div.vectorMenu.menuForceShow div.menu
+{
+	display: block
+}
+
+div.vectorMenu ul
+{
+	list-style-type: none;
+	list-style-image: none;
+	padding: 0;
+	margin: 0;
+	text-align: left
+}
+
+div.vectorMenu ul,x:-moz-any-link
+{
+	min-width: 5em
+}
+
+div.vectorMenu ul,x:-moz-any-link,x:default
+{
+	min-width: 0
+}
+
+div.vectorMenu li
+{
+	padding: 0;
+	margin: 0;
+	text-align: left;
+	line-height: 1em
+}
+
+div.vectorMenu li a
+{
+	display: inline-block;
+	padding: .5em;
+	white-space: nowrap;
+	color: #158FD9;
+	cursor: pointer;
+	font-size: .8em
+}
+
+div.vectorMenu li&gt;a
+{
+	display: block
+}
+
+div.vectorMenu li.selected a,div.vectorMenu li.selected a:visited
+{
+	color: #333;
+	text-decoration: none
+}
+
+@-webkit-keyframes rotate
+{
+	from
+	{
+		-webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		transform: rotate(0deg)
+	}
+
+	to
+	{
+		-webkit-transform: rotate(360deg);
+		-moz-transform: rotate(360deg);
+		transform: rotate(360deg)
+	}
+}
+
+@-moz-keyframes rotate
+{
+	from
+	{
+		-webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		transform: rotate(0deg)
+	}
+
+	to
+	{
+		-webkit-transform: rotate(360deg);
+		-moz-transform: rotate(360deg);
+		transform: rotate(360deg)
+	}
+}
+
+@-o-keyframes rotate
+{
+	from
+	{
+		-webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		transform: rotate(0deg)
+	}
+
+	to
+	{
+		-webkit-transform: rotate(360deg);
+		-moz-transform: rotate(360deg);
+		transform: rotate(360deg)
+	}
+}
+
+@keyframes rotate
+{
+	from
+	{
+		-webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		transform: rotate(0deg)
+	}
+
+	to
+	{
+		-webkit-transform: rotate(360deg);
+		-moz-transform: rotate(360deg);
+		transform: rotate(360deg)
+	}
+}
+
+#ca-unwatch.icon a,#ca-watch.icon a
+{
+	margin: 0;
+	padding: 0;
+	display: block;
+	width: 26px;
+	padding-top: 3.1em;
+	margin-top: 0;
+	height: 0;
+	overflow: hidden;
+	background-position: 5px 60%
+}
+
+#ca-unwatch.icon a
+{
+	background-image: url('skins/Vector/images/unwatch-icon.png');
+	background-image: -webkit-linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/unwatch-icon.svg');
+	background-image: linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/unwatch-icon.svg')
+}
+
+#ca-watch.icon a
+{
+	background-image: url('skins/Vector/images/watch-icon.png');
+	background-image: -webkit-linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/watch-icon.svg');
+	background-image: linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/watch-icon.svg')
+}
+
+#ca-unwatch.icon a:hover,#ca-unwatch.icon a:focus
+{
+	background-image: url('skins/Vector/images/unwatch-icon-hl.png');
+	background-image: -webkit-linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/unwatch-icon-hl.svg');
+	background-image: linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/unwatch-icon-hl.svg')
+}
+
+#ca-watch.icon a:hover,#ca-watch.icon a:focus
+{
+	background-image: url('skins/Vector/images/watch-icon-hl.png');
+	background-image: -webkit-linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/watch-icon-hl.svg');
+	background-image: linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/watch-icon-hl.svg')
+}
+
+#ca-unwatch.icon a.loading,#ca-watch.icon a.loading
+{
+	background-image: url('skins/Vector/images/watch-icon-loading.png');
+	background-image: -webkit-linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/watch-icon-loading.svg');
+	background-image: linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/watch-icon-loading.svg');
+	-webkit-animation: rotate 700ms infinite linear;
+	-moz-animation: rotate 700ms infinite linear;
+	-o-animation: rotate 700ms infinite linear;
+	animation: rotate 700ms infinite linear;
+	outline: none;
+	cursor: default;
+	pointer-events: none;
+	background-position: 50% 60%;
+	-webkit-transform-origin: 50% 57%;
+	transform-origin: 50% 57%
+}
+
+#ca-unwatch.icon a span,#ca-watch.icon a span
+{
+	display: none
+}
+
+#mw-navigation h2
+{
+	position: absolute;
+	top: -9999px
+}
+
+#mw-page-base
+{
+	height: 5em;
+	background-position: bottom left;
+	background-repeat: repeat-x;
+	background-image: url('skins/Vector/images/page-fade.png');
+	background:linear-gradient(left,#0f2027,#2c5364);
+	background-image: -moz-linear-gradient(left, #0f2027 20%,#2c5364 100%);
+	background-image: -webkit-gradient(linear, left, left bottom, color-stop(20%, #0f2027), color-stop(100%, #2c5364));
+	background-image: -webkit-linear-gradient(left, #0f2027 20%,#2c5364 100%);
+	background-image: linear-gradient(left, #0f2027 20%,#2c5364 100%);
+	background-color: #333
+}
+
+
+#mw-head-base
+{
+	margin-top: -5em;
+	margin-left: 10em;
+	height: 5em
+}
+
+div#mw-head
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 100%
+}
+
+div#mw-head h3
+{
+	margin: 0;
+	padding: 0
+}
+
+
+#right-navigation
+{
+	float: right;
+	margin-top: 2.5em
+}
+
+#p-logo
+{
+	position: absolute;
+	top: -160px;
+	left: 0;
+	width: 10em;
+	height: 160px
+}
+
+#p-logo a
+{
+	display: block;
+	width: 10em;
+	height: 160px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-decoration: none
+}
+
+div#mw-panel
+{
+	font-size: inherit;
+	position: absolute;
+	top: 160px;
+	padding-top: 1em;
+	width: 10em;
+	left: 0
+}
+
+div#mw-panel div.portal
+{
+	margin: 0 .6em 0 .7em;
+	padding: .25em 0;
+	direction: ltr;
+	background-position: top left;
+	background-repeat: no-repeat;
+	background-image: /* @embed */ url('skins/Vector/images/portal-break.png')
+}
+
+div#mw-panel div.portal h3
+{
+	font-size: .75em;
+	color: #4d4d4d;
+	font-weight: normal;
+	margin: 0;
+	padding: .25em 0 .25em .25em;
+	cursor: default;
+	border: none
+}
+
+div#mw-panel div.portal div.body
+{
+	margin: 0 0 0 1.25em;
+	padding-top: 0
+}
+
+div#mw-panel div.portal div.body ul
+{
+	list-style-type: none;
+	list-style-image: none;
+	margin: 0;
+	padding: 0
+}
+
+div#mw-panel div.portal div.body ul li
+{
+	line-height: 1.125em;
+	margin: 0;
+	padding: .25em 0;
+	font-size: .75em;
+	word-wrap: break-word
+}
+
+div#mw-panel div.portal div.body ul li a
+{
+	color: #158FD9
+}
+
+div#mw-panel div.portal div.body ul li a:visited
+{
+	color: #158FD9
+}
+
+div#mw-panel div.portal.first
+{
+	background-image: none;
+	margin-top: 0
+}
+
+div#mw-panel div.portal.first h3
+{
+	display: none
+}
+
+div#mw-panel div.portal.first div.body
+{
+	margin-left: .5em
+}
+
+div#footer
+{
+	margin-left: 10em;
+	margin-top: 0;
+	padding: .75em;
+	direction: ltr
+}
+
+div#footer ul
+{
+	list-style-type: none;
+	list-style-image: none;
+	margin: 0;
+	padding: 0
+}
+
+div#footer ul li
+{
+	margin: 0;
+	padding: 0;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	color: #333;
+	font-size: .7em
+}
+
+div#footer #footer-icons
+{
+	float: right
+}
+
+div#footer #footer-icons li
+{
+	float: left;
+	margin-left: .5em;
+	line-height: 2em;
+	text-align: right
+}
+
+div#footer #footer-info li
+{
+	line-height: 1.4em
+}
+
+div#footer #footer-places li
+{
+	float: left;
+	margin-right: 1em;
+	line-height: 2em
+}
+
+body.ltr div#footer #footer-places
+{
+	float: left
+}
+
+.mw-body .external
+{
+	background-position: center right;
+	background-repeat: no-repeat;
+	background-image: url('skins/Vector/images/external-link-ltr-icon.png');
+	background-image: -webkit-linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/external-link-ltr-icon.svg');
+	background-image: linear-gradient(transparent, transparent),/* @embed */ url('skins/Vector/images/external-link-ltr-icon.svg');
+	padding-right: 13px
+}
+#left-navigation div.vectorTabs ul,#right-navigation div.vectorTabs ul
+{
+	background-image:inherit;
+	background-color:#240b32;
+}
+#left-navigation div.vectorTabs,#right-navigation div.vectorTabs
+{
+	background-image: inherit;
+	background-color:#240b32;
+}
+#left-navigation
+{
+	background-color:#240b32;
+	float: left;
+	margin-left: 10em;
+	margin-top: 2.5em;
+	margin-bottom: -2.5em;
+	display: inline
+}
+/* 这里放置的CSS将应用于所有皮肤 */
+div#c-avatar.style
+{
+	width:50px!important;
+	height:50px!important;
+}</text>
+      <sha1>k8rtc0kajmkam8eb9sm7s3ko7furnff</sha1>
+    </revision>
+  </page>
+</mediawiki>

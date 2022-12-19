@@ -1,0 +1,548 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hans-CN">
+  <siteinfo>
+    <sitename>恶俗百科</sitename>
+    <dbname>my_wiki</dbname>
+    <base>http://localhost:8080/index.php?title=%E9%A6%96%E9%A1%B5</base>
+    <generator>MediaWiki 1.39.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">媒体文件</namespace>
+      <namespace key="-1" case="first-letter">特殊</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">讨论</namespace>
+      <namespace key="2" case="first-letter">用户</namespace>
+      <namespace key="3" case="first-letter">用户讨论</namespace>
+      <namespace key="4" case="first-letter">恶俗百科</namespace>
+      <namespace key="5" case="first-letter">恶俗百科讨论</namespace>
+      <namespace key="6" case="first-letter">文件</namespace>
+      <namespace key="7" case="first-letter">文件讨论</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki讨论</namespace>
+      <namespace key="10" case="first-letter">模板</namespace>
+      <namespace key="11" case="first-letter">模板讨论</namespace>
+      <namespace key="12" case="first-letter">帮助</namespace>
+      <namespace key="13" case="first-letter">帮助讨论</namespace>
+      <namespace key="14" case="first-letter">分类</namespace>
+      <namespace key="15" case="first-letter">分类讨论</namespace>
+      <namespace key="828" case="first-letter">模块</namespace>
+      <namespace key="829" case="first-letter">模块讨论</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>恶俗百科:免责声明</title>
+    <ns>4</ns>
+    <id>150</id>
+    <revision>
+      <id>1528</id>
+      <timestamp>2020-08-21T06:16:36Z</timestamp>
+      <contributor>
+        <username>imported&gt;Sumuxi</username>
+        <id>0</id>
+      </contributor>
+      <comment>添加内容</comment>
+      <origin>1528</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="66" sha1="2yk4iljojt7212x8tuts8f1a1jgcli2" xml:space="preserve">所有信息为网友提供，本站不负责任何法律责任！</text>
+      <sha1>2yk4iljojt7212x8tuts8f1a1jgcli2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>恶俗百科:创建账户须知</title>
+    <ns>4</ns>
+    <id>151</id>
+    <revision>
+      <id>1529</id>
+      <timestamp>2020-07-26T10:36:08Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“==创建账户的入口== 创建账户的入口为{{color|blue|https://esu.miraheze.org/wiki/%E7%89%B9%E6%AE%8A:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7}} ==常见问题…”</comment>
+      <origin>1529</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="350" sha1="lin9d03poqkjzsc1fwhf3bskcw3c1u4" xml:space="preserve">==创建账户的入口==
+创建账户的入口为{{color|blue|https://esu.miraheze.org/wiki/%E7%89%B9%E6%AE%8A:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7}}
+==常见问题==
+Q：为什么显示验证码丢失？
+A：那是因为你在注册账号的时候没有完成验证。
+
+Q：为什么验证码没有显示出来？
+A：挂梯子即可正常显示。</text>
+      <sha1>lin9d03poqkjzsc1fwhf3bskcw3c1u4</sha1>
+    </revision>
+    <revision>
+      <id>1530</id>
+      <parentid>1529</parentid>
+      <timestamp>2020-07-26T10:37:07Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 创建账户的入口 */</comment>
+      <origin>1530</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="358" sha1="ej9o7empuqjtd7gnrfctq6licrkw25a" xml:space="preserve">==创建账户的入口==
+创建账户的入口为[https://esu.miraheze.org/wiki/%E7%89%B9%E6%AE%8A:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7 特殊:创建账户]
+
+==常见问题==
+Q：为什么显示验证码丢失？
+A：那是因为你在注册账号的时候没有完成验证。
+
+Q：为什么验证码没有显示出来？
+A：挂梯子即可正常显示。</text>
+      <sha1>ej9o7empuqjtd7gnrfctq6licrkw25a</sha1>
+    </revision>
+    <revision>
+      <id>1531</id>
+      <parentid>1530</parentid>
+      <timestamp>2020-07-26T10:37:53Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 常见问题 */</comment>
+      <origin>1531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="360" sha1="pd7bkjctqbsr74500x458partol788f" xml:space="preserve">==创建账户的入口==
+创建账户的入口为[https://esu.miraheze.org/wiki/%E7%89%B9%E6%AE%8A:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7 特殊:创建账户]
+
+==常见问题==
+Q：为什么显示验证码丢失？&lt;br&gt;
+A：因为你在注册账号的时候没有完成验证。
+
+Q：为什么验证码没有显示出来？&lt;br&gt;
+A：挂梯子即可正常显示。</text>
+      <sha1>pd7bkjctqbsr74500x458partol788f</sha1>
+    </revision>
+    <revision>
+      <id>1532</id>
+      <parentid>1531</parentid>
+      <timestamp>2020-07-26T10:40:30Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1532</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="276" sha1="p2h7h14wjurhyntsgms6g9u4oivvupi" xml:space="preserve">==创建账户的入口==
+创建账户的入口为[[特殊:创建账户]]
+
+==常见问题==
+Q：为什么显示验证码丢失？&lt;br&gt;
+A：因为你在注册账号的时候没有完成验证。
+
+Q：为什么验证码没有显示出来？&lt;br&gt;
+A：挂梯子即可正常显示。</text>
+      <sha1>p2h7h14wjurhyntsgms6g9u4oivvupi</sha1>
+    </revision>
+    <revision>
+      <id>1533</id>
+      <parentid>1532</parentid>
+      <timestamp>2020-07-26T12:27:14Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1533</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="h3zhsf5cvsbw1zxgf1a39nodydzdxqs" xml:space="preserve">==创建账户的入口==
+创建账户的入口为[[特殊:创建账户]]
+
+==常见问题==
+Q：为什么显示验证码丢失？&lt;br&gt;
+A：因为你在注册账号的时候没有完成验证。
+
+Q：为什么验证码没有显示出来？&lt;br&gt;
+A：验证码被墙了，挂梯子即可正常显示。</text>
+      <sha1>h3zhsf5cvsbw1zxgf1a39nodydzdxqs</sha1>
+    </revision>
+    <revision>
+      <id>1534</id>
+      <parentid>1533</parentid>
+      <timestamp>2020-07-27T15:54:49Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1534</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="306" sha1="84t83ks7pfymtgn1r96wtnwuxn9es86" xml:space="preserve">==创建账户的入口==
+创建账户的入口为[[特殊:创建账户]]
+
+==常见问题==
+Q：为什么无法注册？&lt;br&gt;
+A：因为图片验证码被墙了，无法显示验证码，所以无法注册。解决方法为：挂梯子刷新页面，等待图片验证码显示，并完成验证码即可。</text>
+      <sha1>84t83ks7pfymtgn1r96wtnwuxn9es86</sha1>
+    </revision>
+    <revision>
+      <id>1535</id>
+      <parentid>1534</parentid>
+      <timestamp>2020-07-27T16:11:32Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1535</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="408" sha1="ij3tc1q8ka1olxuwq7oezevxmovcey8" xml:space="preserve">==创建账户的入口==
+创建账户的入口为[[特殊:创建账户]]
+
+==常见问题==
+Q：为什么无法注册？&lt;br&gt;
+A：因为图片验证码被墙了，无法显示验证码，所以无法注册。解决方法为：挂梯子刷新页面，等待图片验证码显示，并完成验证码即可。（需要等待较长时间，验证码才会显示，验证码的样式由两个蓝色箭头组成）</text>
+      <sha1>ij3tc1q8ka1olxuwq7oezevxmovcey8</sha1>
+    </revision>
+    <revision>
+      <id>1536</id>
+      <parentid>1535</parentid>
+      <timestamp>2020-07-27T16:11:58Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1536</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="402" sha1="hdr3htelivjv9dtfmj2dmku4atd5ps1" xml:space="preserve">==创建账户的入口==
+创建账户的入口为[[特殊:创建账户]]
+
+==常见问题==
+Q：为什么无法注册？&lt;br&gt;
+A：因为图片验证码被墙了，无法显示验证码，所以无法注册。解决方法为：挂梯子刷新页面，等待图片验证码显示，并完成验证码即可。（需要等待较长时间，验证码才会显示，验证码的样式由两个箭头组成）</text>
+      <sha1>hdr3htelivjv9dtfmj2dmku4atd5ps1</sha1>
+    </revision>
+    <revision>
+      <id>1537</id>
+      <parentid>1536</parentid>
+      <timestamp>2020-08-06T13:11:21Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 常见问题 */</comment>
+      <origin>1537</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="436" sha1="g6yy6ixtqrdpncm6z0nvmrnq7tlggrq" xml:space="preserve">==创建账户的入口==
+创建账户的入口为[[特殊:创建账户]]
+
+==常见问题==
+Q：为什么无法注册？&lt;br&gt;
+A：因为图片验证码被墙了，所以无法显示验证码。解决方法：
+#挂梯子将注册信息填写完整，提交后等待图片验证码显示，并完成验证码即可。（需要等待较长时间，验证码才会显示，验证码的样式由两个箭头组成）。
+#找管理员注册。</text>
+      <sha1>g6yy6ixtqrdpncm6z0nvmrnq7tlggrq</sha1>
+    </revision>
+    <revision>
+      <id>1538</id>
+      <parentid>1537</parentid>
+      <timestamp>2020-08-06T14:14:40Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1538</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="456" sha1="97cwgap49yy4gs9i90enhd6s21lrws1" xml:space="preserve">==创建账户的入口==
+创建账户的入口为[[特殊:创建账户]]
+
+==常见问题==
+Q：为什么无法注册？&lt;br&gt;
+A：因为图片验证码被墙了，所以无法显示验证码。解决方法：
+#挂梯子将注册信息填写完整，提交后等待图片验证码显示，并完成验证码即可。（需要等待较长时间，验证码才会显示，验证码的样式由两个箭头组成）。
+#找管理员（tg@guoxinyi886）注册。</text>
+      <sha1>97cwgap49yy4gs9i90enhd6s21lrws1</sha1>
+    </revision>
+    <revision>
+      <id>1539</id>
+      <parentid>1538</parentid>
+      <timestamp>2020-08-16T19:57:04Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1539</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="2i3zk1dz81culrq7fh8bz970fyac9dc" xml:space="preserve">*使用VPN进行[[特殊:创建账户|👉注册👈]]
+**移动端用户还需点击底部的“电脑视图”
+*将昵称、密码、邮箱填写完整后提交
+**此时底部会显示一行字，字的下面会出现一个带有箭头的巨大按钮（如未显示请耐心等待）
+*点击按钮进行图片验证，按照文字提示选择图片
+*验证通过后选择提交即可
+若以上步骤无效或仍然不会注册请联系笔者tg（@guoxinyi886）</text>
+      <sha1>2i3zk1dz81culrq7fh8bz970fyac9dc</sha1>
+    </revision>
+    <revision>
+      <id>1540</id>
+      <parentid>1539</parentid>
+      <timestamp>2020-08-16T20:00:19Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1540</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="468" sha1="5pdtd0fadsfv9z2qwtuq53bolm6hfqe" xml:space="preserve">*打开VPN进入[[特殊:创建账户|👉注册入口👈]]
+**移动端用户还需点击底部的“电脑视图”
+*将昵称、密码、邮箱填写完整后提交
+**此时底部会显示一行字，字的下面会出现一个带有箭头的巨大按钮（如未显示请耐心等待）
+*点击按钮进行图片验证，按照文字提示选择图片
+*验证通过后选择提交即可
+若以上步骤无效或仍然不会注册请联系笔者tg（@guoxinyi886）</text>
+      <sha1>5pdtd0fadsfv9z2qwtuq53bolm6hfqe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>恶俗百科:沙盒</title>
+    <ns>4</ns>
+    <id>152</id>
+    <revision>
+      <id>1541</id>
+      <timestamp>2020-08-09T04:24:31Z</timestamp>
+      <contributor>
+        <username>imported&gt;测试号</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“test”</comment>
+      <origin>1541</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4" sha1="jrwjerxiekdtj9k82lg930wpkr6tq6r" xml:space="preserve">test</text>
+      <sha1>jrwjerxiekdtj9k82lg930wpkr6tq6r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>恶俗百科:版主审核通则</title>
+    <ns>4</ns>
+    <id>153</id>
+    <revision>
+      <id>1542</id>
+      <timestamp>2020-08-03T17:42:16Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建空白页面</comment>
+      <origin>1542</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>恶俗百科:留言板</title>
+    <ns>4</ns>
+    <id>62</id>
+    <revision>
+      <id>1543</id>
+      <timestamp>2020-07-28T16:25:05Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“Welcome to ESU!!!!!!!!!!!&lt;br&gt; &lt;br&gt; 这里是为匿名游客开放的留言板，如果您想编辑条目，请注册账户。&lt;br&gt; &lt;br&gt; 此留言板仅为用户提供…”</comment>
+      <origin>1543</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="338" sha1="8q17k4gfrz4wfrp4hle9qtha0by24ro" xml:space="preserve">Welcome to ESU!!!!!!!!!!!&lt;br&gt;
+&lt;br&gt;
+这里是为匿名游客开放的留言板，如果您想编辑条目，请注册账户。&lt;br&gt;
+&lt;br&gt;
+此留言板仅为用户提供交流平台，除管理员进行站务通知等特殊情况外，无论匿名用户还是注册用户，发表的观点只能代表其个人立场。
+---------
+&lt;comments /&gt;</text>
+      <sha1>8q17k4gfrz4wfrp4hle9qtha0by24ro</sha1>
+    </revision>
+    <revision>
+      <id>1544</id>
+      <parentid>1543</parentid>
+      <timestamp>2020-07-30T15:35:44Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1544</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="439" sha1="qs5lyldy2sqtcp89c5saupzhj9x1fl6" xml:space="preserve">Welcome to ESU!!!!!!!!!!!&lt;br&gt;
+&lt;br&gt;
+这里是为注册用户开放的留言板，'''如果您是匿名用户，请前往[https://esutest.miraheze.org/wiki/恶俗百科（测试站）:留言板 匿名用户留言板]留言。'''&lt;br&gt;
+&lt;br&gt;
+此留言板仅为用户提供交流平台，除管理员进行站务通知等特殊情况外，无论匿名用户还是注册用户，发表的观点只能代表其个人立场。
+---------
+&lt;comments /&gt;</text>
+      <sha1>qs5lyldy2sqtcp89c5saupzhj9x1fl6</sha1>
+    </revision>
+    <revision>
+      <id>1545</id>
+      <parentid>1544</parentid>
+      <timestamp>2020-07-30T15:50:55Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1545</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="423" sha1="bwejltfytlekk1tk9xwebcq3cw84zm8" xml:space="preserve">Welcome to ESU!!!!!!!!!!!
+
+这里是为注册用户开放的留言板，'''如果您是匿名用户，请前往[https://esutest.miraheze.org/wiki/恶俗百科（测试站）:留言板 匿名用户留言板]留言。'''
+
+此留言板仅为用户提供交流平台，除管理员进行站务通知等特殊情况外，无论匿名用户还是注册用户，发表的观点只能代表其个人立场。
+---------
+&lt;comments /&gt;</text>
+      <sha1>bwejltfytlekk1tk9xwebcq3cw84zm8</sha1>
+    </revision>
+    <revision>
+      <id>706</id>
+      <timestamp>2020-07-31T08:06:10Z</timestamp>
+      <contributor>
+        <username>imported&gt;额好</username>
+        <id>0</id>
+      </contributor>
+      <comment>创建页面，内容为“[https://esutest.miraheze.org/wiki/%E6%81%B6%E4%BF%97%E7%99%BE%E7%A7%91%EF%BC%88%E6%B5%8B%E8%AF%95%E7%AB%99%EF%BC%89:%E7%95%99%E8%A8%80%E6%9D%BF# 由于一恢复匿…”</comment>
+      <origin>706</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="357" sha1="dagturapfb02is6wcz4c1uicx49tbvo" xml:space="preserve">[https://esutest.miraheze.org/wiki/%E6%81%B6%E4%BF%97%E7%99%BE%E7%A7%91%EF%BC%88%E6%B5%8B%E8%AF%95%E7%AB%99%EF%BC%89:%E7%95%99%E8%A8%80%E6%9D%BF# 由于一恢复匿名用户的评论权限，吴大佐就会来刷评论，这会导致维基的访问速度变慢，甚至是数据库崩溃，所以暂时不考虑在本站恢复匿名用户的评论权限。]</text>
+      <sha1>dagturapfb02is6wcz4c1uicx49tbvo</sha1>
+    </revision>
+    <revision>
+      <id>1546</id>
+      <parentid>706</parentid>
+      <timestamp>2020-08-05T09:03:49Z</timestamp>
+      <contributor>
+        <username>imported&gt;额好</username>
+        <id>0</id>
+      </contributor>
+      <origin>1546</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="450" sha1="9guqauil2pkllj6hyuegscdbe00mujj" xml:space="preserve">Welcome to ESU!!!!!!!!!!!
+
+这里是为注册用户开放的留言板，'''如果您是匿名用户，请前往[https://esutest.miraheze.org/wiki/%E2%86%91%E2%86%93%E7%BB%B4%E5%9F%BA:%E7%95%99%E8%A8%80%E6%9D%BF 匿名用户留言板]留言。'''
+
+此留言板仅为用户提供交流平台，除管理员进行站务通知等特殊情况外，无论匿名用户还是注册用户，发表的观点只能代表其个人立场。
+---------
+&lt;comments /&gt;</text>
+      <sha1>9guqauil2pkllj6hyuegscdbe00mujj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>恶俗百科:百科守则</title>
+    <ns>4</ns>
+    <id>154</id>
+    <revision>
+      <id>1547</id>
+      <timestamp>2020-08-03T17:39:08Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <comment>/* 注释 */</comment>
+      <origin>1547</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3576" sha1="im9o1yeebelw8zmc5vii33cclr9vrow" xml:space="preserve">*恶俗百科旨在揭露并记录事实，希望各位以正确态度看待恶俗百科，以被收录者为戒，切勿重蹈覆辙，遭人唾弃。
+
+*恶俗百科不是喷神维基，恶俗百科禁止创建除瞎骂、键政以外无任何事迹人物的条目。若仍有用户创建此类条目，该用户将被处以永久封禁。
+
+*不要因为一些小事就将别人挂上恶俗百科，恶俗百科不是战场，请另辟蹊径或自我高潮。恶俗百科绝不支持因他人说错一句话而对他人进行大肆迫害甚至出道的行为。
+
+*恶俗百科不是娱乐新闻，恶俗百科不建议创建任何公众人物的条目，不符合最低标准&lt;ref&gt;一个成功的页面，至少要让大多数人看完之后认为“这人死妈”。&lt;/ref&gt;的新页面将被删除。
+
+*恶俗百科不允许任何形式的条目编辑战。若发生编辑战，管理员将进行调停，并视情况对参与编辑战的用户予以处罚。
+
+*恶俗百科不是某些人士自我炒作的平台，恶俗百科建议冷处理主要事迹只有所谓“反恶俗”的魔怔人士。对于未提供真实信息的自我炒作人士，恶俗百科不会协助其出道。对于已提供真实信息的自我炒作人士，视与恶俗百科社群的关系等具体情况而定，但此类人士不具备登上恶俗百科首页的资质。
+
+*恶俗百科禁止用户在条目、用户页、评论区的一切自我炒作行为，包括但不限于自我出道。
+
+*恶俗百科禁止任何政治人物的条目，违者将被永久封禁，如需举报请发送邮件。
+
+*恶俗百科不建议对已经完全回归虚无&lt;ref&gt;一般指3至6个月以上毫无音讯的人士。&lt;/ref&gt;或互动性极低的人物&lt;ref&gt;例如一些完全不可能互动的公众人物。&lt;/ref&gt;进行出道或追加出道。
+
+*对于已经在恶俗百科有所记载，但回归虚无或认错态度良好的人士，建议暂停对其页面的更新&lt;ref&gt;你舍得打破这份宁静吗？&lt;/ref&gt;，若其继续负面活动&lt;ref&gt;单独列出最新事迹也足以享受出道待遇或其他同样恶劣的情况，私人纠纷不在此列。&lt;/ref&gt;，则更新继续。
+
+*恶俗百科不建议在负面活动发生时对已经终止迫害之硬汉进行有罪推定。
+在进行页面编辑前，请先阅读格式标准，再对页面进行适当的编辑。
+
+*恶俗百科用户账号不是该用户黑屁或盈利的资本，如发现较恶劣的情况，该用户的账号将被封停。
+
+*恶俗百科用户账号仅限用户一人使用，若发现多人共享账号的情况，该用户的账号将被封停。
+
+*恶俗百科不建议用户创建傀儡账号，若发现非公开的傀儡账号，视情况给予相应处理。
+
+*恶俗百科管理员拥有对账号以及页面进行操作的最高权限，包括但不限于“无理由封停账号”等。
+
+*查看，使用，发布或编辑恶俗百科上的内容，即代表您已经知晓并同意版权声明和隐私政策。
+
+*关于请求删除内容和提交滥用报告，请参阅Help:内容政策和数据的删除和变更。
+
+*请勿在恶俗百科条目评论区中发表不当或无根据的言论，例如瞎骂、造谣等，对于用户在恶俗百科条目评论区中的一切言论，恶俗百科管理员拥有完全管辖权，包括但不限于删除评论、封禁IP等。
+
+*此守则由社区维护，不完全代表恶俗百科运营方的意见。
+
+*恶俗百科管理员拥有修改此守则的权限，恶俗百科保留此守则最终解释权。
+==注释==
+&lt;references/&gt;
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>im9o1yeebelw8zmc5vii33cclr9vrow</sha1>
+    </revision>
+    <revision>
+      <id>1548</id>
+      <parentid>1547</parentid>
+      <timestamp>2020-08-06T05:50:33Z</timestamp>
+      <contributor>
+        <username>imported&gt;莉夏大师</username>
+        <id>0</id>
+      </contributor>
+      <origin>1548</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3559" sha1="tauida3tyrojvk26lqs2gqghca3am1e" xml:space="preserve">#恶俗百科旨在揭露并记录事实，希望各位以正确态度看待恶俗百科，以被收录者为戒，切勿重蹈覆辙，遭人唾弃。
+#恶俗百科不是喷神维基，恶俗百科禁止创建除瞎骂、键政以外无任何事迹人物的条目。若仍有用户创建此类条目，该用户将被处以永久封禁。
+#不要因为一些小事就将别人挂上恶俗百科，恶俗百科不是战场，请另辟蹊径或自我高潮。恶俗百科绝不支持因他人说错一句话而对他人进行大肆迫害甚至出道的行为。
+#恶俗百科不是娱乐新闻，恶俗百科不建议创建任何公众人物的条目，不符合最低标准&lt;ref&gt;一个成功的页面，至少要让大多数人看完之后认为“这人死妈”。&lt;/ref&gt;的新页面将被删除。
+#恶俗百科不允许任何形式的条目编辑战。若发生编辑战，管理员将进行调停，并视情况对参与编辑战的用户予以处罚。
+#恶俗百科不是某些人士自我炒作的平台，恶俗百科建议冷处理主要事迹只有所谓“反恶俗”的魔怔人士。对于未提供真实信息的自我炒作人士，恶俗百科不会协助其出道。对于已提供真实信息的自我炒作人士，视与恶俗百科社群的关系等具体情况而定，但此类人士不具备登上恶俗百科首页的资质。
+#恶俗百科禁止用户在条目、用户页、评论区的一切自我炒作行为，包括但不限于自我出道。
+#恶俗百科禁止任何政治人物的条目，违者将被永久封禁，如需举报请发送邮件。
+#恶俗百科不建议对已经完全回归虚无&lt;ref&gt;一般指3至6个月以上毫无音讯的人士。&lt;/ref&gt;或互动性极低的人物&lt;ref&gt;例如一些完全不可能互动的公众人物。&lt;/ref&gt;进行出道或追加出道。
+#对于已经在恶俗百科有所记载，但回归虚无或认错态度良好的人士，建议暂停对其页面的更新&lt;ref&gt;你舍得打破这份宁静吗？&lt;/ref&gt;，若其继续负面活动&lt;ref&gt;单独列出最新事迹也足以享受出道待遇或其他同样恶劣的情况，私人纠纷不在此列。&lt;/ref&gt;，则更新继续。
+#恶俗百科不建议在负面活动发生时对已经终止迫害之硬汉进行有罪推定。
+#在进行页面编辑前，请先阅读格式标准，再对页面进行适当的编辑。
+#恶俗百科用户账号不是该用户黑屁或盈利的资本，如发现较恶劣的情况，该用户的账号将被封停。
+#恶俗百科用户账号仅限用户一人使用，若发现多人共享账号的情况，该用户的账号将被封停。
+#恶俗百科不建议用户创建傀儡账号，若发现非公开的傀儡账号，视情况给予相应处理。
+#恶俗百科管理员拥有对账号以及页面进行操作的最高权限，包括但不限于“无理由封停账号”等。
+#查看，使用，发布或编辑恶俗百科上的内容，即代表您已经知晓并同意版权声明和隐私政策。
+#关于请求删除内容和提交滥用报告，请参阅Help:内容政策和数据的删除和变更。
+#请勿在恶俗百科条目评论区中发表不当或无根据的言论，例如瞎骂、造谣等，对于用户在恶俗百科条目评论区中的一切言论，恶俗百科管理员拥有完全管辖权，包括但不限于删除评论、封禁IP等。
+#此守则由社区维护，不完全代表恶俗百科运营方的意见。
+#恶俗百科管理员拥有修改此守则的权限，恶俗百科保留此守则最终解释权。
+
+==注释==
+&lt;references/&gt;
+==评论==
+&lt;comments/&gt;</text>
+      <sha1>tauida3tyrojvk26lqs2gqghca3am1e</sha1>
+    </revision>
+  </page>
+</mediawiki>
